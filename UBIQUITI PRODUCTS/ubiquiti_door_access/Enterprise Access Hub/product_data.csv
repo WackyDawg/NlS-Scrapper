@@ -1,0 +1,62 @@
+Name: Enterprise Access Hub
+Price: $999.00
+Product URL: https://store.ui.com/us/en/pro/category/all-door-access/products/eah-8
+Specifications: "Enterprise-grade access hub with entry and exit control up to eight doors and battery backup support."
+Features: "(8) Lock terminals (12V or Dry)
+
+(8+8) Inputs for request-to-exit devices and door position sensors
+
+(8) PoE ports for Access Readers
+
+(4) AUX terminals for chimes, sirens, or door openers
+
+(1) Battery backup input (32–48V)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "379 x 355 x 105 mm (15 x 14 x 4.1\")",
+      "Weight": "Device: 9.1 kg (20 lb)Mount: 624 g (1.4 lb)",
+      "Enclosure material": "SGCC housing with PC cover",
+      "Mounting material": "SGCC wall mount plate"
+    },
+    "Hardware": {
+      "Networking interface": "(10) 10/100/1000 Base-T",
+      "Power method": "Universal input, 100–240V AC, Max. 4.4A, 50/60Hz32–48V DC Lead Acid Battery, Max. 7.5A @32V",
+      "Power supply": "AC/DC, internal",
+      "Max. power consumption": "240W",
+      "PoE interface": "(8) PoE (Pins 1, 2+; 3, 6-)",
+      "Voltage range PoE mode": "44–57V DC",
+      "Total available PoE": "60W",
+      "Max. PoE wattage per port": "15.4W",
+      "LEDs": "System: white/blue\nOutput relays: steady white\nEthernet: flashing white",
+      "Button": "(1) Factory-reset",
+      "Digital input": "(8) Inputs for request-to-exit devices\n(8) Inputs for door position sensors\n(1) Emergency",
+      "Dry output relay": "(8) Lock terminals (12V or Dry)\n(4) AUX terminals for advanced setup (Chime/Siren/Door opener)",
+      "Powered output relay": "Lock: 12V DC, 1A/ Dry\nAux: Dry only"
+    },
+    "": {},
+    "LED": {
+      "System": "Steady blue: adopted, device is ready\nSteady white: pending adoption\nBlinking white/blue: upgrading firmware\nBreathing white: system initiating"
+    },
+    "Software": {
+      "Management application": "UniFi Access: Version 1.22.17 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "G2 Reader Pro",
+    "price": "$359.00",
+    "specifications": []
+  },
+  {
+    "name": "Pocket Keyfob",
+    "price": "$99.00",
+    "specifications": []
+  },
+  {
+    "name": "Magnetic Lock",
+    "price": "$130.00",
+    "specifications": []
+  }
+]

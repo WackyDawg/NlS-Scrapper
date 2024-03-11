@@ -1,0 +1,38 @@
+Name: Display Cast
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/uc-cast
+Specifications: "Instantly transform any TV display into a managed digital signage device."
+Features: "Connects to any HDMI-compatible display
+
+Supports media content playback up to 4K resolution
+
+Presents multimedia playlists managed in UniFi Connect
+
+Create dynamic digital signage content with UniFi Connect’s layout creator
+
+HDMI CEC support to automatically control displays
+
+PoE in or USB-C adapter power
+
+Note. Does not support Protect camera streaming. Use Protect Viewport to view Protect camera feeds on an HDMI display."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Without mount: 90 x 52 x 31 mm (3.5 x 2.1 x 1.2\") With mount: 92.1 x 56.3 x 35.7 mm (3.6 x 2.1 x 1.4\")",
+      "Weight": "Without mount: 163 g (5.8 oz) With mount: 183 g (6.5 oz)"
+    },
+    "Hardware": {
+      "Processor": "Quad-core Arm® Cortex®-A55,1.9 GHz",
+      "Memory": "Storage: 16 GB\nDRAM: 2 GB",
+      "Power method": "PoE, 48V DC, 0.104A USB-C 5V DC, 1A",
+      "Connectivity": "(1) GbE RJ45 port",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "20 to 90% noncondensing",
+      "Certifications": "FCC, IC"
+    },
+    "Software": {
+      "Management application": "UniFi Connect web: Version 1.6.6 and laterUniFi Connect iOS™ and Android™"
+    }
+  }
+}
+Addons: []

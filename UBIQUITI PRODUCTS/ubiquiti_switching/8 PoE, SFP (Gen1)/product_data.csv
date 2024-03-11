@@ -1,0 +1,58 @@
+Name: 8 PoE, SFP (Gen1)
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/us-8-150w
+Specifications: "An 8-port, Layer 2 PoE switch with a fanless cooling system."
+Features: "(8) GbE PoE+ ports*
+
+(2) 1G SFP ports
+
+130W total PoE availability
+
+*Also offers 24V passive PoE support."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "235 x 43 x 204 mm (9.3 x 1.7 x 8\")",
+      "Weight": "1.7 kg (3.7 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(8) GbE RJ45 ports\n(2) 1G SFP ports",
+      "PoE interface": "(8) PoE/PoE+ (Pins 1, 2+; 3, 6-)24V DC passive PoE (Pins 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "10 Gbps",
+      "Switching capacity": "20 Gbps",
+      "Forwarding rate": "14.88 Mpps",
+      "Power method": "Universal input, 100—240V AC, 50/60 Hz",
+      "Power supply": "AC/DC, internal, 150W",
+      "Max. power consumption": "20W (Excluding PoE output)150W (Including PoE output)",
+      "Total available PoE": "130W",
+      "Max. PoE wattage per port by PSE": "PoE: 17W\nPoE+: 34W",
+      "Voltage range PoE mode": "24V passive PoE: 20–27V\nPoE+: 50—57V",
+      "ESD/EMP protection": "Air: ± 24kV, contact: ± 24kV",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "LEDs": {
+      "Ethernet": "PoELink/Speed/Activity"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "1 Gbps Multi-Mode Optical Module",
+    "price": "$17.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP to RJ45 Adapter",
+    "price": "$19.50",
+    "specifications": []
+  }
+]

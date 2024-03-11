@@ -1,0 +1,73 @@
+Name: WiFi BaseStation XG
+Price: $1,499.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/uwb-xg
+Specifications: "Tri-radio WiFi 5 AP with 12 spatial streams and a selectable beamforming antenna, designed for high-density applications at large venues."
+Features: "WiFi 5 (5 GHz only)
+
+12 spatial streams
+
+465+ m² (5,000+ ft²) open space coverage
+
+1,500+ connected devices
+
+Powered using PoE++
+
+(1) GbE and (1) 10 GbE uplink
+
+Versatile wall and pole mounting
+
+Phased array antenna system with software-adjustable coverage (50° or 90°)
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "471.1 x 257.5 x 94.3 mm (18.6 x 10.1 x 3.7\")",
+      "Weight": "3.2 kg (7.1 lb)",
+      "Weatherproofing": "IP67"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port(1) 1/10 GbE ICM Ethernet port",
+      "Management interface": "EthernetBluetooth",
+      "Power method": "PoE++",
+      "Power supply": "Gigabit PoE++ adapter 50V DC, 1.2A (Included)",
+      "Max. power consumption": "31W",
+      "Supported voltage range": "44—57V DC",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "–25 dBm –",
+      "MIMO2.4 GHz5 GHz6 GHz": "–(3) 4 x 4 –",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "–1.7 Gbps –",
+      "Antenna gain2.4 GHz5 GHz6 GHz": "–Small cell: 15 dBi / Large cell: 10 dBi –",
+      "Antenna": "Integrated dual-mode antenna array",
+      "Operating frequency5 GHz low-band radio5 GHz mid-band radio5 GHz high-band radio": "Ch 36-64Ch 100-132Ch 149-165",
+      "Antenna beamwidthSmall cellLarge cell": "50°90°",
+      "LEDs": "R/G/B",
+      "Button": "Factory reset",
+      "Mounting": "VESA-compatible mount, pole/wall (Brackets included)",
+      "Ambient operating temperature": "-40 to 70° C (-40 to 158° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "WiFi standards": "802.11 a/n/r/k/v/ac/ac-wave2",
+      "Wireless security": "WEP, WPA-PSK, WPA-Enterprise (WPA/WPA2, TKIP/AES), 802.11w/PMF",
+      "VLAN": "802.1Q",
+      "Advanced QoS": "Per-user rate limiting",
+      "Guest traffic isolation": "Supported",
+      "Power save": "Supported",
+      "Beamforming": "Supported",
+      "WMM": "Voice, video, best effort, and background",
+      "Concurrent clients": "1500+"
+    },
+    "Supported Data Rates (Mbps)": {
+      "802.11a": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11ac": "6.5 Mbps to 1.7 Gbps (MCS0 - MCS9 NSS1/2/3/4, VHT 20/40/80)58 Mbps to 1.7 Gbps (MCS0 - MCS9 NSS1/2, VHT 160)"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

@@ -1,0 +1,87 @@
+Name: G2 Starter Kit
+Price: $289.00
+Product URL: https://store.ui.com/us/en/pro/category/all-door-access/products/ua-g2-sk
+Specifications: "A quick start for Access with all you need for one door with one reader."
+Features: "(1) Door Hub
+
+(1) G2 Reader
+
+(10) Access Cards"
+Table Data: {
+  "UA-Hub-DoorMechanical": {
+    "UA-Hub-DoorMechanical": {
+      "Dimensions": "174.9 x 126 x 32.9 mm (6.9 x 5 x 1.3\")",
+      "Weight": "363 g (12.8 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mounting material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Networking interface": "(1) 10/100 MbE RJ45 port",
+      "Connectivity": "BLE 4.1",
+      "Power method": "PoEUL 294 Power-limited Class 2 PSU\nUL 60950-1/62368-1 LPS/PS2 PSU",
+      "Supported voltage range": "48V DC",
+      "Max. power consumption": "5W",
+      "ESD/EMP protection": "Air: ±15kV, contact: ±8kV",
+      "Sensors": "Proximity sensor",
+      "Speaker": "(1) 8 ohm, 0.7W",
+      "LEDs": "R/G/B/W",
+      "Button": "(1) Factory-reset",
+      "NFC frequency": "13.56 MHz",
+      "NFC read range": "< 30 mm",
+      "NFC standards": "ISO 14443A, 14443B, 15693",
+      "NFC technology": "NFC Tag 1,2,3,4,5 MIFARE Classic MIFAREPlus MIFARE Ultralight MIFARE DESFire",
+      "Operating environment": "Outdoor use",
+      "Ambient operating temperature": "-30 to 45° C (-22 to 113° F)",
+      "Ambient operating humidity": "5 to 90% noncondensing",
+      "Software information": "The software version of a product can be checked at https://unifi.ui.com",
+      "UL 294 level": "Destructive attack: Level I\nLine security: Level I\nEndurance: Level I\nStandby power: Level I",
+      "UL 294 statement": "Compliance with IEEE 802.3 specifications was not verified as part of UL 294.\nThe equipment is intended to comply with the section of the National Electrical Code, ANSI/NFPA 70, Article 725.121, Power Sources for Class 2 and Class 3 Circuits.",
+      "PoE cabling requirements": "Cable 5e cabling is the minimum performance category recommended. The performance category utilized should match the transmission speed required at the installation site.\nThe minimal conductor gauge permitted to connect between the PSE or power injector and the PD shall be 26 AWG (0.13 mm2) for patch cords; 24 AWG (0.21 mm2) for horizontal or riser cable.",
+      "CAN/ULC-60839-11-1 Grade": "Grade assignment: I",
+      "Certifications": "CE, FCC, IC, UL 294, CAN/ULC-60839-11-1",
+      "Document number, and issue date and/or revision level": "UA-G2/UA-G2-Black, V02"
+    },
+    "Wiring Information": {
+      "Total length to device": "Output load current at 12V DC",
+      "PoE cabling requirements": "The minimal conductor gauge permitted to connect between the PSE or power injector and the PD shall be 24 AWG (0.21 mm2) for horizontal or riser cable."
+    },
+    "LEDs": {
+      "PoE in": "Steady blue: Adopted/device is ready\nSteady white: Pending adoption\nBlinking white/blue: Upgrading firmware",
+      "PoE out": "Off: Not connected or no data link\nSteady blue: Connected and data link on"
+    },
+    "UA-G2Mechanical": {
+      "Dimensions": "93 x 40 x 36.5 mm (3.7 x 1.6 x 1.4\")",
+      "Weight": "82 g (2.9 oz)",
+      "Enclosure material": "Polycarbonate, glass",
+      "Mounting": "In wall, gang box",
+      "Weatherproofing": "IP55"
+    },
+    "LED": {
+      "System": "Steady blue: Adopted/device is ready\nSteady white: Pending adoption\nBlinking white/blue: Upgrading firmware\nStrobing red: Emergency lockdown"
+    },
+    "UA-CardMechanical": {
+      "Dimensions": "85.6 x 53.98 x 0.84 mm (3.37 x 2.13 x 0.03\")",
+      "Weight": "5 g (0.18 oz)",
+      "Format": "ISO 7810 ID-1",
+      "NFC frequency": "13.56 MHz",
+      "NFC technology": "ISO/IEC 14443 Type AMIFARE DESFireUniFi Access Proprietary Security Protocol"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "G2 Reader Pro",
+    "price": "$359.00",
+    "specifications": []
+  },
+  {
+    "name": "Access Card",
+    "price": "$40.00",
+    "specifications": []
+  },
+  {
+    "name": "Mission Critical",
+    "price": "$999.00",
+    "specifications": []
+  }
+]

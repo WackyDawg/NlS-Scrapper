@@ -1,0 +1,64 @@
+Name: G4 Pro
+Price: $449.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g4-pro
+Specifications: "4K night-vision camera designed for long-range, indoor and outdoor surveillance."
+Features: "4K (8MP) video resolution
+
+3x optical zoom
+
+AI event detections
+
+15 m (50 ft) IR night vision
+
+Audio recording with an integrated microphone
+
+Connect and power using PoE
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø86 x 153 mm (Ø3.4 x 6\")",
+      "Weight": "700 g (1.5 lb)",
+      "Enclosure material": "Polycarbonate, aluminum alloy",
+      "Mounting material": "Aluminum alloy",
+      "Weatherproofing": "IP67"
+    },
+    "Optics": {
+      "Sensor": "1/2\" 8MP",
+      "Lens": "F 4.1–12.3 mm; ƒ/1.53–ƒ/3.3",
+      "View angle": "Wide: H: 109.9°, V: 60°, D: 127.7° Zoom: H: 35°, V: 19.8°, D: 40°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "8MP 3840 x 2160 (16:9)",
+      "Max. frame rate": "50 FPS",
+      "Image settings": "Flip, brightness, contrast, 50/60 Hz flicker reduction, WDR, hue, infrared, sharpness, saturation, de-noise"
+    },
+    "System": {
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "12.5W",
+      "Power method": "PoE",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling, pole mount",
+      "Ambient operating temperature": "-20 to 50° C (-4 to 122° F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  }
+]

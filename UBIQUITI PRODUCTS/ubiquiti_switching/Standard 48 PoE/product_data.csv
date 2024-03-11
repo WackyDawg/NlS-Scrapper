@@ -1,0 +1,66 @@
+Name: Standard 48 PoE
+Price: $589.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-48-poe
+Specifications: "A 48-port, Layer 2 PoE switch with a silent, fanless cooling system."
+Features: "(32) GbE PoE+, (16) GbE ports
+
+(4) 1G SFP ports
+
+195W total PoE availability
+
+Fanless, silent cooling"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "442 x 285 x 44 mm (17.4 x 11.2 x 1.7\")",
+      "Weight": "Without mounting brackets: 4.5 kg (10 lb)With mounting brackets: 4.6 kg (10.2 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(48) GbE RJ45 ports\n(4) 1G SFP ports",
+      "PoE interface": "(32) PoE/PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "52 Gbps",
+      "Switching capacity": "104 Gbps",
+      "Forwarding rate": "77.38 Mpps",
+      "Power method": "Universal input, 100—240V AC, 50/60 Hz",
+      "Power supply": "AC/DC, internal, 240W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "45W (Excluding PoE output)",
+      "Total PoE available": "195W",
+      "Max. PoE wattage per port by PSE": "PoE+: 32W",
+      "Voltage range PoE mode": "PoE: 44—57V\nPoE+: 50—57V",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 12kV",
+      "Shock and vibration": "ETSI300-019-1.4 Standard",
+      "Ambient operating temperature": "-5 to 40° C (23 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/link/activity",
+      "SFP": "Link/activity"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "1 Gbps Multi-Mode Optical Module",
+    "price": "$17.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP to RJ45 Adapter",
+    "price": "$19.50",
+    "specifications": []
+  }
+]

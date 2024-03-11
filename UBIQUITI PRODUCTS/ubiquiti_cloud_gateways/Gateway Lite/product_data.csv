@@ -1,0 +1,63 @@
+Name: Gateway Lite
+Price: $129.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cloud-keys-gateways/products/uxg-lite
+Specifications: "A compact and powerful UniFi gateway with a full suite of advanced routing and security features."
+Features: "Up to 10x routing performance increase over USG (tested with IPS/IDS, QoS, and Smart Queues)
+
+Managed with a CloudKey, Official UniFi Hosting, or UniFi Network Server
+
+(1) GbE WAN port
+
+(1) GbE LAN port
+
+Compact footprint
+
+USB-C powered (adapter included)
+
+Managed with UniFi Network 8.0.7 and later"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "98 x 98 x 30 mm (3.9 x 3.9 x 1.2\")",
+      "Weight": "320 g (11.3 oz)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Processor": "Dual-core ARM® Cortex®-A53 at 1 GHz",
+      "Memory information": "1 GB DDR3L",
+      "Management interface": "EthernetBluetooth 5.1",
+      "Networking interface": "LAN:(1) GbE RJ45 portWAN: (1) GbE RJ45 port",
+      "Power method": "USB type C (5V/3A)",
+      "Supported voltage range": "100–240V",
+      "Max. power consumption": "3.83W",
+      "Ambient operating temperature": "-10 to 40° C (14 to 104° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Gateway Features": {
+      "Performance": "WiFi QoS with UniFi APs\nApplication, domain, and country-based QoS\nApplication and device type identification\nInternet quality and outage reporting",
+      "Next-generation security": "Application-aware firewall rules\nSignature-based IPS/IDS threat detection\nContent, country, domain, and ad filtering\nVLAN/subnet-based traffic segmentation\nFull stateful firewall",
+      "Advanced networking": "License-free SD-WAN*\nWireGuard, L2TP and OpenVPN server\nOpenVPN client\nOpenVPN and IPsec site-to-site VPN\nOne-click Teleport* and Identity Enterprise VPN**\nPolicy-based WAN and VPN routing\nDHCP relay\nCustomizable DHCP server\nIPv6 ISP support\n \n*When paired with a Cloud Key or Official UniFi Hosting.\n**When paired with a Cloud Key."
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 8.0.7 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Official UniFi Hosting",
+    "price": "$29.00 /month",
+    "specifications": []
+  },
+  {
+    "name": "CloudKey+",
+    "price": "$199.00",
+    "specifications": []
+  },
+  {
+    "name": "Floating Mount",
+    "price": "$29.00",
+    "specifications": []
+  }
+]

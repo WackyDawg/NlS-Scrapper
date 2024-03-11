@@ -1,0 +1,49 @@
+Name: CloudKey+
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cloud-keys-gateways/products/unifi-cloudkey-plus
+Specifications: "Compact UniFi Console with full UniFi application support and a pre-installed 1TB HDD for NVR storage."
+Features: "Pre-installed 1TB HDD
+
+Connect and power using PoE
+
+Optional USB-C power with Quick Charge 2.0/3.0 compliant adapter only
+
+Includes full UniFi application suite for device management
+
+Bluetooth for instant setup"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "131.2 x 27.1 x 134.2 mm (5.2 x 1.1 x 5.3\")",
+      "Weight": "582 g (1.3 lb)",
+      "Enclosure material": "Anodized aluminum"
+    },
+    "Hardware": {
+      "Processor": "Octa-core Arm® Cortex®-A53 based chip",
+      "Management interface": "UniFi Protect",
+      "Networking interface": "(1) GbE RJ45 port",
+      "Memory": "32 GB eMMC",
+      "Hard drive capacity": "1 TB 2.5\" SATA HDD (user-upgradeable*)\n* The Cloud Key Gen2 Plus only supports hard drives that can operate on 5V power. Hard drives that require additional power are not supported.",
+      "Power method": "PoE\nQuick charge 2.0/3.0 power adapter, 9V DC, 2A",
+      "Max. power consumption": "12.95W",
+      "Display": "1.42\" gray-scale OLED",
+      "LEDs": "(1) Power: white/blue",
+      "Buttons": "(1) Power\n(1) Factory reset",
+      "Ambient operating temperature": "0 to 35° C (32 to 104° F)",
+      "Ambient operating humidity": "20 to 80% noncondensing",
+      "Certifications": "FCC, CE, IC"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "CloudKey Stand",
+    "price": "$19.00",
+    "specifications": []
+  },
+  {
+    "name": "CloudKey Rack Mount",
+    "price": "$99.00",
+    "specifications": []
+  }
+]

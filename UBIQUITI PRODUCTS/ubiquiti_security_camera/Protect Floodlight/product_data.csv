@@ -1,0 +1,41 @@
+Name: Protect Floodlight
+Price: $99.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/up-floodlight
+Specifications: "Bright, motion-triggered light."
+Features: "Intense 550 lumens of LED light
+
+Wall-mountable
+
+Motion detection
+
+Weatherproof (outdoor exposed)
+
+Connect and power using PoE"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "135 x 65 x 50 mm (5.3 x 2.6 x 2\")",
+      "Weight": "Without mount: 216 g (7.6 oz)With flat wall mount: 236 g (8.3 oz)With angle mount: 273 g (9.6 oz)",
+      "Enclosure material": "Plastic, metal",
+      "Mount material": "Flat wall mount: plasticAngle mount: plastic",
+      "Weatherproofing": "IPX5"
+    },
+    "Hardware": {
+      "Networking interface": "10/100 MbE RJ45 port",
+      "Max. power consumption": "10.5W",
+      "Power method": "PoE, 48V DC, 0.22A Max.",
+      "ESD/EMP protection": "Air: ± 8kV, contact: ± 8kV",
+      "RF": "Bluetooth 4.0",
+      "LEDs": "R/B/W",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-10 to 45° C (14 to 113° F)",
+      "Ambient operating humidity": "20 to 80% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: []

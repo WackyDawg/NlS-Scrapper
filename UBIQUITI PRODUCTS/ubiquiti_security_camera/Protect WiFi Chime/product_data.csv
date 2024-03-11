@@ -1,0 +1,44 @@
+Name: Protect WiFi Chime
+Price: $59.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/up-chime-us
+Specifications: "Plug-in chime paired with a doorbell camera."
+Features: "Pairs with a UniFi Doorbell
+
+Up to 80dB speaker sound
+
+Direct plug-in to AC outlet
+
+Wirelessly connected with UniFi WiFi Auto-Link*
+
+*Third-party WiFi configuration available during setup with the UniFi Protect mobile app."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "US: Ø62 x 50.6 mm (Ø2.4 x 2\")EU: Ø62 x 68.3 mm (Ø2.4 x 2.7\") (Without prong)",
+      "Weight": "US: 127 g (4.5 oz) EU: 135 g (4.8 oz)",
+      "Enclosure material": "Polycarbonate, fabric"
+    },
+    "System": {
+      "Networking interface": "WiFi 802.11 b/g/n",
+      "Power method": "AC",
+      "Supported voltage range": "100-240V, 50/60 Hz",
+      "Max. power consumption": "3.7W",
+      "Antenna gain": "2 dBi",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 8kV",
+      "LEDs": "(5) White",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Speaker": "Yes",
+      "Buzzer": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 2.0 and later",
+      "Mobile app": "UniFi Protect iOS™: Version 1.6.2 and laterUniFi Protect Android™:  Version 1.6.0 and later"
+    }
+  }
+}
+Addons: []

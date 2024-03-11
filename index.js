@@ -1,12 +1,11 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-const ObjectsToCsv = require('objects-to-csv');
 
 // Function to create a directory if it doesn't exist
 const createDirectory = (directory) => {
     if (!fs.existsSync(directory)) {
-        fs.mkdirSync(directory);
+        fs.mkdirSync(directory, { recursive: true });
     }
 };
 
@@ -43,16 +42,34 @@ const scrapeTable = async (page) => {
     });
 };
 
+const scrapeAddons = async (page) => {
+    return await page.evaluate(() => {
+        const addonsData = [];
+        const addons = Array.from(document.querySelectorAll('.dLWjTj'));
 
+        addons.forEach(addon => {
+            const addonName = addon.querySelector('.sc-nmmoyz-5').textContent.trim();
+            const addonPrice = addon.querySelector('.sc-nmmoyz-8').textContent.trim();
+            const addonSpecifications = Array.from(addon.querySelectorAll('.sc-nmmoyz-12')).map(spec => spec.textContent.trim());
 
+            addonsData.push({
+                name: addonName,
+                price: addonPrice,
+                specifications: addonSpecifications
+            });
+        });
+        console.log(addonsData)
 
+        return addonsData;
+    });
+};
 
 (async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     // URL of the catalog page
-    const catalogPageUrl = 'https://store.ui.com/us/en?category=all-unifi-cloud-gateways';
+    const catalogPageUrl = 'https://store.ui.com/us/en?category=accessories-cables-dacs';
 
     await page.goto(catalogPageUrl);
     await page.waitForSelector('.sc-qb5aln-5');
@@ -66,6 +83,7 @@ const scrapeTable = async (page) => {
 
         // Extracting product details
         const productName = await productPage.$eval('.sc-nmmoyz-5', element => element.textContent.trim());
+        const productPrice = await productPage.$eval('.sc-nmmoyz-8', element => element.textContent.trim());
         const productSpecifications = await productPage.$$eval('.sc-nmmoyz-12', specifications => specifications.map(spec => spec.textContent.trim()));
 
         // Extracting features text
@@ -74,18 +92,22 @@ const scrapeTable = async (page) => {
         // Scrape table data
         const tableData = await scrapeTable(productPage);
 
+        // Scrape addons data
+        const addonsData = await scrapeAddons(productPage);
+
         // Creating directory for the product
-        const productDirectory = path.join(__dirname, productName);
+        const productDirectory = path.join(__dirname, './ubiquiti_accessories', productName);
         createDirectory(productDirectory);
 
         // Format data for CSV
-        const csvData = `Name:${productName}\nSpecifications:"${productSpecifications.join('\n\n')}"\nFeatures:"${featuresText}"\nTable Data:${JSON.stringify(tableData, null, 2)}`;
+        const csvData = `Name: ${productName}\nPrice: ${productPrice}\nProduct URL: ${productLink}\nSpecifications: "${productSpecifications.join('\n\n')}"\nFeatures: "${featuresText}"\nTable Data: ${JSON.stringify(tableData, null, 2)}\nAddons: ${JSON.stringify(addonsData, null, 2)}`;
 
         // Save data to CSV
         const csvFilePath = path.join(productDirectory, 'product_data.csv');
         fs.writeFileSync(csvFilePath, csvData);
 
         console.log(`Product '${productName}' details saved in directory: ${productDirectory}`);
+        //console.log(productLink);
 
         await productPage.close();
     }

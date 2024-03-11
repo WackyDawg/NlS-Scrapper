@@ -1,0 +1,47 @@
+Name: Flex Utility
+Price: $49.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-flexutility
+Specifications: "The Switch Flex Utility is an outdoor weatherproof enclosure designed for use with the Switch Flex."
+Features: "Outdoor weatherproof enclosure
+
+Max. PoE budget 46W
+
+Clean cable management and screw lock for security
+
+Includes an Ethernet patch cable and a 60W PoE adapter
+
+Compatible with Switch Flex"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Enclosure: 249 x 218 x 60 mm (9.8 x 8.6 x 2.4\")\nAdapter: 118.5 x 63 x 34.7 mm (4.7 x 2.5 x 1.4\")",
+      "Weight": "Enclosure: 740 g (26.1 oz)\nAdapter: 206 g (7.27 oz)"
+    },
+    "60W PoE Adapter": {
+      "Output voltage": "54V, 1.11A",
+      "Rated voltage": "100-240V AC",
+      "Input current": "Max. 1.5A",
+      "Efficiency": "> 86%",
+      "Output ripple": "200mVpp",
+      "Line regulation": "< 1%",
+      "Load regulation": "< 3%",
+      "4-pair powering": "Pins 1, 2, 4, 5+ and Pins 3, 6, 7, 8-",
+      "Ambient operating temperature": "-20 to 60° C (-4 to 140° F)",
+      "Storage temperature": "-30 to 70° C (-22 to 158° F)",
+      "Ambient operating humidity": "5 to 90%, noncondensing",
+      "Surge immunity": "4kV difference and Common mode"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Flex",
+    "price": "$99.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

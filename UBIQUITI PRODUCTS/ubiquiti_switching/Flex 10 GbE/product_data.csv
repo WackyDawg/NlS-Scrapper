@@ -1,0 +1,50 @@
+Name: Flex 10 GbE
+Price: $299.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/unifi-flex-xg
+Specifications: "A compact, 5-port, Layer 2 switch that supports 10 GbE speeds and can be powered with PoE or a 5V USB-C adapter."
+Features: "(4) 10 GbE ports
+
+(1) GbE PoE+ input port for power"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "135 x 185 x 32 mm (5.3 x 7.3 x 1.3\")",
+      "Weight": "1.2 kg (2.7 lb)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(1) GbE, PoE+ RJ45 port(4) 10 GbE RJ45 ports",
+      "Total non-blocking throughput": "41 Gbps",
+      "Switching capacity": "82 Gbps",
+      "Forwarding rate": "61.012 Mpps",
+      "Power method": "(1) PoE+, 50—57V DC, 25W(1) USB Type-C, 5V DC, 5A",
+      "Power supply": "PoE+  (Pins 1, 2+/3, 6- or 4, 5+/7, 8-)AC/DC power adapter, 5V DC, 5A, 1.5 m cord (Included)",
+      "Supported voltage range": "90—264V AC (Adapter)",
+      "Max. power consumption": "25W",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 12kV",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "Speed/link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 6.1.67 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,60 @@
+Name: Phone Touch Max
+Price: $129.00
+Product URL: https://store.ui.com/us/en/pro/category/all-managed-voip/products/utp-touchmax-u
+Specifications: "Premium desktop smartphone that delivers the ultimate user experience."
+Features: "7" touch display
+
+Ergonomic handset with mute button
+
+Hi-performance speakerphone
+
+Bluetooth support
+
+PoE+ in
+
+Note. Subscription Locked phones must be assigned to a user with a unique, personal UniFi Talk phone number and have an Internet connection to function. We recommend Subscription Unlocked phones for configurations where users only share numbers with a group and are not assigned a unique, personal UniFi Talk phone number.
+
+UniFi Talk is available in the US, UK, and Canada. Additional international support is planned for 2024."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "255 x 135 x 183 mm (10 x 5.3 x 7.2\")",
+      "Weight": "1.5 kg (3.4 lb)",
+      "Enclosure material": "Plastic, aluminum (base)",
+      "Mounting": "Desktop",
+      "Colour": "BlackWhite"
+    },
+    "Display": {
+      "Display size": "178 mm (7\") diagonal",
+      "Resolution": "1280 x 800 HD",
+      "Screen technology": "Multi-touch",
+      "Screen surface treatments": "Fingerprint-resistant coating"
+    },
+    "Audio": {
+      "Handset dynamic receiver": "16 ohm",
+      "Handset microphone": "Omnidirectional electret microphone",
+      "Hands-free speaker": "Stereo, 4 ohmNominal power: 3WMax. power: 5W",
+      "Hands-free microphone": "Dual omnidirectional MEMS microphones"
+    },
+    "Hardware": {
+      "Processor": "Octa-core ARM® Cortex®-A53",
+      "Memory": "Storage: 32 GBRAM: 2 GB",
+      "Power method": "PoE+5V, 3A USB type C",
+      "Connectivity": "(2) GbE RJ45 ports802.11 a/b/g/n/ac WiFiBluetooth® 4.2",
+      "Headset support": "3.5 mm (0.14\") audio jack",
+      "Camera": "2592 x 1944, 5MP (with privacy shutter)",
+      "LED": "White LED (Black)\nBlue LED (White)",
+      "NFC frequency": "13.56 MHz",
+      "NFC read range": "<10 mm",
+      "NFC standards": "ISO 14443A, 14443B, 15693",
+      "NFC technology": "NFC Tag 1, 2, 3, 4, 5\nMIFARE Classic\nMIFARE Plus\nMIFARE Ultralight\nMIFARE DESFire",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "UniFi OS application": "UniFi Talk"
+    }
+  }
+}
+Addons: []

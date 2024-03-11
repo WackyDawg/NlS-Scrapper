@@ -1,0 +1,45 @@
+Name: Standard 24 PoE (Gen1)
+Price: $399.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/us-24-250w
+Specifications: "Layer 2, PoE switch with (24) GbE, PoE+ and 24V passive PoE RJ45 ports and (2) 1G SFP ports."
+Features: "(24) GbE PoE+ ports
+
+(2) 1G SFP ports
+
+250W total PoE availability"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "485 x 285 x 44 mm (19.1 x 11.2 x 1.7\")",
+      "Weight": "4.8 kg (10.6 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band(1) RJ45 Serial port Out-of-Band",
+      "Networking interface": "(24) GbE RJ45 ports\n(2) 1G SFP ports",
+      "PoE interface": "(24) PoE/PoE+ (Pins 1, 2+; 3, 6-)\n24V DC passive PoE (Pins 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "26 Gbps",
+      "Switching capacity": "52 Gbps",
+      "Forwarding rate": "38.69 Mpps",
+      "Power method": "Universal input, 100—240V AC, 50/60 Hz",
+      "Power supply": "AC/DC, internal, 2500W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "30W (Excluding PoE output)250W (Including PoE output)",
+      "Total available PoE": "250W",
+      "Max. PoE wattage per port by PSE": "24V Passive PoE: 17WPoE+: 34W",
+      "Voltage range PoE mode": "24V Passive PoE: 20–27VPoE+: 50—57V",
+      "ESD/EMP protection": "Air: ± 24kV, contact: ± 24kV",
+      "Sound level*\n    Fan level 0\n    Fan level 1\n    Fan level 2\n    Fan level 3": "9.1 dBr\n    14.2 dBr\n    16.8 dBr\n    21.2 dBr\n    * Background noise level: 27.5 dBa.",
+      "Shock and vibration": "ETSI300-019-1.4 Standard",
+      "Ambient operating temperature": "-5 to 40° C (23 to 104° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/Link/Activity",
+      "SFP": "Speed/Link/Activity"
+    }
+  }
+}
+Addons: []

@@ -1,0 +1,73 @@
+Name: U6 Enterprise In-Wall
+Price: $299.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/u6-enterprise-iw
+Specifications: "Wall-mounted WiFi 6E AP with 10 spatial streams, 6 GHz support, and a built-in 4-port switch. Designed for high-density office networks."
+Features: "WiFi 6E with 6 GHz support
+
+10 spatial streams
+
+115 m² (1,250 ft²) coverage
+
+600+ connected devices
+
+Powered using PoE+/PoE++*
+
+(4) GbE ports with (1) PoE output
+
+2.5 GbE uplink
+
+Note. 6 GHz operation is supported in these countries.
+
+*PoE++ required for single-port PoE output."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "159.7 x 156.7 x 33.8 mm (6.3 x 6.2 x 1.3\")",
+      "Weight": "884 g (1.9 lb)",
+      "Enclosure material": "Polycarbonate, aluminum",
+      "Mount material": "Aluminum"
+    },
+    "Hardware": {
+      "Networking interface": "(1) Data in: 2.5 GbE RJ45 port (4) Data out: GbE RJ45 ports",
+      "Management interface": "Ethernet Bluetooth",
+      "PoE interface": "(1) PoE+ input (1) PoE output",
+      "Power method": "PoE+PoE++ (Required for PoE output)",
+      "Power supply": "UniFi PoE switch",
+      "Max. power consumption": "21W (Excluding PoE output)",
+      "Max. PoE wattage per port by PSE": "15.4W",
+      "Supported voltage range": "44—57V DC",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "22 dBm26 dBm26 dBm",
+      "MIMO2.4 GHz5 GHz6 GHz": "2 x 2 (UL MU-MIMO)\n4 x 4 (DL/UL MU-MIMO)\n4 x 4 (DL/UL MU-MIMO)",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "573.5 Mbps 4.8 Gbps\n4.8 Gbps",
+      "Antenna gain2.4 GHz5 GHz6 GHz": "4 dBi 5.8 dBi\n5.8 dBi",
+      "LED": "White/blue",
+      "Button": "Factory reset",
+      "Mounting": "Wall (Included)",
+      "Ambient operating temperature": "-30 to 60° C (-22 to 140° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "WiFi standards": "802.11a/b/g/n/ac/ax (WiFi 6/6E)",
+      "Wireless security protocols": "WPA-PSK, WPA-Enterprise (WPA/WPA2/WPA3)",
+      "BSSID": "8 per radio",
+      "VLAN": "802.1Q",
+      "Advanced QoS": "Per-user rate limiting",
+      "Guest traffic isolation": "Supported",
+      "Concurrent clients": "600+",
+      "Zero-wait DFS": "Yes**Supported with upcoming firmware versions."
+    },
+    "Supported Data Rates": {
+      "802.11a": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11b": "1, 2, 5.5, 11 Mbps",
+      "802.11g": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11n (WiFi 4)": "6.5 Mbps to 600 Mbps (MCS0 - MCS31 , HT 20/40)",
+      "802.11ac (WiFi 5)": "6.5 Mbps to 3.4 Gbps (MCS0 - MCS9 NSS1/2/3/4, VHT 20/40/80/160)",
+      "802.11ax (WiFi 6/6E)": "7.3 Mbps to 4.8 Gbps (MCS0 - MCS11 NSS1/2/3/4, HE 20/40/80/160)"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 7.2.85 and later"
+    }
+  }
+}
+Addons: []

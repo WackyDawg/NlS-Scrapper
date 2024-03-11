@@ -1,0 +1,68 @@
+Name: G4 PTZ
+Price: $1,800.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g4-ptz
+Specifications: "High-performance pan-tilt-zoom camera with 8 MP (4K), 24 FPS video streaming and adaptive IR LED night vision."
+Features: "4K (8MP) video resolution
+
+22x optical zoom
+
+Remote control from web and Protect app
+
+AI event detections
+
+91 m (300 ft) IR night vision
+
+Ultra-low latency
+
+Connect and power using PoE++
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "207 x 223.7 x 341.3 mm (8.2 x 8.8 x 13.4\")",
+      "Weight": "Without mount: 3.8 kg (8.4 lb)With mount: 6.8 kg (15 lb)",
+      "Enclosure material": "Metal, plastic",
+      "Mount material": "Metal",
+      "Weatherproofing": "IP66"
+    },
+    "Optics": {
+      "Sensor": "8MP 1/1.8\" CMOS",
+      "Lens": "22x optical zoom",
+      "View angle": "H: 3 to 64°, V: 2 to 37°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "8MP 3840 x 2160 (16:9)",
+      "Max. frame rate": "24 FPS"
+    },
+    "System": {
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "42.9W",
+      "Power method": "PoE++",
+      "Supported voltage range": "42.5—57V",
+      "Button": "Factory reset",
+      "Mounting": "Wall mount (Included)",
+      "Ambient operating temperature": "-40 to 50º C (-40 to 122º F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

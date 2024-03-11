@@ -1,0 +1,41 @@
+Name: Protect Viewport
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/ufp-viewport
+Specifications: "Easy-to-use hub for viewing Protect camera feeds on an HDMI display."
+Features: "Flexible mounting
+
+16-stream matrix view support
+
+Connect and power using PoE
+
+HDMI video output up to 4K @ 30 FPS"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "157 x 52 x 37 mm (6.2 x 2.1 x 1.5\")",
+      "Weight": "Without mount: 230 g (8.1 oz) With TV mount: 252 g (8.9 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mount material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Processor": "Octa-core ARM®",
+      "Memory": "4 GB low power DDR4X",
+      "Networking interface": "(1) GbE RJ45 port",
+      "Power method": "PoE",
+      "Max. power consumption": "9.5W",
+      "ESD/EMP protection": "Air: ± 8kV, contact: ± 4kV",
+      "Bluetooth": "5.0",
+      "Antennas": "Bluetooth",
+      "Antenna gain": "2 dB",
+      "Button": "Factory-reset",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "20 to 80% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: []

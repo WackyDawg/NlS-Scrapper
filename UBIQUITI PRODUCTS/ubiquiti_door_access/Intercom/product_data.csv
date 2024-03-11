@@ -1,0 +1,75 @@
+Name: Intercom
+Price: $399.00
+Product URL: https://store.ui.com/us/en/pro/category/all-door-access/products/ua-intercom
+Specifications: "Indoor/outdoor intercom terminal for managing residential and commercial building entry requests."
+Features: "Unlock using an NFC card, UniFi Identity mobile app, PIN code or QR code
+
+Directory and doorbell to request entry
+
+Pairs with multiple UniFi Intercom Viewers for remote access control
+
+Connects to UniFi Access Hub series using PoE
+
+Weatherproof (outdoor exposed -30 to 60° C)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "324.8 x 113.7 x 28.3 mm (12.8 x 4.5 x 1.1\")",
+      "Weight": "Device: 965 g (2.1 lb)Bracket: 445 g (1 lb)",
+      "Enclosure material": "Aluminum alloy, UV-stabilized polycarbonate, glass",
+      "Mount material": "Powder-coated stainless steel",
+      "Mounting": "Wall mount, adapter to the gooseneck pedestal  (Included)Surface angle mount, flush mount (Optional)\nSunshield kit (Optional)",
+      "Weatherproofing": "IP65"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port",
+      "Connectivity": "Bluetooth 4.2NFC",
+      "Power method": "PoE",
+      "Supported voltage range": "48V DC",
+      "Max. power consumption": "13W",
+      "ESD/EMP protection": "Air: ±15kV, contact: ±8kV",
+      "Sensors": "Proximity sensorALS sensor",
+      "Camera": "3264 x 2448, 8 MP H: 79.4°, V: 97.5°, D: 118.2°",
+      "Display": "177 mm (7\") diagonal",
+      "Resolution": "1024 x 600 (16:9)",
+      "Display luminance": "Max. 1000 nits (typical)",
+      "Touch screen technology": "Capacitive multi-touch",
+      "Microphone": "Yes",
+      "Speaker": "(1) 4 ohm, 2W",
+      "LEDs": "(1) LCM low temperature indicator: orange (LCM turned off when it’s below -25° C but the system funtions normally) \n(1) LED floodlight\n(13) Keypad LED backlight",
+      "Button": "(1) Factory-reset",
+      "NFC frequency": "13.56 MHz",
+      "NFC read range": "< 30 mm",
+      "NFC standards": "ISO 14443A, 14443B, 15693",
+      "NFC technology": "NFC Tag 1,2,3,4,5 MIFARE Classic MIFARE Plus MIFARE Ultralight MIFARE DESFire",
+      "Ambient operating temperature": "Device: -30 to 60° C (-22 to 140° F)Display:* -25 to 60° C (-13 to 140° F)*The display will turn off when the ambient temperature is above/below the display operation temperature, but other functions will remain functional. (Effective after firmware v 1.0.66)",
+      "Ambient operating humidity": "5 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "Management application": "UniFi Access: Version 1.22.17 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Intercom Viewer",
+    "price": "$199.00",
+    "specifications": []
+  },
+  {
+    "name": "Intercom Surface Angle Mount",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "Intercom Flush Mount",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "Intercom Sunshield",
+    "price": "$49.00",
+    "specifications": []
+  }
+]

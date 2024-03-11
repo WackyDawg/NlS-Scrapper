@@ -1,0 +1,51 @@
+Name: Protect All-In-One Sensor
+Price: $59.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/up-sense
+Specifications: "A battery-powered smart sensor capable of detecting motion, lighting, and environmental changes."
+Features: "Motion detections up to 5 m (16 ft)
+
+Temperature and humidity sensing
+
+Ambient light sensing
+
+Alarm sound sensing*
+
+Door and window state sensing
+
+Up to 1 year of battery life
+
+Connects to UniFi Bluetooth-enabled access point**
+
+*Based on UL217 and UL2034 alarm patterns.
+
+**Must be connected to an up-to-date Bluetooth-supported UniFi Access Point."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø24 x 83.5 mm (Ø0.9 x 3.3\")",
+      "Weight": "50.2 g (1.8 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mount material": "Flat wall mount: polycarbonate, adhesiveCorner mount: polycarbonate, adhesive",
+      "Additional gear": "Magnet(1) Water sensor adapter (Only available in the 3-pack.)"
+    },
+    "Hardware": {
+      "Networking interface": "Bluetooth 5.0, BLE",
+      "Max. TX power": "5 dBm",
+      "Max. power consumption": "77mW",
+      "Power method": "Lithium battery CR123A",
+      "Sensor features": "Motion sensor (5 m/16 ft max. range)Magnetic entry sensor for door or window open/closeAccelerometer for garage door open/closeTemperature sensorHumidity sensorAmbient light sensorAlarm sound sensorWater sensor for detecting leaks and floods (requires water sensor adapter accessory, only available in 3-pack)BLE connectivity from access point in indoor setting (recommended range 15 m/49 ft, performance will vary based on environment)",
+      "Antenna": "2.4GHz",
+      "Antenna gain": "0.5 dBi",
+      "LEDs": "R/B/W",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "0 to 45° C (32 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: []

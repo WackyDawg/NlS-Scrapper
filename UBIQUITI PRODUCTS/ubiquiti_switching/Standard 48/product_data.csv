@@ -1,0 +1,64 @@
+Name: Standard 48
+Price: $399.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-48
+Specifications: "A 48-port, Layer 2 switch with a silent, fanless cooling system."
+Features: "(48) GbE ports
+
+(4) 1G SFP ports
+
+Fanless, silent cooling"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "442 x 285 x 44 mm (17.4 x 11.2 x 1.7\")",
+      "Weight": "Without mounting brackets: 3.9 kg (8.6 lb)With mounting brackets: 4 kg (8.8 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(48) GbE RJ45 ports(4) 1G SFP ports",
+      "Total non-blocking throughput": "52 Gbps",
+      "Switching capacity": "104 Gbps",
+      "Forwarding rate": "77.376 Mpps",
+      "Power method": "Universal input, 100—240V AC, 50/60 Hz",
+      "Power supply": "AC/DC, internal, 60W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "40W",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 12kV",
+      "LCM display": "(1) 1.3\" touchscreen",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-15 to 40° C (5 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "Speed/link/activity",
+      "SFP": "Link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 7.2.94 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "1 Gbps Multi-Mode Optical Module",
+    "price": "$17.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP to RJ45 Adapter",
+    "price": "$19.50",
+    "specifications": []
+  }
+]

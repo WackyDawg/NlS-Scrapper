@@ -1,0 +1,66 @@
+Name: Connect Display
+Price: $699.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/uc-display21
+Specifications: "21.5" Full HD PoE++ touchscreen designed for interactive digital signage applications."
+Features: "Ultra-bright 21.5" touch display
+
+Displays media, web pages, and Android apps
+
+Create dynamic digital signage content with UniFi Connect's layout creator
+
+Included VESA mount adapter
+
+Multiple mounting options*
+
+PoE++ in
+
+*Mounts sold separately."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "538.3 x 330 x 37 mm (21.2 x 13 x 1.5\")",
+      "Weight": "4.9 kg (10.8 lb)",
+      "Enclosure material": "Plastic, aluminum",
+      "Mounting": "VESA mount adapter (included)\nTable stand (optional)\nSurface mount (optional)\nArm mount (optional)\nFlush mount (optional)"
+    },
+    "Hardware": {
+      "Display size": "546 mm (21.5\") diagonall",
+      "Resolution": "1920 x 1080 FHD (16:9)",
+      "Display luminance": "250 nits (typical)",
+      "Touch screen technology": "Capacitive multi-touch",
+      "Screen orientation": "Portrait/landscape",
+      "Processor": "Octa-core ARM® Cortex®-A53 at 2.2 GHz",
+      "Memory": "Storage: 32 GB\nRAM: 3 GB",
+      "Power method": "PoE++",
+      "Power supply": "UniFi PoE++ switch",
+      "Max. power consumption": "27W",
+      "Connectivity": "(1) GbE RJ45 port\n(1) USB-C port (Reserved feature for future function update)\nBluetooth® 4.2",
+      "Button": "Factory reset",
+      "Microphone": "Yes",
+      "Speaker": "Yes",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "20 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "Management application": "UniFi Connect web: Version 2.1.14 and laterUniFi Connect iOS™ and Android™:  Version 1.0.0 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Display Arm Mount",
+    "price": "$299.00",
+    "specifications": []
+  },
+  {
+    "name": "Display Table Stand",
+    "price": "$149.00",
+    "specifications": []
+  },
+  {
+    "name": "Display Flush Mount",
+    "price": "$199.00",
+    "specifications": []
+  }
+]

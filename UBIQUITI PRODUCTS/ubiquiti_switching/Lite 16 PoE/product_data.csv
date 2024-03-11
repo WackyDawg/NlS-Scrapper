@@ -1,0 +1,53 @@
+Name: Lite 16 PoE
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-lite-16-poe
+Specifications: "A wall-mountable, 16-port, Layer 2 PoE switch with a fanless cooling system."
+Features: "(8) GbE PoE+, (8) GbE ports
+
+45W total PoE availability
+
+Wall mountable"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "192 x 185 x 44 mm (7.6 x 7.3 x 1.7\")",
+      "Weight": "1.2 kg (2.6 lb)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(16) GbE RJ45 ports",
+      "PoE interface": "(8) PoE/PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "16 Gbps",
+      "Switching capacity": "32 Gbps",
+      "Power method": "Universal input, 100—240V AC",
+      "Power supply": "AC/DC, internal, 60W",
+      "Max. power consumption": "15W (Excluding PoE output)",
+      "Total available PoE": "45W",
+      "Max. PoE wattage per port by PSE": "PoE+: 30W",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-15 to 40° C (5 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/link/activity",
+      "PoE": "Link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 7.2.94 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

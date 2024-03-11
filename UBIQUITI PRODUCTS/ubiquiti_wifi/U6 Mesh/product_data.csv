@@ -1,0 +1,83 @@
+Name: U6 Mesh
+Price: $179.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/u6-mesh
+Specifications: "Sleek, indoor/outdoor WiFi 6 AP with 6 spatial streams designed for mesh applications."
+Features: "WiFi 6
+
+6 spatial streams
+
+140 m² (1,500 ft²) coverage
+
+300+ connected devices
+
+Powered using PoE
+
+GbE uplink
+
+Versatile tabletop, wall, and pole mounting
+
+Weatherproof (outdoor exposed)*
+
+*Weatherproof when installed LED side up with the included pole/wall mount accessory."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø48.5 x 159.5 mm (Ø1.9 x 6.3\")",
+      "Weight": "400 g (14.1 oz)",
+      "Enclosure material": "Polycarbonate, aluminum",
+      "Mount material": "Polycarbonate",
+      "Weatherproofing": "IPX5"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port",
+      "Management interface": "EthernetBluetooth",
+      "Power method": "PoE",
+      "Power supply": "UniFi PoE switch48V, 0.32A PoE adapter (Included)",
+      "Supported voltage range": "44—57V DC",
+      "Max. power consumption": "11.4W",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "22 dBm26 dBm –",
+      "MIMO2.4 GHz5 GHz6 GHz": "2 x 2 (UL MU-MIMO)4 x 4 (DL/UL MU-MIMO) –",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "573.5 Mbps4.8 Gbps –",
+      "Antenna gain2.4 GHz5 GHz6 GHz": "3 dBi5 dBi –",
+      "LEDs": "White/blue",
+      "Button": "Factory reset",
+      "Mounting": "Wall, desktop, pole (Included)Ceiling (Optional)",
+      "Ambient operating temperature": "-30 to 60° C (-22 to 140° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "WiFi standards": "802.11a/b/g/n/ac/ax",
+      "Wireless security": "WPA-PSK, WPA-Enterprise (WPA/WPA2/WPA3)",
+      "BSSID": "8 per radio",
+      "VLAN": "802.1Q",
+      "Advanced QoS": "Per-user rate limiting",
+      "Guest traffic isolation": "Supported",
+      "Concurrent clients": "300+",
+      "Zero wait DFS": "Yes**Supported with upcoming firmware versions"
+    },
+    "Supported Data Rates": {
+      "802.11a": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11b": "1, 2, 5.5, 11 Mbps",
+      "802.11g": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11n (WiFi 4)": "6.5 Mbps to 600 Mbps (MCS0 - MCS31, HT 20/40)",
+      "802.11ac (WiFi 5)": "6.5 Mbps to 3.4 Gbps (MCS0 - MCS9 NSS1/2/3/4, VHT 20/40/80/160)",
+      "802.11ax (WiFi 6)": "7.3 Mbps to 4.8 Gbps (MCS0 - MCS11 NSS1/2/3/4, HE 20/40/80/160)"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 6.2.51 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AP In-Ceiling Mount",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

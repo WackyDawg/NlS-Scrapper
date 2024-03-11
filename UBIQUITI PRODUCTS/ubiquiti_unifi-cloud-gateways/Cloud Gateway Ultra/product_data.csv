@@ -1,0 +1,52 @@
+Name: Cloud Gateway Ultra
+Price: $129.00
+Product URL: https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/ucg-ultra
+Specifications: "Powerful and compact multi-WAN UniFi Cloud Gateway with a full suite of advanced routing and security features."
+Features: "Runs UniFi Network for full-stack network management
+
+Manages 30+ UniFi Network devices and 300+ clients
+
+1 Gbps routing with IDS/IPS
+
+Multi-WAN load balancing
+
+0.96" LCM status display
+
+USB-C powered (adapter included)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "141.8 x 127.6 x 30 mm (5.6 x 5 x 1.2\")",
+      "Weight": "520 g (1.1 lb)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Processor": "Quad-core ARM® Cortex®-A53 at 1.5 GHz",
+      "System memory": "3 GB DDR4",
+      "On-board storage": "16 GB eMMC",
+      "Management interface": "Ethernet Bluetooth",
+      "Networking interface": "LAN: (4) GbE RJ45 portsWAN: (1) 1/2.5 GbE RJ45 port",
+      "IDS/IPS throughput": "1 Gbps",
+      "Power method": "USB type C (5V DC/3A)",
+      "Supported voltage range": "100–240V AC",
+      "Max. power consumption": "6.2W",
+      "LCM display": "0.96\" status display",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-10 to 40° C (14 to 104° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Gateway Features": {
+      "Performance": "Redundant WAN with failover and load balancing\nWiFi QoS with UniFi APs\nApplication, domain, and country-based QoS\nApplication and device type identification\nAdditional internet failover with LTE Backup\nInternet quality and outage reporting",
+      "Next-generation security": "Application-aware firewall rules\nSignature-based IPS/IDS threat detection\nContent, country, domain, and ad filtering\nVLAN/subnet-based traffic segmentation\nFull stateful firewall",
+      "Advanced networking": "License-free SD-WANWireGuard, L2TP and OpenVPN server\nOpenVPN client\nOpenVPN and IPsec site-to-site VPN\nOne-click Teleport and Identity VPN\nPolicy-based WAN and VPN routing\nDHCP relay\nCustomizable DHCP server\nIGMP proxy\nIPv6 ISP support"
+    },
+    "LEDs": {
+      "Ethernet": "Green: link/activity"
+    },
+    "Application Requirements": {
+      "Mobile app": "UniFi iOS™: Version 10.12.0 and later\nUniFi Android™: Version 10.11.2 and later"
+    }
+  }
+}
+Addons: []

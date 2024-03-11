@@ -1,0 +1,63 @@
+Name: XG 6 PoE (Gen1)
+Price: $599.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/us-xg-6poe
+Specifications: "A Layer 3, PoE switch with (4) 10 GbE, PoE++ RJ45 ports and (2) 10G SFP+ ports."
+Features: "(4) 1/2.5/5/10 GbE PoE++ ports
+
+(2) 10G SFP+ ports
+
+170W total PoE availability
+
+Layer 3 switching
+
+Wired DC backup power"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "165 x 268 x 32 mm (6.5 x 10.6 x 1.3\")",
+      "Weight": "1.3 kg (2.9 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band\n(1) RJ45 Serial port Out-of-Band\n(1) USB Type C port Out-of-Band",
+      "Networking interface": "(4) 1/2.5/5/10 GbE RJ45 ports\n(2) 1/10G SFP+ ports",
+      "PoE interface": "(4) PoE++ (Pair A 1, 2+; 3, 6-) (Pair B 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "60 Gbps",
+      "Switching capacity": "120 Gbps",
+      "Forwarding rate": "89.3 Mpps",
+      "Power method": "(1) 54V DC, 3.88A power adapter (Included)(1) DC input with terminal block",
+      "Power supply": "External AC/DC adapter (Included)DC power source",
+      "Supported voltage range": "44–57V DC",
+      "Max. power consumption": "40W (Excluding PoE output)",
+      "Total available PoE": "170W",
+      "Max. PoE wattage per port by PSE": "PoE++: 60W",
+      "Voltage range PoE mode": "PoE: 44–57V\nPoE+/PoE++: 50—57V",
+      "ESD/EMP protection": "Air: ± 18kV, contact: ± 12kV",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoELink/Speed/Activity",
+      "SFP+": "Link/Activity"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "10 Gbps Multi-Mode Optical Module",
+    "price": "$38.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP+ to RJ45 Adapter",
+    "price": "$65.00",
+    "specifications": []
+  }
+]

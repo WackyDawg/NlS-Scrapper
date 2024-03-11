@@ -1,0 +1,78 @@
+Name: G4 Doorbell Pro PoE Kit
+Price: $379.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g4-doorbell-pro-poe-kit
+Specifications: "Your premium UniFi doorbell with integrated PoE and included PoE chime for plug-and-play installation."
+Features: "Improved HDR and low-light performance
+
+Programmable welcome display and secondary package-detection camera
+
+AI event detections
+
+Connect and power using PoE
+
+Integrated 2-way audio
+
+Includes PoE Chime
+
+Weather-resistant (outdoor covered)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "UVC-G4 Doorbell ProDevice: 160.6 x 51.7 x 35.1 mm (6.3 x 2 x 1.4\")\nWall mount: 159.3 x 50.3 x 17.5 mm (6.3 x 1.9 x 0.7\")\nWedge: 161.1 x 52.1 x 25.7 mm (6.3 x 2.1 x 1\")\nOn-wall mount: 161.1 x 52.1 x 25.75 mm (6.3 x 2.1 x 1\")\nUP-Chime PoEDevice: Ø62 x 54 mm (Ø2.5 x 2.1\")\nIn-wall mount: Ø89 x 63.1 mm (Ø3.5 x 2.5\")\nOn-wall mount: Ø62 x 20.2 mm (Ø2.5 x 0.8\")",
+      "Weight": "UVC-G4 Doorbell ProDevice: 264 g (9.3 oz)\nWall mount: 56 g (2 oz)\nWedge: 33 g (1.2 oz)\nOn-wall mount: 53 g (1.9 oz)\nUP-Chime PoEDevice: 158 g (5.6 oz)\nIn-wall mount: 91 g (3.2 oz)\nOn-wall mount: 28 g (1 oz)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mount material": "Wall mount: aluminum alloy\nWedge: polycarbonate\nOn-wall mount: polycarbonate\nChime mout: polycarbonate, zinc alloy",
+      "Weatherproofing": "IPX4 (UVC-G4 Doorbell Pro)",
+      "Color": "BlackWhite"
+    },
+    "Optics": {
+      "Sensor": "Main camera: 5MP CMOS\nPackage camera: 8MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "Main camera: H: 138°, V: 114°, D: 155° (LDC On)Main camera: H: 160°, V: 117°, D: 160° (LDC Off)\nPackage camera: H: 97.5°, V: 79.4°, D: 118.2°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "Main camera: 2MP 1600 x 1200 (4:3)Package camera: 2MP 1600 x 1200 (4:3)",
+      "Max. frame rate": "30 FPS"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "UVC-G4 Doorbell Pro: GbE RJ45 portUP-Chime PoE: 10/100 MbE port",
+      "Power method": "PoE",
+      "Supported voltage range": "UVC-G4 Doorbell Pro: 37—57V DCUP-Chime PoE: 44–57V DC",
+      "Max. power consumption": "UVC-G4 Doorbell Pro: 7WUP-Chime PoE: 3.5W",
+      "LED": "Link/activity",
+      "Buttons": "(1) Ring button\n(1) Factory reset",
+      "Ambient operating temperature": "UVC-G4 Doorbell Pro: -30 to 40º C (-22 to 104º F)UP-Chime PoE: 0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "UVC-G4 Doorbell Pro: 0 to 90% noncondensingUP-Chime PoE: 10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled for the Doorbell)",
+      "Speaker": "Yes",
+      "Buzzer": "Yes (UP-Chime PoE)"
+    },
+    "Software": {
+      "UniFi OS application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Doorbell Pro PoE Gang Box Mount",
+    "price": "$39.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Doorbell Pro Cover",
+    "price": "$29.00",
+    "specifications": []
+  }
+]

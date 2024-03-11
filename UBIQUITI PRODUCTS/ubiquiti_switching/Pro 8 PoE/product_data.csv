@@ -1,0 +1,67 @@
+Name: Pro 8 PoE
+Price: $349.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-pro-8-poe
+Specifications: "An 8-port, Layer 3 switch with PoE+ and PoE++ output."
+Features: "(6) GbE PoE+ ports
+
+(2) GbE PoE++ ports
+
+(2) 10G SFP+ ports
+
+120W total PoE availability
+
+Note: Managed with UniFi Network Application version 7.5.176 and later."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "200 x 248 x 44 mm (7.9 x 9.8 x 1.7\")",
+      "Weight": "2.1 kg (4.6 lb)",
+      "Enclosure materials": "Polycarbonate, metal",
+      "Mount material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(8) GbE RJ45 ports(2) 10G SFP+ ports",
+      "PoE interface": "(6) PoE/PoE+ (Pins 1, 2+; 3, 6-) (2) 60W PoE++ (Pair A 1, 2+; 3, 6-) (Pair B 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "28 Gbps",
+      "Switching capacity": "56 Gbps",
+      "Power method": "Universal input, 100—240V AC, 2A Max.",
+      "Power supply": "AC/DC, internal",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "30W (Excluding PoE output)",
+      "Total available PoE": "120W",
+      "Max. PoE wattage per port by PSE": "PoE: 15WPoE+: 30WPoE++: 60W",
+      "Voltage range PoE mode": "PoE: 44—57V\nPoE+: 50—57V PoE++: 50—57V",
+      "LCM display": "(1) 1.3\" touchscreen",
+      "LEDs": "RJ45 ports: link/activity",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "DHCP for locally-managed networks\nDHCP relay\nInter-VLAN routing between networks on same switch\nStatic routing between local networks"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 7.5.176 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "10 Gbps Multi-Mode Optical Module",
+    "price": "$38.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP+ to RJ45 Adapter",
+    "price": "$65.00",
+    "specifications": []
+  }
+]

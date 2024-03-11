@@ -1,0 +1,85 @@
+Name: G4 Doorbell Pro
+Price: $299.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g4-doorbell-pro
+Specifications: "Your premium UniFi doorbell with an enhanced package detection camera and integrated display."
+Features: "Improved HDR and low-light performance
+
+Programmable welcome display and secondary package-detection camera
+
+6 m (20 ft) IR night vision
+
+AI event detections
+
+Wirelessly connected with UniFi WiFi Auto-Link*
+
+Integrated 2-way audio
+
+Weather-resistant (outdoor covered)
+
+*Third-party WiFi configuration available during setup with the UniFi Protect mobile app."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "160.6 x 51.7 x 28.7 mm (6.3 x 2 x 1.1\")",
+      "Weight": "Without mount: 253 g (8.9 oz)\nWith flat wall mount: 286 g (10.1 oz)\nWith 20° wedge mount: 325 g (11.5 oz)",
+      "Enclosure material": "Polycarbonate, aluminum alloy",
+      "Mount material": "Flat wall mount: aluminum alloy\n20° wedge mount: polycarbonate",
+      "Weatherproofing": "IPX4"
+    },
+    "Optics": {
+      "Sensor": "Main camera: 5MP CMOS\nPackage camera: 8MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "Main camera: H: 138°, V: 114°, D: 155°\nPackage camera: H: 97.5°, V: 79.4°, D: 118.2°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "Main camera: 2MP 1600 x 1200 (4:3)Package camera: 2MP 1600 x 1200 (4:3)",
+      "Max. frame rate": "30 FPS"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "802.11a/b/g/n/ac WiFi\nBluetooth 5.0GbE support (with UACC-Adapter-DBPOE)",
+      "Max. power consumption": "10W",
+      "Power method": "16—24V AC, 1.25A max., 50/60 Hz\nUSB-C power cable, 5V DC, 2A",
+      "Supported voltage range": "37—57V DC",
+      "LED": "Link/activity",
+      "Button": "(1) Ring button\n(1) Factory reset",
+      "Mounting": "Flat wall, 20° wedge (Included)",
+      "Ambient operating temperature": "-10 to 40º C (14 to 104º F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 1.21.0 and later",
+      "Mobile app": "UniFi Protect iOS™: Version 1.5.8 and laterUniFi Protect Android™:  Version 1.4.8 and later"
+    },
+    "Compatible Mechanical Chimes": {
+      "ManufacturerBroan-NuTone\nBroan-NuTone\nHeath Zenith\nCraftmade\nBroan-NuTone\nNewhouse Hardware": "ModelLA126WH\nLA11WH\nSL-2735\nCTPW-RG\nLA39WH\nCHM3D"
+    },
+    "Compatible Digital Chimes": {
+      "ManufacturerBroan-NuToneIQ AMERICAIQ AMERICA": "ModelLA600WHDW-2850DW-2840"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Doorbell Pro PoE Adapter",
+    "price": "$39.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Doorbell Pro AC Adapter",
+    "price": "$30.00",
+    "specifications": []
+  }
+]

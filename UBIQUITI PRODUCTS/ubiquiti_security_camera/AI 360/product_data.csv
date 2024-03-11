@@ -1,0 +1,72 @@
+Name: AI 360
+Price: $399.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-ai-360
+Specifications: "Indoor/outdoor 2K PoE camera with pan-tilt-zoom functionality that offers full 360° surveillance."
+Features: "2K (4MP) video resolution
+
+Ultra-wide 360° view
+
+9 m (30 ft) IR night vision
+
+Advanced AI: Detect people, vehicles, and more
+
+Integrated 2-way audio
+
+Connect and power using PoE
+
+Weather-resistant (outdoor covered)
+
+Vandal resistant"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø147 x 49 mm (Ø5.8 x 1.9\")",
+      "Weight": "Without mount: 655 g (1.4 lb)With outdoor accessory: 685 g (1.5 lb)",
+      "Enclosure material": "Aluminum alloy, polycarbonate, hard-coated dome",
+      "Mount material": "Polycarbonate, stainless steel",
+      "Weatherproofing": "IPX4",
+      "Resistance": "IK08"
+    },
+    "Optics": {
+      "Sensor": "5MP CMOS",
+      "Lens": "Fisheye lens",
+      "View angle": "360°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 1920 x 1920 (1:1)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Power method": "PoE",
+      "Power supply": "48V DC, 0.18A PoE",
+      "Max. power consumption": "8.64W",
+      "Supported voltage range": "37—57V DC",
+      "LED": "R/G/B/W",
+      "Button": "Factory reset",
+      "Mounting": "Surface mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 1.10.0 and later",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  }
+]

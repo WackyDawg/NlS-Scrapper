@@ -1,0 +1,63 @@
+Name: EV Station
+Price: $999.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/uc-ev-station
+Specifications: "Smart electric vehicle charging station designed for organizations."
+Features: "Ultra-bright 10.1" touch display
+
+11 kW max charging output
+
+SAE J1772 charging plug
+
+Media content playback for digital signage applications
+
+Access control with QR code scanning and UniFi Identity mobile app
+
+Hardwire or use one of the included NEMA 14-50 and 6-50 cables for plug-in installation
+
+Connected with UniFi WiFi Auto-Link* or Ethernet
+
+Includes wall mount
+
+*UniFi WiFi Auto-Link supported with version 1.0.262 and later. Third-party WiFi configuration is not supported."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "280 x 178 x 143 mm (11 x 7 x 5.6”)",
+      "Weight": "With wall mount/charging gun/power cord: 8.1 kg (17.9 lb)",
+      "Enclosure material": "Front modules: plastic\nMiddle module: aluminum, plastic",
+      "Mount material": "Plastic",
+      "Charging cable length": "5 m (16.4 ft)",
+      "Weatherproofing": "Type 3R",
+      "Charging outlet": "SAE J1772"
+    },
+    "Hardware": {
+      "Display size": "257 mm (10.1\") diagonal",
+      "Resolution": "800 x 1280 (10:16)",
+      "Display luminance": "800 nits (typical)",
+      "Touch screen technology": "Capacitive multi-touch",
+      "Processor": "Octa-core Arm® Cortex®-A53, 1.8 GHz",
+      "Memory": "Storage: 32GB\nRAM:2GB",
+      "Power input": "200–240V ~ 50A, 50/60Hz, 1φ",
+      "Power output": "200–240V ~ 50A, 50/60Hz, 1φ"
+    },
+    "Circuit rating": {
+      "Connectivity": "(1) GbE RJ45 port\n(1) 2 pin ATX connector\nBluetooth® 4.2",
+      "Sensors": "ALS + PS (ambient light sensor + proximity sensor)",
+      "Embedded front camera": "8 MP",
+      "Mounting": "Wall mount and stand",
+      "Ambient operating temperature": "-40 to 50° C (-40 to 122° F)",
+      "Ambient operating humidity": "5 to 90% noncondensing",
+      "Certifications": "FCC, IC"
+    },
+    "Software": {
+      "Management application": "UniFi Connect web: Version 0.70 and laterUniFi Connect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "EV Station Stand",
+    "price": "$399.00",
+    "specifications": []
+  }
+]

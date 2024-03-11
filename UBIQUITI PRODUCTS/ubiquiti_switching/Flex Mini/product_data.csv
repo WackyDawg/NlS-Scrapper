@@ -1,0 +1,56 @@
+Name: Flex Mini
+Price: $29.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-flex-mini
+Specifications: "A compact, 5-port, Layer 2 switch that can be powered with PoE or a 5V USB-C adapter."
+Features: "(4) GbE ports
+
+(1) GbE PoE input port for power
+
+Optional powering with included 5V, 1A USB-C adapter*
+
+*Adapter included with single unit purchases.
+
+Note. EU version comes with EU power plug only."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "107 x 70 x 21 mm (4.2 x 2.8 x 0.8\")",
+      "Weight": "150 g (5.3 oz)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(5) GbE RJ45 ports",
+      "Total non-blocking throughput": "5 Gbps",
+      "Switching capacity": "10 Gbps",
+      "Forwarding rate": "7.44 Mpps",
+      "Power method": "(1) USB Type C, 5V\n(1) PoE/PoE+, 44—57V DC, 0.05—0.04A",
+      "Power supply": "5V, 1A power adapter*\n*Only single-unit packages include the 5V, 1A USB-C power adapter.",
+      "Supported voltage range": "USB Type C: 4.7—5.3V DC\nPoE/PoE+: 44—57V DC",
+      "Max. power consumption": "2.5W",
+      "ESD/EMP protection": "Air:  ± 16kV, contact: ± 12kV",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "Port isolation\nStorm control\nPort mirroring\nMulticast / broadcast rate limiting\nFlow control\nJumbo frames\nEgress rate limit",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "Speed/link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 5.12.5 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

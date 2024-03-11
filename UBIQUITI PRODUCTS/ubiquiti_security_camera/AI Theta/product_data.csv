@@ -1,0 +1,87 @@
+Name: AI Theta
+Price: $299.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-kits/products/uvc-ai-theta
+Specifications: "A complete AI Theta system that discreetly secures any space while maintaining a warm and inviting atmosphere."
+Features: "Kit includes (1) AI Theta Hub, (1) Wide-Angle Lens, (1) 360 Lens, and (2) Standard Flush Mounts
+
+4K (9MP) resolution and ultra-wide 360° view with 360 Lens
+
+4K (8MP) video resolution with Wide-Angle Lens
+
+Advanced AI: Detect people, read license plates, and more*
+
+Minimal footprint with lens separated from the camera body
+
+PoE powered hub that connects to lens with included cable
+
+Supports optional AI Theta Audio module for two-way audio
+
+*License plate recognition supported with Long-Distance and Wide-Angle lenses."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "UVC-AI-Theta-Hub: 140 x 70 x 38 mm (5.5 x 2.8 x 1.5”) UVC-AI-Theta-Lens/360: Ø22.8. x 43.5 mm (Ø0.9 x 1.7”)",
+      "Weight": "UVC-AI-Theta-Hub: 330 g (11.6 oz) UVC-AI-Theta-Hub Mount: 35 g (1.2 oz) UVC-AI-Theta-Lens/360: 15 g (0.5 oz) UVC-AI-Theta-Lens/360 Flush Mount: 12 g (0.4 oz)",
+      "Enclosure material": "UVC-AI-Theta-Hub: aluminum alloy UVC-AI-Theta-Lens/360: aluminum alloy, polycarbonate UVC-AI-Theta-Lens/360 Flush Mount: polycarbonate",
+      "Mount material": "UVC-AI-Theta-Hub: aluminum alloy UVC-AI-Theta-Lens/360: aluminum alloy, polycarbonate UVC-AI-Theta-Lens/360 Flush Mount: polycarbonate",
+      "Cable jacket enclosure dimensions": "28 x 13 x 7.5 mm (1.1 x 0.5 x 0.3\")",
+      "Cable jacket enclosure material": "PVC",
+      "Cable length": "1 m (3.3 ft)",
+      "Cable diameter": "3.7 mm (0.15\")",
+      "Cable jacket material": "Woven fabric",
+      "Cable weight": "18 g (0.63 oz)",
+      "Cable connector type": "Theta proprietary"
+    },
+    "Optics": {
+      "Sensor": "UVC-AI-Theta-Lens: 8MP CMOS UVC-AI-Theta-Lens-360: 12MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "UVC-AI-Theta-Lens: H: 97.5°, V: 79.4°, D: 118.2° UVC-AI-Theta-Lens-360: H: 180°, V: 180°, D: 180°"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "UVC-AI-Theta-Lens: 8MP 3264 x 2448 (4:3) UVC-AI-Theta-Lens-360: 6MP 2560 x 2560 (1:1)",
+      "Max. frame rate": "UVC-AI-Theta-Lens: 24 FPSUVC-AI-Theta-Lens-360: 20 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "12.5W",
+      "Power method": "PoE",
+      "Power supply": "5V DC, 0.5A",
+      "Supported voltage range": "37—57V DC",
+      "Output power": "5V DC, 1A per port",
+      "LED": "R/G/B/W",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104o F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Supports optional AI Theta Audio module for two-way audio (Sold separately)",
+      "Speaker": "Supports optional AI Theta Audio module for two-way audio (Sold separately)"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 2.7.18 and later",
+      "Mobile app": "UniFi Protect iOS™ and Android™:  Version 1.11.0 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Audio",
+    "price": "$69.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Angle Mount",
+    "price": "$29.00",
+    "specifications": []
+  },
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,57 @@
+Name: Industrial
+Price: $499.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-industrial
+Specifications: "An 8-port, Layer 2 PoE switch with a silent, fanless cooling system."
+Features: "(8) GbE PoE++ ports
+
+(2) GbE ports
+
+430W total PoE availability
+
+Wide operating temperature range
+
+Fanless, silent cooling"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "254 x 235 x 60 mm (10 x 9.3 x 2.4\")",
+      "Weight": "3.9 kg (8.5 lb)",
+      "Enclosure material": "Die-cast aluminum with black powder coated finish"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(10) GbE RJ45 ports",
+      "PoE interface": "(8) 60W PoE++ (Pair A 1, 2+; 3, 6-) (Pair B 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "10 Gbps",
+      "Switching capacity": "20 Gbps",
+      "Forwarding rate": "14.88 Mpps",
+      "Power method": "Universal input, 100—240V AC, 6A Max., 50/60 Hz",
+      "Power supply": "AC/DC, internal, 450W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "20W (Excluding PoE output)",
+      "Total available PoE": "430W",
+      "Max. PoE wattage per port by PSE": "PoE++: 60W",
+      "Voltage range PoE mode": "PoE++: 50—57V",
+      "ESD/EMP protection": "Air: ± 24kV, contact: ± 24kV",
+      "Shock and vibration": "ETSI300-019-1.4 Standard",
+      "Ambient operating temperature": "Internal AC/DC @ 450W: -40 to 50° C (-40 to 122° F)\n                Internal AC/DC @ 240W: -40 to 60° C (-40 to 140° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/link/activity"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,73 @@
+Name: Dream Machine Pro
+Price: $379.00
+Product URL: https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udm-pro
+Specifications: "Enterprise-grade, rack-mount UniFi Cloud Gateway with full UniFi application support, 10 Gbps performance, and an integrated switch."
+Features: "Includes full UniFi application suite for device management
+
+3.5+ Gbps routing with IDS/IPS
+
+(1) 10G SFP+*, (8) GbE RJ45 LAN ports
+
+(1) 10G SFP+*, (1) GbE RJ45 WAN ports
+
+1.3" touchscreen
+
+3.5" NVR HDD bay
+
+*Pair with an official SFP+ Module or SFP+ to RJ45 Adapter for the best experience."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "442.4 x 43.7 x 285.6 mm (17.4 x 1.7 x 11.2\")",
+      "Weight": "3.9 kg (8.6 lb)",
+      "Enclosure material": "Aluminium CNC, SGCC steel",
+      "Mount material": "SGCC steel"
+    },
+    "Hardware": {
+      "Processor": "Quad-core ARM® Cortex®-A57 at 1.7 GHz",
+      "System memory": "4 GB DDR4",
+      "On-board storage": "16 GB eMMC",
+      "Management interface": "Ethernet Bluetooth",
+      "Networking interface": "LAN: (8) GbE RJ45 ports(1) 10G SFP+ portWAN: (1) GbE RJ45 port(1) 10G SFP+ port",
+      "IDS/IPS throughput": "3.5 Gbps**Measured with iPerf3.",
+      "Power method": "(1) Universal AC input, 100—240V AC, 50/60 Hz (1) USP-RPS DC input",
+      "Power supply": "AC/DC, internal, 50W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "33W",
+      "ESD/EMP protection": "Air: ± 15kV, contact: ± 8kV",
+      "LCM display": "(1) 1.3\" touchscreen",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-10° to 40° C (14° to 104° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Gateway Features": {
+      "Performance": "Redundant WAN with failover and load balancing\nWiFi QoS with UniFi APs\nApplication, domain, and country-based QoS\nApplication and device type identification\nAdditional internet failover with LTE Backup\nInternet quality and outage reporting",
+      "Next-generation security": "Application-aware firewall rules\nSignature-based IPS/IDS threat detection\nContent, country, domain, and ad filtering\nVLAN/subnet-based traffic segmentation\nFull stateful firewall",
+      "Advanced networking": "License-free SD-WANWireGuard, L2TP and OpenVPN server\nOpenVPN client\nOpenVPN and IPsec site-to-site VPN\nOne-click Teleport and Identity VPN\nPolicy-based WAN and VPN routing\nDHCP relay\nCustomizable DHCP server\nIGMP proxy\nIPv6 ISP support"
+    },
+    "LEDs": {
+      "Ethernet": "Link/activityGreen: 1GAmber: 10/100M",
+      "SFP+": "Link/activityWhite: 10GGreen: 1G",
+      "HDD": "White: disk activityAmber: disk error",
+      "RPS": "Blue: ready"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Industrial-grade 3.5\" HDD, 8TB",
+    "price": "$220.00",
+    "specifications": []
+  },
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP+ to RJ45 Adapter",
+    "price": "$65.00",
+    "specifications": []
+  }
+]

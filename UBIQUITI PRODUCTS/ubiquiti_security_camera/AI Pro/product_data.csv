@@ -1,0 +1,76 @@
+Name: AI Pro
+Price: $499.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-ai-pro
+Specifications: "Indoor/outdoor 4K PoE camera with 3x optical zoom, long-range IR night vision, and enhanced AI detection capabilities."
+Features: "4K (8MP) video resolution
+
+3x optical zoom
+
+Advanced AI: Detect people, read license plates, and more
+
+25 m (82 ft) IR night vision
+
+Far-field microphone array for two-way audio
+
+Connect and power using PoE
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Without mount: Ø86 x 112.6 mm (Ø3.4 x 4.4\")\nWith mount: Ø86 x 175.3 mm (Ø3.4 x 6.9\")",
+      "Weight": "Without mount: 675 g (1.5 lb)\nWith mount: 820 g (1.8 lb)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mounting material": "Aluminum alloy",
+      "Weatherproofing": "IP65",
+      "Resistance": "IK04",
+      "Color": "BlackWhite"
+    },
+    "Optics": {
+      "Sensor": "1/1.8\" 8MP",
+      "Lens": "F 4.1–12.3 mm; ƒ/1.53–ƒ/3.3",
+      "View angle": "Wide: H: 109.9°, V: 59.9°, D: 127.7° \nZoom: H: 34.9°, V: 19.7°, D: 40°",
+      "Night mode": "Built-in IR LED illumination and an IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "8MP 3840 x 2160 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay, HDR"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "11W",
+      "Power method": "PoE+",
+      "Supported voltage range": "37—57V DC",
+      "LED": "R/G/B/W ring",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling, pole mount",
+      "Ambient operating temperature": "-20 to 50° C (-4 to 122° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes",
+      "2-way audio": "Far-field microphone array"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

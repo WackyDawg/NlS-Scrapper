@@ -1,0 +1,67 @@
+Name: Mobile Router
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/umr-us
+Specifications: "Managed mobile WiFi router that brings plug-and-play connectivity to any environment. Use the pre-installed AT&T nano-SIM with three data plan options for LTE data, or bring your own AT&T nano-SIM."
+Features: "LTE category 4 mobile WiFi router
+
+Pre-installed AT&T nano-SIM*
+
+VPN client routing
+
+Automatic failover between LTE and wired WAN
+
+(2) GbE ports with (1) PoE output**
+
+Powered using PoE, USB Type-C, or 4-pin DC power socket
+
+Integrated GPS
+
+Optional Mobility Cloud subscription***
+
+*Works with the AT&T network. LTE data plan options with the pre-installed AT&T nano-SIM are $15/month for 1 GB, $30/month for 5 GB, or $70/month for 20 GB of data, plus $15 for each additional GB.
+**PoE+ input required for PoE passthrough.
+***Mobility Cloud offers secure remote access and full management through the UniFi Mobility Portal for $2/month per Mobile Router. Mobility Cloud is not required when using your own nano-SIM. Basic management, such as WiFi configuration, is always available with local access through the UniFi mobile app when connected to a Mobile Router’s WiFi."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "220.6 x 89.8 x 28.8 mm (8.7 x 3.5 x 1.1\")",
+      "Weight": "Without mount: 257 g (9.1 oz) With mount: 303 g (10.7 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mount material": "Wall mount: polycarbonate DIN rail mount: steel"
+    },
+    "Hardware": {
+      "Processor": "74 Kc MIPS processor at 775 MHz",
+      "Memory": "128 MB DDR2",
+      "Networking interface": "(2) GbE RJ45 ports LTE Category 4 radio WiFi 4",
+      "Management interface": "Ethernet WiFi",
+      "PoE interface": "(1) PoE input\n(1) PoE output* (Max. 10W)*Requires a PoE+ switch.",
+      "SIM": "Pre-installed AT&T data-only nano SIM",
+      "LTE bands": "B2, B4, B5, B12, B14, B66",
+      "Operator": "AT&T network",
+      "LTE throughput speed*": "Download 150 Mbps / Upload 50 Mbps*Speed depends on network coverage and performance at the device location.",
+      "WiFi standards": "802.11 b/g/n, WiFi 2.4G, 20/40 MHz",
+      "GPS": "Yes",
+      "Antennas": "(1) External LTE antenna (main + aux) with TS9 male connectors\n(1) Internal WiFi 2.4 GHz antenna\n(1) Internal GPS antenna",
+      "Power supply": "UniFi PoE switch (48—54V DC, 0.625A)\nUSB Type-C (5V DC, 3A)\n4-pin* ATX DC power socket (9V DC, 1A)*Please refer to the Installation Guide for power socket pinout.",
+      "Max. power consumption": "9W",
+      "LCM display": "1.3\" screen",
+      "Button": "Factory reset",
+      "Mounting": "DIN rail/wall (Included)",
+      "Ambient operating temperature": "-20 to 45° C (-4 to 113° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "FCC, IC, PTCRB, AT&T"
+    },
+    "Supported WiFi Data Rates": {
+      "802.11b": "1, 2, 5.5, 11 Mbps",
+      "802.11g": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11n (WiFi 4)": "6.5 Mbps to 150 Mbps (MCS0 - MCS7, HT 20/40)"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Mobile Router Table Stand",
+    "price": "$19.00",
+    "specifications": []
+  }
+]

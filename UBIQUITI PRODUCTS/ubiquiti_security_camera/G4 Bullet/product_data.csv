@@ -1,0 +1,73 @@
+Name: G4 Bullet
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/unifi-protect-g4-bullet-camera
+Specifications: "Indoor/outdoor PoE camera designed to provide optimal nighttime surveillance."
+Features: "2K (4MP) video resolution
+
+Flexible 3-axis adjust mount
+
+9 m (30 ft) IR night vision
+
+AI event detections
+
+Record audio with an integrated microphone
+
+Connect and power using PoE
+
+Ruggedized metal enclosure
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø75 x 140 mm (Ø3 x 5.5\")",
+      "Weight": "520 g (1.2 lb)",
+      "Enclosure material": "Aluminum alloy",
+      "Mounting material": "Aluminum alloy, polycarbonate",
+      "Weatherproofing": "IPX4",
+      "Resistance": "IK04"
+    },
+    "Optics": {
+      "Sensor": "5MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 86°, V: 60°, D: 111°",
+      "Night mode": "Built-in light sensor, IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 2688 x 1512 (16:9)",
+      "Max. frame rate": "24 FPS",
+      "Image settings": "Brightness, contrast, sharpness, saturation, noise reduction, 50/60 Hz"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "4W",
+      "Power method": "PoE",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling, pole mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Bullet IR Range Extender",
+    "price": "$79.00",
+    "specifications": []
+  }
+]

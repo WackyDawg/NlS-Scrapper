@@ -1,0 +1,74 @@
+Name: G3 Instant
+Price: $79.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/unifi-protect-g3-instant-camera
+Specifications: "Compact, wide-angle, WiFi-connected camera with two-way audio."
+Features: "FHD (2MP) video resolution
+
+Ultra-wide viewing angle (111.3°)
+
+6 m (20 ft) IR night vision
+
+Wirelessly connected with UniFi WiFi Auto-Link*
+
+Versatile table or wall mounting
+
+Integrated 2-way audio
+
+*Third-party WiFi configuration available during setup with the UniFi Protect mobile app.
+
+Note. EU version comes with EU power plug only."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "74 x 44 x 43 mm (2.9 x 1.7 x 1.7\")",
+      "Weight": "Without mount: 78 g (2.8 oz) With mount: 92 g (3.3 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mount material": "Polycarbonate"
+    },
+    "Optics": {
+      "Sensor": "2MP CMOS",
+      "Lens": "EFL 2.8 mm, ƒ/2.0",
+      "View angle": "H: 111.3°, V: 58.9°, D: 133.6°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Compression": "H.264",
+      "Resolution": "2MP 1920 x 1080 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Dual-core Arm® Cortex®-A7 based chip",
+      "Networking interface": "802.11 a/b/g/n/ac WiFi Bluetooth",
+      "Max. power consumption": "5W",
+      "Power method": "5V, 2A USB power adapter (Included)\nInstant PoE to USB adapter (Not included)",
+      "Supported voltage range": "5V DC, 2A",
+      "LED": "R/G/B/W",
+      "Button": "Factory reset",
+      "Mounting": "Wall mount accessory (Included)",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "G3 Instant Cover",
+    "price": "$10.00",
+    "specifications": []
+  }
+]

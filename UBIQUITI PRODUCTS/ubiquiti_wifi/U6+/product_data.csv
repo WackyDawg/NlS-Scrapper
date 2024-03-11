@@ -1,0 +1,62 @@
+Name: U6+
+Price: $129.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/u6-plus
+Specifications: "Compact, ceiling-mounted WiFi 6 AP with 4 spatial streams that improves upon the U6 Lite with higher performance and dual-band WiFi 6 support. Ideal for small and medium-sized businesses."
+Features: "WiFi 6
+
+4 spatial streams
+
+140 m² (1,500 ft²) coverage
+
+300+ connected devices
+
+Powered using PoE
+
+GbE uplink"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø160 x 33 mm (Ø6.3 x 1.3\")",
+      "Weight": "Without mount: 338 g (0.8 lb) With mount: 413 g (0.9 lb)",
+      "Enclosure material": "Polycarbonate, aluminum",
+      "Mount material": "ABS, SGCC steel"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port",
+      "Management interface": "Ethernet",
+      "Power method": "PoE",
+      "Supported voltage range": "44–57V DC",
+      "Max. power consumption": "9W",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "23 dBm23 dBm –",
+      "MIMO2.4 GHz5 GHz6 GHz": "2 x 2 2 x 2 –",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "573.5 Mbps2402 Mbps –",
+      "Antenna gain2.4 GHz5 GHz6 GHz": "3 dBi5.4 dBi –",
+      "LEDs": "White/blue",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling (Included)",
+      "Ambient operating temperature": "-30 to 60° C (-22 to 140° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "Management application": "UniFi Network: Version 7.3.76 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "U6+ Cover",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "AP Lite Recessed Ceiling Mount",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "AP Lite Retrofit Mount",
+    "price": "$29.00",
+    "specifications": []
+  }
+]

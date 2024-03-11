@@ -1,0 +1,58 @@
+Name: AI Theta Audio
+Price: $69.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-audio/products/uvc-ai-theta-audio
+Specifications: "Two-way audio module that connects to an AI Theta Hub."
+Features: "Built-in microphone and speaker for two-way audio
+
+Connects to an AI Theta Hub with the included cable
+
+Includes flush mount for flat ceiling or wall mounting"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø61.5 x 39 mm (Ø2.4 x 1.5\")",
+      "Weight": "UVC-AI-Theta-Audio: 65 g (2.3 oz) UVC-AI-Theta-Audio Flush Mount: 22 g (0.8 oz)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mount material": "Polycarbonate",
+      "Cable jacket enclosure dimensions": "28 x 13 x 7.5 mm (1.1 x 0.5 x 0.3\")",
+      "Cable jacket enclosure material": "PVC",
+      "Cable length": "1 m (3.3 ft)",
+      "Cable diameter": "3.3 mm (0.13\")",
+      "Cable jacket material": "Woven fabric",
+      "Cable weight": "18 g (0.63 oz)",
+      "Cable connector type": "Theta proprietary"
+    },
+    "System": {
+      "Max. power consumption": "4.5W",
+      "Power method": "USB Type C, 5V DC, 0.9A",
+      "Mounting": "Ceiling mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 2.7.18 and later",
+      "Mobile app": "UniFi Protect: Version 1.11.0 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Pro",
+    "price": "$329.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta",
+    "price": "$299.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Hub",
+    "price": "$199.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,52 @@
+Name: AI Theta 360 Lens
+Price: $59.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-lenses/products/uvc-ai-theta-lens-360
+Specifications: "Ultra-wide 360° view lens that connects to an AI Theta Hub."
+Features: "4K (9MP) resolution with ultra-wide 360° view
+
+Ideal for panoramic coverage of large, busy spaces such as entrances, lobbies, and retail floors
+
+Includes Standard Flush Mount for flat ceiling or wall mounting"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø22.8. x 43.5 mm (Ø0.9 x 1.7”)",
+      "Weight": "15 g (0.5 oz)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mount material": "Polycarbonate",
+      "Weatherproofing": "Indoor only"
+    },
+    "Optics": {
+      "Sensor": "12MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 180°, V: 180°, D: 180°"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 2560 x 2560 (1:1)",
+      "Max. frame rate": "20 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Power method": "Theta proprietary",
+      "Power supply": "5V DC, 0.5A",
+      "Max. power consumption": "2.5W",
+      "Mounting": "Wall, ceiling mount (Included)Angle mount (Sold separately)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Hub",
+    "price": "$199.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Audio",
+    "price": "$69.00",
+    "specifications": []
+  }
+]

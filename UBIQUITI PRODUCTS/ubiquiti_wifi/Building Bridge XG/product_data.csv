@@ -1,0 +1,71 @@
+Name: Building Bridge XG
+Price: $999.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/ubb-xg
+Specifications: "A 60 GHz wireless point-to-point bridge with 10G SFP+ uplink for maximum performance."
+Features: "500 m (1,640 ft) maximum range
+
+60 GHz & 5 GHz dual-radio redundancy
+
+(1) 10G SFP+ and (1) GbE PoE++ port
+
+Powered using PoE++*
+
+Built-in LED alignment indicators
+
+Sold as 2-pack
+
+Note. Cannot be set up standalone and must be managed by a UniFi Console, Official UniFi Hosting, or a Self-Hosted UniFi Network Server.
+
+*Includes PoE power adapter."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø191.8 x 59 mm (Ø7.6 x 2.3\")",
+      "Weight": "Without mount: 1.7 kg (3.8 lb) With mount: 2.9 kg (6.3 lb)",
+      "Enclosure material": "Aluminum alloy, UV-resistant polycarbonate",
+      "Mount material": "Stainless steel",
+      "Pole mount diameter": "1-2.5\" on pipe outer diameter",
+      "Weatherproofing": "IPX6"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port (1) 1/10G SFP+ port",
+      "Management interface": "Ethernet Bluetooth",
+      "Power method": "PoE++\nPassive PoE:4-pairs (1, 2+; 3, 6-) (4, 5+; 7, 8-)2-pairs (4, 5+; 7, 8-)",
+      "Power supply": "UniFi PoE switch\n48V, 0.65A Gigabit PoE adapter (included)",
+      "Supported voltage range": "48V DC ± 10%",
+      "Max. power consumption": "31.2W",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "–23 dBm –16 dBm (60 GHz)",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "–866.6 Mbps –6 Gbps (60 GHz)",
+      "Antenna gain\n                    2.4 GHz\n                    5 GHz\n                    6 GHz": "–\n                    14 dBi\n                     –\n                   21 dBi (60 GHz)",
+      "Maximum range": "500 m (1,640 ft)",
+      "LEDs": "R/G/B",
+      "Button": "Factory-reset",
+      "Mounting": "60G precision alignment pole mount (Included)",
+      "Ambient operating temperature": "-40 to 55° C (-40 to 131° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "FCC, IC, CE, terragraph"
+    },
+    "Software": {
+      "WiFi standards": "802.11ac/ad/ay",
+      "Wireless security": "WPA2 AES (Always On)",
+      "Operating modes": "PtP",
+      "VLAN": "Management VLAN only"
+    },
+    "RF": {
+      "Operating frequency*": "57 to 66 GHz\n*Dependent on regional regulations.",
+      "Channel bandwidth": "2,160/4,320 MHz (Channel Bonding Enabled)",
+      "Operating channels*": "58,320/59,400/60,480/61,560/62,640/63,720/64,800 MHz\n  *Dependent on regional regulations."
+    },
+    "Backup RF": {
+      "Operating frequency*US/CAWorldwide": "U-NII-1: 5,150 - 5,250 MHzU-NII-2A: 5,250 - 5,350 MHzU-NII-2C: 5,470 - 5,725 MHzU-NII-3: 5,725 - 5,850 MHz\n5,150 - 5,725 MHz*Dependent on regional regulations.",
+      "Channel bandwidth": "20/40/80 MHz"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

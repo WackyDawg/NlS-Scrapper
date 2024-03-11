@@ -1,0 +1,84 @@
+Name: AI Theta Pro
+Price: $329.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-kits/products/uvc-ai-theta-pro
+Specifications: "A complete ceiling 360° AI Theta system designed to discreetly provide a panoramic view of large, busy spaces."
+Features: "Kit includes (1) AI Theta Hub, (1) Pro 360 Lens, (1) Standard Flush Mount, and (1) Pro Flush Mount
+
+4K (8MP) resolution with ultra-wide 360° view
+
+Exceptional image quality with superb low-light performance and enhanced dynamic range
+
+Advanced AI: Detect people, read license plates, and more*
+
+Minimal footprint with lens separated from the camera body
+
+Included Pro Flush Mount allows for mounting lens without access to the rear of a ceiling or wall
+
+PoE-powered hub that connects to lens with included cable
+
+Supports optional AI Theta Audio module for two-way audio
+
+*License plate recognition supported with Long-Distance and Wide-Angle lenses."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "UVC-AI-Theta-Hub: 140 x 70 x 38 mm (5.5 x 2.8 x 1.5”) UVC-AI-Theta-ProLens360: Ø36.6 x 58.9 mm (Ø1.4 x 2.3”)\nUVC-AI-Theta-ProLens360 Flush Mount: Ø54.6 x 60.4 mm (Ø2.2 x 2.4”)",
+      "Weight": "UVC-AI-Theta-Hub: 330 g (11.6 oz) UVC-AI-Theta-Hub Mount: 35 g (1.2 oz) UVC-AI-Theta-ProLens360: 58 g (2 oz) UVC-AI-Theta-ProLens360 Flush Mount: 24 g (0.8 oz)",
+      "Enclosure material": "UVC-AI-Theta-Hub: aluminum alloy UVC-AI-Theta-ProLens360: aluminum alloy, polycarbonate",
+      "Mount material": "UVC-AI-Theta-Hub: aluminum alloy UVC-AI-Theta-ProLens360 Flush Mount: polycarbonate",
+      "Cable jacket enclosure dimensions": "28 x 13 x 7.5 mm (1.1 x 0.5 x 0.3\")",
+      "Cable jacket enclosure material": "PVC",
+      "Cable length": "1 m (3.3 ft)",
+      "Cable diameter": "3.7 mm (0.15\")",
+      "Cable jacket material": "Woven fabric",
+      "Cable weight": "18 g (0.63 oz)",
+      "Cable connector type": "Theta proprietary"
+    },
+    "Optics": {
+      "Sensor": "8MP 1/1.8\" CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 180°, V: 180°, D: 180°"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 2160 x 2160 (1:1)",
+      "Max. frame rate": "24 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay",
+      "Power supply": "5V DC, 0.5A"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "12.5W",
+      "Power method": "PoE",
+      "Supported voltage range": "37—57V DC",
+      "Output power": "5V DC, 1A per port",
+      "Display": "0.96\" color display",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Supports optional AI Theta Audio module for two-way audio (sold separately)",
+      "Speaker": "Supports optional AI Theta Audio module for two-way audio (Sold separately)"
+    },
+    "Software": {
+      "UniFi OS application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Audio",
+    "price": "$69.00",
+    "specifications": []
+  },
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  }
+]

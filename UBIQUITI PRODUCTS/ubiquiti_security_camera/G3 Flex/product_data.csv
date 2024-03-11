@@ -1,0 +1,73 @@
+Name: G3 Flex
+Price: $79.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g3-flex
+Specifications: "Full HD (1080p) mini turret camera with infrared LEDs and versatile mounting options for indoor and outdoor installations."
+Features: "FHD (2MP) video resolution
+
+Versatile table or ceiling mounting
+
+6 m (20 ft) IR night vision
+
+Connect and power using PoE
+
+Record audio with an integrated microphone
+
+Weather-resistant (outdoor covered)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø48 x 108 mm (Ø1.9 x 5.5\")",
+      "Weight": "170 g (6 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mounting material": "Polycarbonate",
+      "Weatherproofing": "IPX4"
+    },
+    "Optics": {
+      "Sensor": "2MP HDR",
+      "Lens": "EFL 4 mm, ƒ/2.0",
+      "View angle": "Lens correction off: H: 87°, V: 47°, D: 104°\nLens correction on: H: 80°, V: 46°, D: 92°",
+      "Night mode": "Built-in IR LED illumination and IR Cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "2MP 1920 x 1080 (16:9)",
+      "Max. frame rate": "25 FPS",
+      "Image settings": "Brightness, contrast, sharpness, saturation, noise reduction, 50/60 Hz"
+    },
+    "System": {
+      "Networking interface": "10/100 MbE RJ45 port",
+      "Max. power consumption": "4W",
+      "Power method": "PoE",
+      "Supported voltage range": "48V DC",
+      "Button": "Factory reset",
+      "Mounting": "Desktop, pole mount (Included)\nCeiling, pendant, wall mount (Sold separately)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "20 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)"
+    },
+    "Software": {
+      "Web application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Flex Camera Ceiling Mount",
+    "price": "$19.00",
+    "specifications": []
+  },
+  {
+    "name": "Flex Pro Mount",
+    "price": "$12.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,61 @@
+Name: Standard 48 PoE (Gen1)
+Price: $835.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/us-48-500w
+Specifications: "Layer 2, PoE switch with (48) GbE, PoE+ and 24V passive PoE RJ45 ports, (2) 1G SFP ports, and (2) 10G SFP+ ports."
+Features: "(48) GbE PoE+ ports
+
+(2) 1G SFP ports
+
+500W total PoE availability"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "485 x 374.6 x 43.7 mm (19.1 x 14.8 x 1.7\")",
+      "Weight": "6.1 kg (13.5 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band(1) RJ45 Serial port Out-of-Band",
+      "Networking interface": "(48) GbE RJ45 ports\n(2) 1G SFP ports\n(2) 1/10G SFP+ ports",
+      "PoE interface": "(48) PoE/PoE+ (Pins 1, 2+; 3, 6-)\n24V DC passive PoE (Pins 4, 5+; 7, 8-)",
+      "Total non-blocking throughput": "70 Gbps",
+      "Switching capacity": "140 Gbps",
+      "Forwarding rate": "104.16 Mpps",
+      "Power method": "Universal input, 100—240V AC, 50/60 Hz",
+      "Power supply": "AC/DC, internal, 500W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "Excluding PoE output: 64WIncluding PoE output: 500W",
+      "Total available PoE": "500W",
+      "Max. PoE wattage per port by PSE": "24V Passive PoE: 17WPoE+: 34W",
+      "Voltage range PoE mode": "24V Passive PoE: 20–27VPoE+: 50—57V",
+      "ESD/EMP protection": "Air: ± 24kV, contact: ± 24kV",
+      "Sound level*\n    Fan level 0\n    Fan level 1\n    Fan level 2\n    Fan level 3": "10.7 dBr\n    16.2 dBr\n    19.3 dBr\n    23.6 dBr\n    * Background noise level: 27.5 dBa.",
+      "Shock and vibration": "ETSI300-019-1.4 Standard",
+      "Ambient operating temperature": "-5 to 40° C (23 to 104° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/Link/Activity",
+      "SFP": "Speed/Link/Activity"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "1 Gbps Multi-Mode Optical Module",
+    "price": "$17.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP to RJ45 Adapter",
+    "price": "$19.50",
+    "specifications": []
+  }
+]

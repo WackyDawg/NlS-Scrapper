@@ -1,0 +1,75 @@
+Name: Dream Router
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-unifi-cloud-gateways/products/udr
+Specifications: "Desktop UniFi Cloud Gateway with an integrated WiFi 6 access point and PoE switch."
+Features: "Built-in WiFi 6 AP
+
+Supports three UniFi applications for device management*
+
+Integrated 4-port switch with (2) PoE ports
+
+(1) GbE RJ45 WAN port**
+
+128 GB SSD & microSD card slot for NVR***
+
+*Consists of UniFi Network plus two of Protect, Access, Talk, or Connect.
+**Internet speeds up to 700 Mbps.
+***microSD card must have at least 128 GB of storage."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø110 x 184.1 mm (Ø4.3 x 7.3\")",
+      "Weight": "1.2 kg (2.5 lb)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Processor": "Dual-core Arm® Cortex® A53 at 1.35 GHz",
+      "System memory": "2 GB",
+      "Expansion slot": "Micro SD memory card**Requires a memory card with at least 128 GB of storage.",
+      "Management interface": "EthernetBluetooth",
+      "Networking interface": "LAN: (4) GbE RJ45 portsWAN: (1) GbE RJ45 port",
+      "PoE interface": "(2) PoE (Pair B 4, 5+; 7, 8-)",
+      "Power method": "Universal AC input, 100—240V AC, 1.1A Max., 50/60 Hz",
+      "Power supply": "AC/DC, internal, 50W",
+      "Supported voltage range": "100—240V DC",
+      "Max. power consumption": "19.37W (Excluding PoE output)",
+      "PoE budget": "40W",
+      "Max. PoE wattage per port by PSE": "15.4W",
+      "Voltage range PoE mode": "44—57V DC",
+      "Max. TX power2.4 GHz5 GHz": "26 dBm26 dBm",
+      "MIMO2.4 GHz5 GHz": "4 x 44 x 4",
+      "Throughput rate2.4 GHz5 GHz": "600 Mbps2.4 Gbps",
+      "Antenna gain2.4 GHz5 GHz": "3.4 dBi4.3 dBi",
+      "Antenna": "(1) Internal, dual-band, quad-polarity antenna",
+      "LCM display": "(1) 0.96\" screen",
+      "Button": "Factory reset",
+      "LEDs": "White/blue",
+      "Ambient operating temperature": "-10 to 45° C (14 to 113° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Gateway Features": {
+      "Performance": "WiFi QoS with UniFi APs\nApplication, domain, and country-based QoS\nApplication and device type identification\nAdditional internet failover with LTE Backup\nInternet quality and outage reporting",
+      "Next-generation security": "Application-aware firewall rules\nSignature-based IPS/IDS threat detection\nContent, country, domain, and ad filtering\nVLAN/subnet-based traffic segmentation\nFull stateful firewall",
+      "Advanced networking": "License-free SD-WANWireGuard, L2TP and OpenVPN server\nOpenVPN client\nOpenVPN and IPsec site-to-site VPN\nOne-click Teleport and Identity VPN\nPolicy-based WAN and VPN routing\nDHCP relay\nCustomizable DHCP server\nIGMP proxy\nIPv6 ISP support"
+    },
+    "Software": {
+      "WiFi standards": "802.11a/b/g/n/ac/ax",
+      "Wireless security": "WEP, WPA-PSK, WPA-Enterprise (WPA/WPA2/WPA3)",
+      "BSSID": "8 per radio",
+      "VLAN": "802.1Q",
+      "Advanced QoS": "Per-user rate limiting",
+      "Guest traffic isolation": "Supported",
+      "Concurrent clients": "300+"
+    },
+    "Supported Data Rates": {
+      "802.11a": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11b": "1, 2, 5.5, 11 Mbps",
+      "802.11g": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11n (WiFi 4)": "6.5 Mbps to 600 Mbps (MCS0 - MCS31, HT 20/40)",
+      "802.11ac (WiFi 5)": "6.5 Mbps to 1.7 Gbps (MCS0 - MCS9 NSS1/2/3/4, VHT 20/40/80/160)",
+      "802.11ax (WiFi 6)": "7.3 Mbps to 2.4 Gbps (MCS0 - MCS11 NSS1/2/3/4, HE 20/40/80/160)"
+    }
+  }
+}
+Addons: []

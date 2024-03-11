@@ -1,0 +1,85 @@
+Name: G4 Instant
+Price: $99.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/camera-g4-instant
+Specifications: "Compact, wide-angle, WiFi-connected camera with two-way audio."
+Features: "2K (4MP) video resolution
+
+Ultra-wide viewing angle (102.4°)
+
+6 m (20 ft) IR night vision
+
+Wirelessly connected with UniFi WiFi Auto-Link*
+
+Versatile table or wall mounting
+
+AI event detections
+
+Integrated 2-way audio
+
+Weatherproof (outdoor exposed)
+
+*Third-party WiFi configuration available during setup with the UniFi Protect mobile app.
+
+Note. EU version comes with EU power plug only."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "81.6 x 50 x 47.2 mm (3.2 x 2 x 1.9\")",
+      "Weight": "Without mount: 125 g (4.4 oz)\nWith mount: 163 g (5.8 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mount material": "Polycarbonate",
+      "Weatherproofing": "IPX5",
+      "Resistance": "IK04"
+    },
+    "Optics": {
+      "Sensor": "5MP CMOS",
+      "Lens": "Fixed focal length EFL 2.8 mm, ƒ/1.6",
+      "View angle": "H: 102.4°, V: 54.9°, D: 120.6°",
+      "Night mode": "Built-in IR LED illumination and IR cut lter"
+    },
+    "Video": {
+      "Compression": "H.264",
+      "Resolution": "4MP 2688 x 1512 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Dual-core Arm® Cortex®-A7 based chip",
+      "Networking interface": "802.11 a/b/g/n/ac WiFi\nBluetooth",
+      "Max. power consumption": "6W",
+      "Power method": "5V, 2A USB power adapter (Included)\nInstant PoE to USB adapter (Not included)",
+      "Supported voltage range": "5V DC, 2A",
+      "LED": "R/G/B/W",
+      "Button": "Factory reset",
+      "Mounting": "Wall mount (Included)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 1.20.0-beta.5 and later",
+      "Mobile app": "UniFi Protect iOS™: Version 1.5.6 and laterUniFi Protect Android™:  Version 1.4.7 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "PoE to USB-C Adapter",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "G4 Instant PoE to USB-C Cable",
+    "price": "$19.00",
+    "specifications": []
+  }
+]

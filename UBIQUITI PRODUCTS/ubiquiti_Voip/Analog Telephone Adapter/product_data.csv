@@ -1,0 +1,47 @@
+Name: Analog Telephone Adapter
+Price: $99.00
+Product URL: https://store.ui.com/us/en/pro/category/all-managed-voip/products/ut-ata
+Specifications: "Easy-to-deploy adapter for managing analog telephones and fax machines with UniFi Talk."
+Features: "(2) RJ11 FXS ports for analog telephones and fax machines*
+
+Fax support using G.711
+
+Multiple mounting options
+
+WiFi support with UniFi WiFi Auto-Link**
+
+PoE in or USB-C adapter power
+
+*Compatibility with other analog devices (e.g., fire alarm systems) is not guaranteed.
+**Third-party WiFi configuration is not supported.
+
+UniFi Talk is available in the US, UK, and Canada. Additional international support is planned for 2024."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "131.5 x 110.7 x 28.2 mm (5.2 x 4.4 x 1.1\")",
+      "Weight": "300 g (10.6 oz)",
+      "Enclosure material": "Plastic",
+      "Mounting": "Flat/angle mount"
+    },
+    "Display": {
+      "Display size": "86 mm (3.4\") diagonal",
+      "Resolution": "192 x 64 dots"
+    },
+    "Hardware": {
+      "Memory": "RAM: 128 Mb DDR3\nStorage: 256 Mb",
+      "Power method": "USB-C 5V DC, 1A\nPoE 48V DC, 0.35A",
+      "Power supply": "5V DC, 1A power adapter, 1.5 m cord (included)\nPoE (pair B 4, 5+; 7, 8-)",
+      "Connectivity": "(1) 100 MbE RJ45 port/PoE\n(1) 3.5 mm (0.14\") headset port\n(2) RJ11 FXS ports\n(1) USB-C (power input)\n802.11a/b/g/n/ac\nWiFi 2.4G b/g/n, BW 20\nWiFi 5G a/n/ac, BW 20/40/80",
+      "Buttons": "(3) Device control keys",
+      "Telephone features": "Voicemail, DND, caller ID, call transfer, call waiting, 3-way conference",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "Management application": "UniFi Talk: Version 1.12.0 and later"
+    }
+  }
+}
+Addons: []

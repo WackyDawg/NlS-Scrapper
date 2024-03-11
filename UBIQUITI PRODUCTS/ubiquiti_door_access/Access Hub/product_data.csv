@@ -1,0 +1,58 @@
+Name: Access Hub
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-door-access/products/ua-hub
+Specifications: "A single-door mechanism that provides complete entry and exit control via connected Access Readers."
+Features: "(2) Lock terminals (12V and Dry)
+
+(2) AUX terminals for an external siren and automatic door opener
+
+(4) Additional inputs (sensors and buttons)
+
+Connect and power using PoE++
+
+Connect to two UniFi Access readers and one UniFi Protect camera"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "190 x 126 x 30.5 mm (7.48 x 4.96 x 1.2\")",
+      "Weight": "457 g (16.12 oz)",
+      "Enclosure material": "Plastic Enclosure with Metal Mount Plate",
+      "Mounting options": "DIN rail"
+    },
+    "Hardware": {
+      "Networking interface": "(4) 1GbE",
+      "Max. power consumption": "51W",
+      "Power method": "PoE++",
+      "Input terminals": "REX - request to exit\nREN - request to enter\nREL - remote release\nDPS - door position sensor",
+      "Dry output relay\nLock\nAux": "Rated 30VDC, up to 1A\nRated 30VDC, up to 1A",
+      "Powered output relay\nLock\nAux\nLine": "12VDC, up to 1A\n12VDC, up to 0.33A\n12VDC, up to 0.33A",
+      "LEDs": "(1) System, (3) PoE out, (4) Input\n(2) Output Relays, (1) 12VDC Out",
+      "Buttons": "(1) Factory reset",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "5 - 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "G2 Reader Pro",
+    "price": "$359.00",
+    "specifications": []
+  },
+  {
+    "name": "Access Card",
+    "price": "$40.00",
+    "specifications": []
+  },
+  {
+    "name": "Mission Critical",
+    "price": "$999.00",
+    "specifications": []
+  },
+  {
+    "name": "Intercom",
+    "price": "$399.00",
+    "specifications": []
+  }
+]

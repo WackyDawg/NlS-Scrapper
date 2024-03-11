@@ -1,0 +1,56 @@
+Name: Lite 8 PoE
+Price: $109.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-lite-8-poe
+Specifications: "An 8-port, Layer 2 PoE switch supporting silent fanless cooling."
+Features: "(4) GbE PoE+, (4) GbE ports
+
+52W total PoE availability*
+
+Wall mountable
+
+*With an external 60W power adapter."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "99.6 x 163.7 x 31.7 mm (4 x 6.4 x 1.3\")",
+      "Weight": "295 g (10.4 oz)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(8) GbE RJ45 ports",
+      "PoE interface": "(4) PoE/PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "8 Gbps",
+      "Switching capacity": "16 Gbps",
+      "Power method": "54V DC, 1.1A power adapter",
+      "Power supply": "54V, external, 60W",
+      "Supported voltage range": "50—57V DC",
+      "Max. power consumption": "8W (Excluding PoE output)",
+      "Total available PoE": "52W**With an external 60W power adapter.",
+      "Max. PoE wattage per port by PSE": "PoE+: 30W",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-15 to 40° C (5 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoESpeed/link/activity",
+      "PoE": "Link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 7.2.94 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

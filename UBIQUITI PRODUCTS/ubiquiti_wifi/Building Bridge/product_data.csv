@@ -1,0 +1,63 @@
+Name: Building Bridge
+Price: $499.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/ubb
+Specifications: "A 60 GHz wireless point-to-point bridge."
+Features: "500 m (1,640 ft) maximum range
+
+60 GHz & 5 GHz dual-radio redundancy
+
+Includes PoE power adapters
+
+Built-in LED alignment indicators
+
+Sold as 2-pack
+
+Note. Cannot be set up standalone and must be managed by a UniFi Console, Official UniFi Hosting, or a Self-Hosted UniFi Network Server."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø140 x 90 mm (Ø5.5 x 3.5\")",
+      "Weight": "376 g (13.3 oz)",
+      "Enclosure material": "UV-resistant polycarbonate",
+      "Wind loading": "56 N at 200 km/h (12.6 lbf at 125 mph)"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port",
+      "Management interface": "Ethernet\n                    Bluetooth",
+      "Power method": "PoEPassive PoE, 48V",
+      "Power supply": "UniFi PoE switch48V, 0.32A Gigabit PoE adapter (Included)",
+      "Max. power consumption": "11W",
+      "GPS": "Yes",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "–\n                25 dBm\n                 –\n                32–36.5 dBm (60 GHz)",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "–\n866.6 Mbps\n –\n1.7 Gbps (60 GHz)",
+      "Antenna gain\n                    2.4 GHz\n                    5 GHz\n                    6 GHz": "2 dBi (BLE)\n                    10 dBi\n                     –\n                   17.2 dBi (60 GHz)",
+      "60 GHz elevation beamwidth": "30°",
+      "60 GHz azimuthal coverage": "±60°",
+      "LEDs": "R/G/B",
+      "Button": "Factory-reset",
+      "Mounting": "Pole (Included)Wall (Optional)",
+      "Ambient operating temperature": "-40 to 70° C (-40 to 158° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Software": {
+      "WiFi standards": "802.11ac/ad",
+      "Wireless security": "WPA2 AES (Always On)",
+      "Operating modes": "PtP"
+    },
+    "Operating Frequency (MHz)": {
+      "Worldwide": "5150 - 587557,000 - 66,000",
+      "US/CA": "U-NII-1: 5150 - 5250U-NII-3: 5725 - 585057,000 - 66,000"
+    },
+    "Bluetooth (MHz)": {
+      "Worldwide": "2400 - 2483.5"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

@@ -1,0 +1,38 @@
+Name: 8 PoE (Gen1)
+Price: $109.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/us-8-60w
+Specifications: "An 8-port, Layer 2 PoE switch with a silent, fanless cooling system."
+Features: "(4) GbE PoE, (4) GbE ports
+
+48W total PoE availability"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "148 x 100 x 31 mm (5.8 x 3.9 x 1.2\")",
+      "Weight": "432 g (15.2 oz)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(8) GbE RJ45 ports",
+      "PoE interface": "(4) PoE (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "8 Gbps",
+      "Switching capacity": "16 Gbps",
+      "Forwarding rate": "11.9 Mpps",
+      "Power method": "(1) 48V DC, 2A Max.",
+      "Power supply": "External AC/DC adapter: 100-240V AC, 50/60 Hz; 48V DC, 1.25A",
+      "Supported voltage range": "44–57V DC",
+      "Max. power consumption": "12W (Excluding PoE output.)",
+      "Total available PoE": "48W",
+      "Max. PoE wattage per port by PSE": "15.4W",
+      "ESD/EMP protection": "Air: ± 24kV, contact: ± 24kV",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "LEDs": {
+      "Ethernet": "PoELink/Speed/Activity"
+    }
+  }
+}
+Addons: []

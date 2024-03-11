@@ -1,0 +1,62 @@
+Name: Ultra 60W
+Price: $159.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/collections/pro-ultra/products/usw-ultra-60w
+Specifications: "A compact, Layer 2, 8-port GbE PoE switch with versatile mounting options."
+Features: "(7) GbE PoE+ output ports
+
+(1) GbE port with optional PoE++ input*
+
+52W PoE availability with the included AC power adapter
+
+‎
+
+*PoE input is supported for switch operation, with PoE+/PoE++ input or AC power required for PoE output."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "203 x 76 x 33 mm (8 x 3 x 1.3\")",
+      "Weight": "Device: 320 g (11.3 oz)Wall mount: 45 g (1.6 oz)60W adapter: 330 g (11.6 oz)",
+      "Enclosure material": "Polycarbonate"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(8) GbE RJ45 ports",
+      "PoE interface": "(7) PoE/PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "8 Gbps",
+      "Switching capacity": "16 Gbps",
+      "Power method": "(1) 54V, 1.1A power adapter (Included)\nPoE++ (Pins 1, 2+; 3, 6- and 4, 5+; 7, 8-)",
+      "Power supply": "54V, external, 1.1A/60W",
+      "Supported voltage range": "44—57V DC",
+      "Max. power consumption": "9W with PoE input (Excluding PoE output)\n8W with AC adapter input (Excluding PoE output)",
+      "Total available PoE": "PoE++ input: 42W\nPoE+ input: 16W\n60W PoE adapter input: 42W\n60W AC adapter input: 52W\n210W AC adapter input: 202W**At 45° C (113° F) operating temperature. Reduced to 161W (230V) or 121W (115V) at 60° C (140° F)",
+      "Max. PoE+ wattage per port by PSE": "30W",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "PoE++ input: -30 to 60° C (-22 to 140° F)\n60W AC adapter input: -20 to 45° C (-4 to 113° F)\n210W AC adapter input: -20 to 60° C (-4 to 140° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "Port isolation\nStorm control\nPort mirroring\nMulticast / broadcast rate limiting\nFlow control\nJumbo frames\nEgress rate limit",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoELink/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 8.0.7 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "PoE++ Adapter",
+    "price": "$29.00",
+    "specifications": []
+  },
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  }
+]

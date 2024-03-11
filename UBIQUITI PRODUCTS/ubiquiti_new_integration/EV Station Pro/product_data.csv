@@ -1,0 +1,72 @@
+Name: EV Station Pro
+Price: $1,199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/uc-ev-station-pro
+Specifications: "Weatherproof, 11 kW Level 2 electric vehicle charging station with an ultra-bright 10.1" touch display, flexible access control, and card reader accessory support for payment processing."
+Features: "Ultra-bright 10.1" touch display
+
+11 kW max charging output with SAE J1772 charging plug
+
+Media content playback for digital signage applications
+
+Access control with QR code scanning, UniFi Identity mobile app, and NFC card*
+
+Card reader accessory support for payment processing
+
+Hardwire or use one of the included NEMA 14-50 and 6-50 cables for plug-in installation
+
+Connected with UniFi WiFi Auto-Link** or Ethernet
+
+UL certified
+
+Includes wall mount
+
+*UniFi Access must be running on the same console as UniFi Connect with a Control Hub and Access Reader adopted for NFC card registration.
+**UniFi WiFi Auto-Link supported with version 1.0.262 and later. Third-party WiFi configuration is not supported."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "280 x 178 x 143 mm (11 x 7 x 5.6”)",
+      "Weight": "With wall mount/charging gun/power cord: 8.1 kg (17.9 lb)",
+      "Enclosure material": "Front modules: plastic\nMiddle module: aluminum, plastic",
+      "Mount material": "Plastic",
+      "Charging cable length": "7 m (23 ft)",
+      "Weatherproofing": "Type 3R",
+      "Charging outlet": "SAE J1772"
+    },
+    "Hardware": {
+      "Display size": "257 mm (10.1\") diagonal",
+      "Resolution": "800 x 1280 (10:16)",
+      "Display luminance": "800 nits (typical)",
+      "Touch screen technology": "Capacitive multi-touch",
+      "Processor": "Octa-core Arm® Cortex®-A53, 2.2 GHz",
+      "Memory": "Storage: 32GB\nRAM: 3GB",
+      "Power input": "200–240V ~ 50A, 50/60Hz, 1φ",
+      "Power output": "200–240V ~ 50A, 50/60Hz, 1φ"
+    },
+    "Circuit rating": {
+      "Connectivity": "(1) GbE RJ45 port\n(1) USB-C port for card reader accessory*\nBluetooth® 4.2\n*Coming soon.",
+      "Sensors": "ALS + PS (ambient light sensor + proximity sensor)",
+      "Embedded front camera": "8 MP",
+      "WiFi standards": "802.11 a/b/g/n/ac",
+      "Mounting": "Wall mount and stand",
+      "Ambient operating temperature": "-40 to 50° C (-40 to 122° F)",
+      "Ambient operating humidity": "5 to 90% noncondensing",
+      "Certifications": "FCC, IC, UL"
+    },
+    "Software": {
+      "Management application": "UniFi Connect web: Version 3.2.4 and laterUniFi Connect iOS™ and Android™: Version 2.2.1 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "EV Station Pro Card Reader",
+    "price": "$349.00",
+    "specifications": []
+  },
+  {
+    "name": "EV Station Stand",
+    "price": "$399.00",
+    "specifications": []
+  }
+]

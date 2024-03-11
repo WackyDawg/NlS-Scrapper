@@ -1,0 +1,61 @@
+Name: AI Theta Hub
+Price: $199.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-hub/products/uvc-ai-theta-hub
+Specifications: "Remote processing hub for any AI Theta deployment, compatible with any AI Theta Lens and AI Theta Audio."
+Features: "(1) video and (1) audio port for connecting a lens and audio module
+
+Supports AI Theta Standard and Professional Lenses, with (1) included cable for connecting a lens
+
+Advanced AI: Detect people, read license plates, and more*
+
+0.96" color display for device status and configuration
+
+Connect and power using PoE
+
+Supports optional AI Theta Audio module for two-way audio
+
+*License plate recognition supported with Long-Distance and Wide-Angle lenses."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "140 x 70 x 38 mm (5.5 x 2.8 x 1.5”)",
+      "Weight": "UVC-AI-Theta-Hub: 330 g (11.6 oz) UVC-AI-Theta-Hub Mount: 35 g (1.2 oz)",
+      "Enclosure material": "Aluminum alloy",
+      "Mount material": "Aluminum alloy"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "12.5W",
+      "Power method": "PoE",
+      "Supported voltage range": "37—57V DC",
+      "Output power": "5V DC, 1A per port",
+      "Display": "0.96\" color display",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling mount",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "UniFi OS application": "UniFi Protect",
+      "Mobile app": "UniFi Protect iOS™ and Android™"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Lens",
+    "price": "$59.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Pro Wide-Angle Lens",
+    "price": "$129.00",
+    "specifications": []
+  }
+]

@@ -1,0 +1,79 @@
+Name: AC Mesh
+Price: $99.00
+Product URL: https://store.ui.com/us/en/pro/category/all-wifi/products/uap-ac-mesh
+Specifications: "Compact, indoor/outdoor WiFi 5 AP with 4 spatial streams and optional external antenna support for directional coverage."
+Features: "WiFi 5
+
+4 spatial streams
+
+140 m² (1,500 ft²) coverage
+
+250+ connected devices
+
+Powered using PoE*
+
+GbE uplink
+
+Versatile wall and pole mounting
+
+(2) RP-SMA connectors for optional external antennas**
+
+Weatherproof (outdoor exposed)
+
+*PoE power adapter included with single unit purchase.
+**UMA-D external antenna accessory offers directional coverage."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "353 x 46 x 34.4 mm (13.9 x 1.8 x 1.4\")",
+      "Weight": "152 g (5.4 oz)"
+    },
+    "Hardware": {
+      "Networking interface": "(1) GbE RJ45 port",
+      "Management interface": "EthernetBluetooth",
+      "Power method": "PoEPassive PoE, 24V (Pairs 4, 5+; 7, 8 return)",
+      "Power supply": "Gigabit PoE adapter 24V, 0.5A**5-packs do not come with PoE adapters.",
+      "Supported voltage range": "44—57V DC",
+      "Max. power consumption": "8.5W",
+      "Max. TX power2.4 GHz5 GHz6 GHz": "20 dBm20 dBm –",
+      "MIMO2.4 GHz5 GHz6 GHz": "2 x 22 x 2 –",
+      "Throughput rate2.4 GHz5 GHz6 GHz": "300 Mbps867 Mbps –",
+      "Antenna gain2.4 GHz5 GHz6 GHz": "3 dBi4 dBi –",
+      "Button": "Factory reset",
+      "Mounting": "Wall, pole, fast-mount (Included)",
+      "Ambient operating temperature": "-30 to 70° C (-22 to 158° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC, UKCA"
+    },
+    "Software": {
+      "WiFi standards": "802.11a/b/g/n/ac",
+      "Wireless security": "WEP, WPA-PSK, WPA-Enterprise (WPA/WPA2, TKIP/AES)",
+      "VLAN": "802.1Q",
+      "BSSID": "Up to 4 per radio",
+      "Advanced QoS": "Per-user rate limiting",
+      "Guest traffic isolation": "Supported",
+      "Power save": "Supported",
+      "WMM": "Voice, video, best effort, and background",
+      "Concurrent clients": "250+"
+    },
+    "Supported Data Rates (Mbps)": {
+      "802.11a": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11b": "1, 2, 5.5, 11 Mbps",
+      "802.11g": "6, 9, 12, 18, 24, 36, 48, 54 Mbps",
+      "802.11n": "6.5 Mbps to 300 Mbps (MCS0 - MCS15, HT 20/40)",
+      "802.11ac": "6.5 Mbps to 867 Mbps (MCS0 - MCS9 NSS1/2, VHT 20/40/80)"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AC Mesh Dual-Band Antenna",
+    "price": "$99.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

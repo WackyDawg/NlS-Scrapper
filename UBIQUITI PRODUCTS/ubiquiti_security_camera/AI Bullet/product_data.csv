@@ -1,0 +1,71 @@
+Name: AI Bullet
+Price: $399.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-ai-bullet
+Specifications: "Indoor/outdoor 2K PoE camera with IR night vision and enhanced AI detection capabilities."
+Features: "2K (4MP) video resolution
+
+Advanced AI: Greater detection precision and range
+
+9 m (30 ft) IR night vision
+
+Record audio with an integrated microphone
+
+Connect and power using PoE
+
+Weatherproof (outdoor exposed)"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Without mount: Ø82 x 88.3 mm (Ø3.2 x 3.5\")\nWith mount: Ø82 x 153 mm (Ø3.2 x 6\")",
+      "Weight": "Without mount: 628 g (1.4 lb)\nWith mount: 765 g (1.7 lb)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mounting material": "Wall mount: aluminum alloy\nPole mount: aluminum alloy",
+      "Weatherproofing": "IP65",
+      "Resistance": "IK04"
+    },
+    "Optics": {
+      "Sensor": "5MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 84.7°, V: 46.2°, D: 99°",
+      "Night mode": "Built-in IR LED illumination and an IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 2688 x 1512 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Brightness, contrast, sharpness, saturation, noise reduction, 50/60 Hz"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "7.68W",
+      "Power method": "PoE",
+      "Supported voltage range": "37—57V DC",
+      "LED": "R/G/B/W ring",
+      "Button": "Factory reset",
+      "Mounting": "Wall, pole mount (Included)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 1.20.0 and later",
+      "Mobile app": "UniFi Protect iOS™: Version 1.5.6 and laterUniFi Protect Android™:  Version 1.4.7 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

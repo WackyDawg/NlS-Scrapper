@@ -1,0 +1,56 @@
+Name: Phone Touch
+Price: $79.00
+Product URL: https://store.ui.com/us/en/pro/category/all-managed-voip/products/utp-touch
+Specifications: "Versatile desktop smartphone that eliminates the learning curve."
+Features: "5" touch display
+
+Ergonomic handset with mute button
+
+Speakerphone
+
+Bluetooth support
+
+PoE in
+
+Note. Subscription Locked phones must be assigned to a user with a unique, personal UniFi Talk phone number and have an Internet connection to function. We recommend Subscription Unlocked phones for configurations where users only share numbers with a group and are not assigned a unique, personal UniFi Talk phone number.
+
+UniFi Talk is available in the US, UK, and Canada. Additional international support is planned for 2024."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "166 x 140 x 183 mm (6.5 x 5.5 x 7.2\")",
+      "Weight": "1.1 kg (2.4 lb)",
+      "Enclosure material": "Plastic, aluminum (base)",
+      "Mounting": "Desktop",
+      "Colour": "BlackWhite"
+    },
+    "Display": {
+      "Display size": "127 mm (5\") diagonal",
+      "Resolution": "720 x 1280 HD",
+      "Screen technology": "Multi-touch",
+      "Screen surface treatments": "Fingerprint-resistant coating"
+    },
+    "Audio": {
+      "Handset dynamic receiver": "16 ohm",
+      "Handset microphone": "Omnidirectional electret microphone",
+      "Hands-free speaker": "Mono, 4 ohmNominal power: 2WMax. power: 3W",
+      "Hands-free microphone": "Dual omnidirectional MEMS microphones"
+    },
+    "Hardware": {
+      "Processor": "Octa-core ARM® Cortex® A53",
+      "Memory": "Storage: 32 GBRAM: 2 GB",
+      "Power method": "PoE",
+      "Connectivity": "(2) GbE RJ45 ports802.11 a/b/g/n/ac WiFiBluetooth® 4.2",
+      "Headset support": "3.5 mm (0.14\") audio jack",
+      "Camera": "2592 x 1944, 5MP (with privacy shutter)",
+      "LED": "White LED (Black)\nBlue LED (White)",
+      "Ambient operating temperature": "0 to 40° C (32 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Software": {
+      "UniFi OS application": "UniFi Talk"
+    }
+  }
+}
+Addons: []

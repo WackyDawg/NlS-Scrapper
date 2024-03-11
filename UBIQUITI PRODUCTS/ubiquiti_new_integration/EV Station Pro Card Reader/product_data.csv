@@ -1,0 +1,29 @@
+Name: EV Station Pro Card Reader
+Price: $349.00
+Product URL: https://store.ui.com/us/en/pro/category/all-new-integrations/products/uacc-evsp-card-reader
+Specifications: "Card reader accessory for EV Station Pro that supports contactless payments."
+Features: "Compatible with EV Station Pro
+
+Mastercard, Visa, American Express, Discover, Apple Pay, and Google Pay acceptance in the United States
+
+Individual and business merchant account application via UniFi Connect*
+
+Weatherproof (outdoor exposed -40 to 50° C)
+
+*Merchant accounts are subject to approval by third-parties unaffiliated with Ubiquiti. Learn more about payment processing for EV Stations."
+Table Data: {
+  "Specification": {
+    "Specification": {
+      "Dimensions": "133.1 x 98.4 x 83.9 mm (5.2 x 3.9 x 3.3\")",
+      "Weight": "185 g (6.5 oz)",
+      "Material": "Polycarbonate",
+      "Weatherproofing": "Type 3R",
+      "Connectivity": "USB-C",
+      "Power input": "5V, 3W",
+      "Ambient operating temperature": "-40 to 50° C (-40 to 122° F)",
+      "Ambient operating humidity": "5 to 90% noncondensing",
+      "Certifications": "FCC, IC"
+    }
+  }
+}
+Addons: []

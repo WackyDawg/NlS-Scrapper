@@ -1,0 +1,73 @@
+Name: Enterprise 24 PoE
+Price: $799.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-enterprise-24-poe
+Specifications: "A 24-port, Layer 3 switch with 2.5 GbE PoE+ output."
+Features: "(12) 2.5 GbE, (12) GbE; all PoE+ ports
+
+(2) 10G SFP+ ports
+
+400W total PoE availability
+
+DC power backup-ready
+
+Layer 3 switching"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "442 x 325 x 44 mm (17.4 x 12.8 x 1.7\")",
+      "Weight": "Without mounting brackets: 5.1 kg (11.3 lb)With mounting brackets: 5.2 kg (11.5 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(12) GbE RJ45 ports \n(12) 2.5 GbE RJ45 ports(2) 10G SFP+ ports",
+      "PoE interface": "(24) PoE/PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "62 Gbps",
+      "Switching capacity": "124 Gbps",
+      "Forwarding rate": "92.25 Mpps",
+      "Power method": "(1) Universal input, 100—240V AC, 8.5A Max., 50/60 Hz(1) USP-RPS DC input: 52V DC, 7.7A; 11.5V DC, 8.7A",
+      "Power supply": "AC/DC, internal, 550W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "550W",
+      "Total available PoE": "400W",
+      "Max. PoE+ wattage per port by PSE": "34.2W",
+      "Voltage range PoE mode": "PoE: 44— 57VPoE+: 50—57V",
+      "Services": "SMB Layer 3 PoE GbE switch",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 12kV",
+      "LCM display": "(1) 1.3\" color touchscreen",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "-5 to 40° C (23 to 104° F)",
+      "Ambient operating humidity": "10 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "DHCP for locally-managed networks\nDHCP relay\nInter-VLAN routing between networks on same switch\nStatic routing between local networks"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "Link/activity",
+      "SFP+": "Link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 5.14.12 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "10 Gbps Multi-Mode Optical Module",
+    "price": "$38.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP+ to RJ45 Adapter",
+    "price": "$65.00",
+    "specifications": []
+  }
+]

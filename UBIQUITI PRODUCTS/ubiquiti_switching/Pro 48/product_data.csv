@@ -1,0 +1,70 @@
+Name: Pro 48
+Price: $599.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-pro-48
+Specifications: "A 48-port, Layer 3 switch supporting 10G SFP+ connections with fanless cooling."
+Features: "(48) GbE ports
+
+(4) 10G SFP+ ports
+
+DC power backup-ready
+
+Layer 3 switching
+
+Silent cooling"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "442 x 285 x 44 mm (17.4 x 11.2 x 1.7\")",
+      "Weight": "Without mounting brackets: 4 kg (8.8 lb)\nWith mounting brackets: 4.1 kg (9 lb)",
+      "Enclosure material": "SGCC steel"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(48) GbE RJ45 ports\n(4) 1/10G SFP+ ports",
+      "Total non-blocking throughput": "88 Gbps",
+      "Switching capacity": "176 Gbps",
+      "Forwarding rate": "130.944 Mpps",
+      "Power method": "(1) Universal input, 100—240V AC, 50/60 Hz\n(1) USP-RPS DC input, 11.5V DC, 5.22A",
+      "Power supply": "AC/DC, internal, 60W",
+      "Supported voltage range": "100—240V AC",
+      "Max. power consumption": "60W",
+      "ESD/EMP protection": "Air: ± 16kV, contact: ± 12kV",
+      "LCM display": "(1) 1.3\" touchscreen",
+      "Button": "Factory reset",
+      "Shock and vibration": "ETSI300-019-1.4 Standard",
+      "Ambient operating temperature": "-5 to 45° C (23 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "IGMP snooping\nSTP / RSTP with priorities and port-level disable\nPort isolation\nStorm control\nVoice VLAN\nPort mirroring\nLACP port aggregation\nMulticast / broadcast rate limiting\nMAC address blocking\nFlow control\n802.1X control\nJumbo frames\nProprietary loop protection\nDHCP snooping / guarding\nEgress rate limit\nLLDP-MED\nPort restricted by MAC",
+      "Layer 3 features": "DHCP for locally-managed networks\nDHCP relay\nInter-VLAN routing between networks on same switch\nStatic routing between local networks"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "Speed/link/activity",
+      "SFP+": "Link/activity",
+      "RPS": "Status"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 5.12.11 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "10 Gbps SFP+ Direct Attach Cable",
+    "price": "$13.00",
+    "specifications": []
+  },
+  {
+    "name": "10 Gbps Multi-Mode Optical Module",
+    "price": "$38.00",
+    "specifications": []
+  },
+  {
+    "name": "SFP+ to RJ45 Adapter",
+    "price": "$65.00",
+    "specifications": []
+  }
+]

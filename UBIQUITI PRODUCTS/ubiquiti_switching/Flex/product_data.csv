@@ -1,0 +1,70 @@
+Name: Flex
+Price: $99.00
+Product URL: https://store.ui.com/us/en/pro/category/all-switching/products/usw-flex
+Specifications: "Flexible 5-port, Layer 2 PoE switch for indoor and outdoor use, that can be powered with PoE++."
+Features: "(4) GbE PoE+ ports
+
+(1) GbE PoE++ input port for power
+
+— 46W PoE availability* PoE++ input
+— 20W PoE availability PoE+ input
+— 8W PoE availability PoE input
+
+Indoor/Outdoor
+
+*When powered with a PoE++ switch or a 60W PoE adapter (sold separately)."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "122.5 x 107.1 x 28 mm (4.8 x 4.2 x 1.1\")",
+      "Weight": "230 g (8.1 oz)"
+    },
+    "Hardware": {
+      "Management interface": "Ethernet In-Band",
+      "Networking interface": "(5) GbE RJ45 ports",
+      "PoE interface": "(4) PoE+ (Pins 1, 2+; 3, 6-)",
+      "Total non-blocking throughput": "5 Gbps",
+      "Switching capacity": "10 Gbps",
+      "Power method": "PoE++",
+      "Power supply": "PoE/PoE+ (Pins 1, 2+; 3, 6-)\nPoE++ (Pins 1, 2+; 3, 6- and 4, 5+; 7, 8-)\n50V/60W PoE adapter (Not included)",
+      "Supported voltage range": "PoE: 44—57V DC\nPoE+/PoE++: 50—57V DC",
+      "Max. power consumption": "5W (Excluding PoE output)",
+      "Total available PoE": "46W*\n*When powered with a PoE++ switch or a 60W PoE adapter (Sold separately).",
+      "Max. PoE wattage per port by PSE": "25W",
+      "ESD/EMP protection": "Air/contact: ± 16kV",
+      "Button": "Factory reset",
+      "Ambient operating temperature": "46W PoE output: -40 to 55° C (-40 to 131° F) 25W PoE output: -40 to 65° C (-40 to 149° F)",
+      "Ambient operating humidity": "5 to 95% noncondensing",
+      "Certifications": "CE, FCC, IC"
+    },
+    "Switching Features": {
+      "Layer 2 features": "Port isolation\nPort mirroring\nMulticast / broadcast rate limiting\nFlow control\nJumbo frames\nEgress rate limit",
+      "Layer 3 features": "–"
+    },
+    "LEDs": {
+      "System": "Status",
+      "Ethernet": "PoE  Speed/link/activity",
+      "PoE": "Link/activity"
+    },
+    "Application Requirements": {
+      "UniFi Network": "Version 5.10.3 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Flex Utility",
+    "price": "$49.00",
+    "specifications": []
+  },
+  {
+    "name": "UniFi Patch Cable",
+    "price": "$2.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

@@ -1,0 +1,77 @@
+Name: G2 Starter Kit Pro
+Price: $599.00
+Product URL: https://store.ui.com/us/en/pro/category/all-door-access/products/ua-g2-sk-pro
+Specifications: "Hit the ground running with Access, featuring a professional experience for a door with two readers."
+Features: "(1) Door Hub
+
+(1) G2 Reader Pro
+
+(1) G2 Reader for door exit, or entry for an additional door (second Hub required)
+
+(2) Pocket Keyfobs"
+Table Data: {
+  "UA-Hub-DoorMechanical": {
+    "UA-Hub-DoorMechanical": {
+      "Dimensions": "174.9 x 126 x 32.9 mm (6.9 x 5 x 1.3\")",
+      "Weight": "363 g (12.8 oz)",
+      "Enclosure material": "Polycarbonate",
+      "Mounting material": "Polycarbonate"
+    },
+    "Hardware": {
+      "NFC frequency": "13.56 MHz",
+      "NFC technology": "ISO/IEC 14443 Type A\nMIFARE DESFire EV3 4K\nUniFi Access Proprietary Security Protocol",
+      "Ambient operating temperature": "-10 to 45° C (14 to 113° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certification": "CE"
+    },
+    "Wiring Information": {
+      "Total length to device": "Output load current at 12V DC",
+      "PoE cabling requirements": "The minimal conductor gauge permitted to connect between the PSE or power injector and the PD shall be 24 AWG (0.21 mm2) for horizontal or riser cable."
+    },
+    "LEDs": {
+      "PoE in": "Steady blue: Adopted/device is ready\nSteady white: Pending adoption\nBlinking white/blue: Upgrading firmware",
+      "PoE out": "Off: Not connected or no data link\nSteady blue: Connected and data link on"
+    },
+    "UA-G2-ProMechanical": {
+      "Dimensions": "160 x 40.4 x 40.55 mm (6.3 x 1.59 x 1.6\")",
+      "Weight": "136 g (4.8 oz)",
+      "Enclosure material": "Polycarbonate, glass",
+      "Mount material": "Aluminum alloy",
+      "Mounting": "Wall, gang box",
+      "Weatherproofing": "IP55"
+    },
+    "LED": {
+      "System": "Steady blue: Adopted/device is ready\nSteady white: Pending adoption\nBlinking white/blue: Upgrading firmware\nStrobing red: Emergency lockdown"
+    },
+    "UA-G2Mechanical": {
+      "Dimensions": "93 x 40 x 36.5 mm (3.7 x 1.6 x 1.4\")",
+      "Weight": "82 g (2.9 oz)",
+      "Enclosure material": "Polycarbonate, glass",
+      "Mounting": "In wall, gang box",
+      "Weatherproofing": "IP55"
+    },
+    "UA-PocketMechanical": {
+      "Dimensions": "84 x 39 x 7.4 mm (3.3 x 1.5 x 0.29\")",
+      "Weight": "16 g (0.56 oz)",
+      "Enclosure material": "Polycarbonate, stainless steel",
+      "Weatherproofing": "IP54"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "G2 Reader",
+    "price": "$139.00",
+    "specifications": []
+  },
+  {
+    "name": "Mission Critical",
+    "price": "$999.00",
+    "specifications": []
+  },
+  {
+    "name": "Magnetic Lock",
+    "price": "$130.00",
+    "specifications": []
+  }
+]

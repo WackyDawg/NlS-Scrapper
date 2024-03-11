@@ -1,0 +1,61 @@
+Name: AI Theta Long-Distance Lens
+Price: $59.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/collections/pro-ai-theta-lenses/products/uvc-ai-theta-lens-ld
+Specifications: "Long-distance lens that connects to an AI Theta Hub."
+Features: "4K (8MP) video resolution
+
+36.2° horizontal field of view
+
+Ideal for capturing detail to secure business critical spaces such as retail point of sale
+
+Includes Standard Flush Mount for flat ceiling or wall mounting
+
+Compatible with AI Theta Angle Mount for flexible ceiling or wall mounting"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø22.8. x 43.5 mm (Ø0.9 x 1.7”)",
+      "Weight": "15 g (0.5 oz)",
+      "Enclosure material": "Aluminum alloy, polycarbonate",
+      "Mount material": "Polycarbonate",
+      "Weatherproofing": "Indoor only"
+    },
+    "Optics": {
+      "Sensor": "8MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 36.2°, V: 27.7°, D: 44.4°"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "8MP 3264 x 2448 (4:3)",
+      "Max. frame rate": "24 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Power method": "Theta proprietary",
+      "Power supply": "5V DC, 0.5A",
+      "Max. power consumption": "2.5W",
+      "Mounting": "Wall, ceiling mount (Included)Angle mount (Sold separately)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "AI Theta Hub",
+    "price": "$199.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Audio",
+    "price": "$69.00",
+    "specifications": []
+  },
+  {
+    "name": "AI Theta Angle Mount",
+    "price": "$29.00",
+    "specifications": []
+  }
+]

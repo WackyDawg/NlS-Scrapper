@@ -1,0 +1,73 @@
+Name: AI DSLR
+Price: $2,499.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-ai-dslr
+Specifications: "Indoor/outdoor 4K PoE camera with 17 or 45 mm lens."
+Features: "4K (8MP) video resolution
+
+High-sensitivity imaging sensor
+
+Wide aperture M4/3 f/1.2 prime lens included
+
+Advanced AI: Detect people, read license plates, and more
+
+Integrated 2-way audio*
+
+Connect and power using PoE+
+
+Weatherproof (outdoor exposed)
+
+*Not available when installed with its outdoor case."
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Without mount: Ø80 x 89 mm (Ø3.1 x  3.5\")\nWith mount: Ø80 x 153 mm (Ø3.1 x 6\")\nM. Zuiko Digital ED 17 mm PRO: Ø68.2 x 87 mm (Ø2.7 x 3.4\")\nM. Zuiko Digital ED 45 mm PRO: Ø70 x 84.9 mm (Ø2.8 x 3.3\")\nOutdoor case: Ø91.6 x 196.3 mm (Ø3.6 x 7.7\")",
+      "Weight": "Without mount: 660 g (1.5 lb)\nWith mount: 820 g (1.8 lb)\nM. Zuiko Digital ED 17 mm PRO: 390 g (0.9 lb)\nM. Zuiko Digital ED 45 mm PRO: 410 g (0.9 lb)\nOutdoor case: 510 g (1.1 lb)",
+      "Enclosure material": "Aluminum alloy",
+      "Mount material": "Wall mount: aluminum alloy\nPole mount: aluminum alloy",
+      "Weatherproofing": "IPX5 (With the outdoor case)"
+    },
+    "Optics": {
+      "Sensor": "4/3\" 10MP CMOS",
+      "Lens": "UVC-AI-DSLR: M. Zuiko Digital ED 17 mm ƒ/1.2 PRO\nUVC-AI-DSLR-LD: M. Zuiko Digital ED 45 mm ƒ/1.2 PRO",
+      "View angle": "Wide: H: 52°, V: 39°, D: 65° (UVC-AI-DSLR)Telephoto: H: 21.6°, V: 16.2°, D: 27° (UVC-AI-DSLR-LD)"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "UVC-AI-DSLR/UVC-AI-DSLR-LD: 8MP 3840 x 2160 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR/3DNR/NR by motion, masking, text overlay"
+    },
+    "System": {
+      "Processor": "Quad-core Arm® Cortex®-A53 based chip",
+      "Networking interface": "GbE RJ45 port",
+      "Max. power consumption": "17.77W (With lens working)",
+      "Power method": "PoE+",
+      "Supported voltage range": "37—57V DC",
+      "Buttons": "Factory reset\nLens release key",
+      "Mounting": "Wall, pole mount (Included) Tripot mount (Optional)",
+      "Ambient operating temperature": "-20 to 40° C (-4 to 104° F)",
+      "Ambient operating humidity": "10 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes* (Can be disabled) *Audio function will be disabled when using its outdoor case.",
+      "Speaker": "Yes**Audio function will be disabled when using its outdoor case."
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 2.2.2 and later",
+      "Mobile app": "UniFi Protect iOS™ and Android™:  Version 1.7.0 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Ethernet Surge Protector",
+    "price": "$12.50",
+    "specifications": []
+  }
+]

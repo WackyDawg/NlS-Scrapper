@@ -1,0 +1,76 @@
+Name: G5 Dome
+Price: $179.00
+Product URL: https://store.ui.com/us/en/pro/category/all-cameras-nvrs/products/uvc-g5-dome
+Specifications: "Next-gen 2K HD PoE ceiling camera with enhanced dynamic range and low-light performance."
+Features: "2K (4MP) video resolution
+
+Ultra-wide viewing angle (102.4°)
+
+9 m (30 ft) IR night vision
+
+AI event detections
+
+Integrated 2-way audio
+
+Connect and power using PoE
+
+Weather-resistant (outdoor covered)
+
+Vandal resistant"
+Table Data: {
+  "Mechanical": {
+    "Mechanical": {
+      "Dimensions": "Ø109.2 x 64.5 mm (Ø4.3 x 2.5\")",
+      "Weight": "Without mount: 370 g (13.1 oz) With mount: 390 g (13.8 oz)",
+      "Enclosure material": "Aluminum alloy, polycarbonate, hard-coated dome",
+      "Mount material": "Polycarbonate, stainless steel",
+      "Weatherproofing": "IPX4",
+      "Resistance": "IK08"
+    },
+    "Optics": {
+      "Sensor": "5MP CMOS",
+      "Lens": "Fixed focal length",
+      "View angle": "H: 102.4°, V: 71.4°, D: 134.3°",
+      "Night mode": "Built-in IR LED illumination and IR cut filter"
+    },
+    "Video": {
+      "Video compression": "H.264",
+      "Resolution": "4MP 2688 x 1512 (16:9)",
+      "Max. frame rate": "30 FPS",
+      "Image settings": "Color, brightness, sharpness, contrast, white balance, exposure control, 2DNR, 3DNR, NR by motion, masking,\ntext overlay"
+    },
+    "System": {
+      "Processor": "Dual-core Arm® Cortex®-A7 based chip",
+      "Networking interface": "10/100 MbE RJ45 port",
+      "Max. power consumption": "5W",
+      "Power method": "PoE",
+      "Supported voltage range": "37–57V DC",
+      "LED": "R/G/B/W",
+      "Button": "Factory reset",
+      "Mounting": "Wall, ceiling mount",
+      "Ambient operating temperature": "-20 to 40º C (-4 to 104º F)",
+      "Ambient operating humidity": "0 to 90% noncondensing",
+      "Certifications": "FCC, IC, CE"
+    },
+    "Audio": {
+      "Microphone": "Yes (Can be disabled)",
+      "Speaker": "Yes"
+    },
+    "Software": {
+      "Web application": "UniFi Protect: Version 2.2.7 or 2.7.28 and later",
+      "Mobile app": "UniFi Protect iOS™ and Android™:  Version 1.10.0 and later"
+    }
+  }
+}
+Addons: [
+  {
+    "name": "Network Video Recorder Pro",
+    "price": "$499.00",
+    "specifications": []
+  },
+  {
+    "name": "Dome Camera Arm Mount",
+    "price": "$19.00",
+    "specifications": []
+  }
+]
