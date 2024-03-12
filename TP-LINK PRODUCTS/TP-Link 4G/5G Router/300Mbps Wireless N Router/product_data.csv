@@ -1,0 +1,51 @@
+Name: 300Mbps Wireless N Router
+Price: N/a
+Model: EN020-F5
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "Button": "WPS/Reset Button",
+    "Antenna": "2 fixed Omni Directional Antennas",
+    "External Power Supply": "9VDC / 0.6A",
+    "Wireless Standards": "IEEE 802.11n, IEEE 802.11g, IEEE 802.11b",
+    "Interface": "4 порта LAN 10/100 Мбит/с\n1 порт WAN 10/100 Мбит/с",
+    "Dimensions ( W x D x H )": "182 x 128 x 35 мм",
+    "Flash": "4 MB",
+    "DRAM": "32 MB",
+    "Chipset": "MT7628NN\n575MHz"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4GHz",
+    "Signal Rate": "11n: Up to 300Mbps(dynamic)\n11g: Up to 54Mbps(dynamic)\n11b: Up to 11Mbps(dynamic)",
+    "Wireless Security": "WEP, WPA / WPA2, WPA-PSK / WPA2-PS",
+    "Transmit Power": "270 Mbps: -68 dBm @ 10% PER\n130 Mbps: -68 dBm @ 10% PER\n108 Mbps: -68 dBm @ 10% PER\n54 Mbps: -68 dBm @ 10% PER\n11 Mbps: -85 dBm @ 8% PER\n6 Mbps: -88 dBm @ 10% PER\n1 Mbps: -90 dBm @ 8% PER",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP, Static IP, PPPoE, PPTP(Dual Access), L2TP(Dual Access)",
+    "DHCP": "Сервер, список клиентов DHCP, резервирование адресов",
+    "Quality of Service": "WMM, Bandwidth Control",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "Access Control": "Parental Control, Local Management Control, Host list, Access Schedule, Rule Management",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Protocols": "hide",
+    "Management": "Access Control, Local Management, TR-069 Remote Management",
+    "VPN Pass-Through": "hide",
+    "Advanced Functions": "2,4 GHz Multi-SSID",
+    "Guest Network": "hide"
+  },
+  "OTHERS": {
+    "Certification": "CE, FCC, RoHS",
+    "System Requirements": "Microsoft Windows 10/8.1/8/7/Vista/XP/2000/NT/98SE, MAC OS, NetWare, UNIX or Linux Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser Cable or DSL Modem Subscription with an Internet Service Provider (for Internet access)",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Package Contents": "300Mbps Wireless N Router EN020-F5 Power Adapter RJ-45 Ethernet Cable Quick Installation Guide"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\300Mbps Wireless N Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\300Mbps Wireless N Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\300Mbps Wireless N Router\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\300Mbps Wireless N Router\image_4.png
+Highlights: Clear Channel Assessment (CCA) automatically avoids channel conflicts using its clear channel selection feature
+TR-069 protocol enables an operator to remotely configure and manage end-user devices
+Supports WPS, automatically establish a WPA secure connection at a push of the WPS button
+SPI & NAT firewall protects end-user devices from potential attacks, with WPA / WPA2 / WPA-PSK / WPA2-PSK encryption
+ Content Notes: 
