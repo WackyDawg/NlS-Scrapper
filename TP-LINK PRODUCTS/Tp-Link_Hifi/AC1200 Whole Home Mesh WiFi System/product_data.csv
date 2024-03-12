@@ -1,0 +1,47 @@
+Name: AC1200 Whole Home Mesh WiFi System
+Price: N/a
+Model: HC220-G5
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12 V ⎓ 1.0 A",
+    "Interface": "3× Gigabit Ports\n\n*Per Unit \n1 Port supports WAN/LAN auto-sensing",
+    "Button": "Reset Button\nWPS Button",
+    "Dimensions ( W x D x H )": "3.9 x 3.9 x 3.5 in\n(100 x 100 x 89.5 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "<b>AC1200</b>\n5 GHz: 867 Mbps (802.11ac)\n2.4 GHz: 300 Mbps (802.11n)",
+    "Transmit Power": "FCC: &lt;30 dBm (2.4 GHz), &lt;30 dBm (5 GHz)\nCE: &lt;20 dBm (2.4 GHz), &lt;23 dBm (5 GHz)",
+    "Wireless Security": "WPA-PSK/WPA2-PSK/WPA3 Personal encryptions",
+    "Wireless Standards": "<b>Wi-Fi 5</b>\nIEEE 802.11 a/n/ac 5 GHz\nIEEE 802.11 b/g/n 2.4 GHz",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE",
+    "Quality of Service": "WMM",
+    "Firewall Security": "SPI Firewall",
+    "Management": "Local Management, TAUC Cloud Management, TR-069(TR-098/TR-181), TR-111, TR-143",
+    "Advanced Features": "Parental Controls, QoS (Quality of Service), Address Reservation, Port Forwarding, WiFi Schedule",
+    "Protocols": "IPv4 \nIPv6",
+    "Working Modes": "Router Mode\nAccess Point Mode"
+  },
+  "OTHERS": {
+    "Package Contents": "<b>HC220-G5 (2-pack)</b>\n2 HC220-G5 Units\n1 RJ45 Ethernet Cable\n2 Power Adapters\n1 Quick Installation Guide\n\n<b>HC220-G5 (1-pack)</b>\n1 HC220-G5 Unit\n1 RJ45 Ethernet Cable\n1 Power Adapter\n1 Quick Installation Guide",
+    "Certifications": "CE, FCC, Wi-Fi CERTIFIED™, Wi-Fi CERTIFIED EasyMesh™",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉ –104℉)\nStorage Temperature: -40℃–60℃ (-40℉ –140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Smartphone/Tablet Requirements": "Android 4.4 or later\niOS 9.0 or later"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AC1200 Whole Home Mesh WiFi System\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AC1200 Whole Home Mesh WiFi System\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AC1200 Whole Home Mesh WiFi System\image_3.png
+Highlights: Faster Connections: Speeds up to 1200 Mbps—867 Mbps on 5 GHz and 300 Mbps on 2.4 GHz.*
+Boosted Seamless Coverage: Achieve seamless whole home coverage with a clearer and stronger WiFi signal.
+One Unified Network: Multiple units form a whole-home network that auto-selects the best connection as you move around your home.
+Enhanced Security: WPA3 encryption, Multi-SSID, and Parental Controls provide personalized and safer online experience.
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.
+Easy Setup: Set up your mesh WiFi in minutes with the powerful Aginet app.
+Remote Management: TAUC cloud management, TR-098, TR-181, TR-111, and TR-143 are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Some features will require two or more units.
+***Seamless roaming/No-Drop WiFi refers to the WiFi roaming that supports IEEE 802.11 k/v/r protocol, helping connected devices search and shift from one AP to another within 0.3 seconds. Clients need to support 802.11 k/v/r and may require additional setup. Performance may vary depending on the client device.

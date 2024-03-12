@@ -1,0 +1,40 @@
+Name: 1-Port Gigabit GPON Terminal
+Price: N/a
+Model: XZ000-G3
+Specifications: ""
+Table Data: {
+  "OTHERS": {
+    "Certifications": "CE, FCC, ROHS",
+    "Package Contents": "XZ000-G3, RJ-45 Ethernet Cable, Quick Installation Guide, Power Adapter",
+    "System Requirements": "Microsoft® Windows 8/7/Vista/XP, MAC® OS, NetWare®, UNIX® or Linux",
+    "Environment": "Operating Temperature: 0℃~40℃(32℉~104℉); Storage Temperature: -40℃~70℃(-40℉~158℉); Operating Humidity: 10%~90% non-condensing; Storage Humidity: 5%~90% non-condensing"
+  },
+  "HARDWARE FEATURES": {
+    "Interface": "1 10/100/1000Mbps RJ45 Port, 1 SC/APC Port",
+    "Button": "1 RESET Button",
+    "External Power Supply": "9VDC/0.6A",
+    "IEEE Standards": "IEEE 802.3, 802.3u, 802.1p, 802.1Q",
+    "Data Rates": "Upstream: 1.244Gbps, Downstream: 2.488Gbps",
+    "Dimensions ( W x D x H )": "3.7 x 3.0 x 1.2 in. (95.0 x 75.0 x 29.3 mm)",
+    "Distance": "0 ~ 20Km Max",
+    "GPON Standards": "ITU-T G.988, G.984.1, G.984.2, G.984.3, G.984.4",
+    "Optical Module": "Class B+",
+    "Receiver": "Super-TIA",
+    "Transmitter": "DFB Laser",
+    "Wavelength": "Upstream: 1310nm, Downstream: 1490nm"
+  },
+  "SOFTWARE FEATURES": {
+    "VLAN": "802.1Q tag VLAN, VLAN transparent mode/VLAN translation mode/VLAN trunk mode, Authentication based on SN and Password, VLAN Auto Detect",
+    "Security": "AES Encryption, Packet Filter based on VLAN",
+    "Management": "Managed by Web, OMCI and Telnet, Specifed the management IP, Reset to Factory default by Reset button or Web UI, Real-time statistics, Optical Diagnostic",
+    "Advanced Features": "Upstream and Downstream FEC, Dynamic Bandwidth Allocation(DBA) support NSR/SR, Up to 16 T-CONTs and 256 GEM Ports, Optical power detection, Dying Gasp, Terminal Silent mechanism",
+    "IGMP": "IGMP v1/v2/v3"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit GPON Terminal\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit GPON Terminal\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit GPON Terminal\image_3.png
+Highlights: Quality of Service-Quality of Service control for transaction prioritization and bandwidth management
+Durability-Intelligent power-saving method
+Easy Remote Management-TR-069 protocol enables an operator to remotely configure and manage end-user devices
+Full Gigabit Port-Fiber access and gigabit port provide incredibly fast transfer speeds
+ Content Notes: 

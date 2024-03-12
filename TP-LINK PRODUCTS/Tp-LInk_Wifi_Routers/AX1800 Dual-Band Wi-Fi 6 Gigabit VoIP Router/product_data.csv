@@ -1,0 +1,62 @@
+Name: AX1800 Dual-Band Wi-Fi 6 Gigabit VoIP Router
+Price: N/a
+Model: EX230v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.5A",
+    "Interface": "3× 10/100/1000 Mbps RJ45 LAN Ports, \n1× 10/100/1000 Mbps RJ45 WAN Port\n1× FXS Port\n1× USB 2.0 Port",
+    "Button": "Power On/Off Button, Reset Button, Wi-Fi Button, WPS Button",
+    "Dimensions ( W x D x H )": "7.9 x 5.9 x 2.7 in (199.7 x 148.6 x 67.5 mm)",
+    "Antenna Type": "Internal Antennas"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "5 GHz: 1201 Mbps\n2.4 GHz: 574 Mbps*",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2/WPA3 Encryptions",
+    "Wireless Standards": "IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11ax/n/g/b 2.4 GHz",
+    "Transmission Power": "CE:&lt;20dBm (2.4GHz); &lt;23dBm (5.15GHz–5.35GHz);",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, Seamless Roaming, Self-healing, Support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)",
+    "DHCP": "Server, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Quality of Service": "Hardware QoS",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "IPSec, PPTP, L2TP",
+    "Access Control": "Parental Control, Local Management, Host List, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app (for end users) \nRemote management: Aginet ACS, TR-069, TR-098, TR-181, TR-111,TR-143 for service providers\nAginet App for end user (need to log in wtih TP-Link ID and bind your device to it)\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Advanced Features": "Muti-SSID, TX Beamforming, MU-MIMO, DL/UL OFDMA, Airtime Fairness",
+    "Protocols": "IPv4, IPv6",
+    "USB Sharing": "Samba, FTP, Media Server",
+    "Operating Modes": "Router",
+    "VPN Server": "PPTP, OpenVPN, IPSec"
+  },
+  "OTHERS": {
+    "Certification": "CE",
+    "Package Contents": "1× Wi-Fi 6 VoIP Router EX230v\n1× Power Adapter\n1× RJ45 Ethernet Cable\n1× Quick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual-Band Wi-Fi 6 Gigabit VoIP Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual-Band Wi-Fi 6 Gigabit VoIP Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual-Band Wi-Fi 6 Gigabit VoIP Router\image_3.png
+Highlights: Next-Gen 1.8 Gbps Speeds: Enjoy smooth streaming, downloading, and gaming all without buffering with WiFi speeds up to 1.8 Gbps (1201 Mbps on the 5 GHz, 574 Mbps on 2.4 GHz).*
+Boosted Coverage: Four high-performance antennas and Beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.**
+EasyMesh Compatible: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology. §†
+Gigabit Wired Connections: 1× GE WAN port and 4x GE LAN ports provide fast and flexible internet access.
+VoIP Calls: Support multiple VoIP accounts and various call features to surpass traditional landlines.
+Enhanced Security: WPA3 encryption, Multi-SSID, and Parental Controls provide personalized and safer online experience.**
+Easy Setup and Use: Set up your network in minutes with the powerful Aginet app.
+Remote Management: Supports TAUC (TP-Link Aginet Unified Cloud), TR-069/TR-098, TR-181, TR-111, TR-104, and TR-143 protocols for centralized management by internet service providers.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of Wi-Fi 6 (802.11ax), and features including OFDMA, DL/UL MU-MIMO, 1024-QAM, HE160, and WPA3 requires clients to also support the corresponding features.
+§Mesh network requires two or more devices.
+†This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+‡Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.
+△1000 Mbps internet speeds require compatible service plans and equipment.

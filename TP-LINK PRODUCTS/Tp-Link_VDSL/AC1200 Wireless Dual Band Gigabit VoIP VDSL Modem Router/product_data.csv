@@ -1,0 +1,54 @@
+Name: AC1200 Wireless Dual Band Gigabit VoIP VDSL Modem Router
+Price: N/a
+Model: VC221-G3v
+Specifications: ""
+Table Data: {
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Quality of Service": "Bandwidth Control",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, IPSec Passthrough",
+    "Management": "Web Based Configuration(HTTP), Remote management, Command Line Interface, TR-069(TR-181, TR-143), SNMP v1/2c, Web Based Firmware Upgrade, Diagnostic Tools",
+    "Security": "NAT Firewall, Access Control, MAC / URL Filtering, Denial of Service (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding",
+    "Advanced Functions": "Parental Control, Network Address Translation(NAT), Port Mapping (Grouping), Static Routing, RIP v1/v2(optional), DNS Relay, DDNS, IGMP V1/V2/V3",
+    "ATM/PPP Protocols": "PPP over Ethernet (RFC2516), MER\\IPoE (RFC 1483 Routed), Bridge (RFC1483 / RFC 2684), Static IP",
+    "Protocols": "Supports IPv4 and IPv6 (SLACC (RFC 4862) and DHCPv6 (RFC3736) included)",
+    "USB Sharing": "Support Samba(Storage)/FTP Server/Media Server, 3G/4G Modem",
+    "Operating Modes": "Router mode for SUBB (Single VLAN), Router mode for HSBB (Multiple VLAN), Router Gateway (RG) mode, Bridge mode",
+    "VOIP Features": "SIP(RFC3261), RTP(RFC3550), G.711A/u, DHCP Option 120(RFC 3361)"
+  },
+  "WIRELESS": {
+    "Frequency": "2.4GHz(2400 MHz to 2500 MHz), 5GHz(5150 MHz to 5250 MHz, 5725 MHz to 5875 MHz)",
+    "Wireless Transmit Power": "CE: &lt;20dBm(2.4GHz), &lt;23dBm(5GHz); Target: &lt;24dBm(2.4GHz), &lt;24dBm(5GHz)",
+    "Wireless Encryption": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA-PSK2 encryptions",
+    "WiFi Speeds": "867Mbps at 5GHz, 300Mbps at 2.4GHz",
+    "Standards": "IEEE 802.11ac/n/a 5GHz, IEEE 802.11b/g/n 2.4GHz"
+  },
+  "HARDWARE": {
+    "Button": "Power On/Off Button, WPS On/Off Button, Wireless On/Off Button, RESET Button",
+    "Product Dimensions (W x D x H)": "8.4 × 5.7 ×3.1 in (214.0 × 144.5 × 80.0 mm)",
+    "Ports": "1 RJ11 DSL Port, 2 RJ11 FXS Ports, 1 USB 2.0 Port",
+    "Ethernet Ports": "4 10/100/1000Mbps RJ45 LAN Ports, 1 10/100/1000Mbps RJ45 WAN Port",
+    "Power": "12V/1.5A"
+  },
+  "PHYSICAL": {
+    "Package Contents": "AC1200 Wireless Dual Band Gigabit VoIP VDSL Modem Router VC221-G3v\nExternal Splitter\nRJ11 DSL Cable\nRJ45 Ethernet Cable\nPower Adapter\nQuick Installation Guide"
+  },
+  "OTHER": {
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nCable or DSL Modem",
+    "Certifications": "CE, RoHS",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nStorage Temperature: -40℃~70℃ (-40℉ ~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1200 Wireless Dual Band Gigabit VoIP VDSL Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1200 Wireless Dual Band Gigabit VoIP VDSL Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1200 Wireless Dual Band Gigabit VoIP VDSL Modem Router\image_3.png
+Highlights: Speedy Wi-Fi: Experience superb wireless connections with 867 Mbps(5GHz) + 300 Mbps(2.4GHz) dual band Wi-Fi.†
+Superior Range: High-performance antennas with Beamforming technology provide stable wireless connections and optimal coverage.†
+Gigabit Internet Access: Take full advantage of your broadband with speed up to 1Gbps with a Gigabit WAN port. Plug your PCs, smart TVs and game consoles into one of the four Gigabit LAN ports for fast and reliable wired connections.
+VoIP: With 2 FXS ports, users can make or receive phone calls over the internet simply by connecting the device to their existing telephone set.
+Versatile Connectivity: Fully compatible with VDSL2/ADSL2+/ADSL2/ADSL standards, as well as fiber, cable, and 3G/4G internet services.
+USB Easy Sharing: A USB 2.0 Port enables easy file sharing within your network or building private Cloud Storage.
+Parental Controls: Manage responsible internet access for your children.
+ Content Notes: †Maximum wireless transmission rates are the physical rates derived from IEEE Standard 802.11 specifications. Range and coverage specifications are based upon test results under normal usage conditions. Actual wireless transmission rate and wireless coverage are not guaranteed and will vary as a result of 1) environmental factors, including building materials, physical objects and obstacles, 2) network conditions, including local interference, volume and density of traffic, product location, network complexity, and network overhead and 3) client limitations, including rated performance, location, connection quality, and client condition.
+‡Use of MU-MIMO requires clients to also support MU-MIMO.

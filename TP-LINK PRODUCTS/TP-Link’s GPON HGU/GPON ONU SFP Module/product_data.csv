@@ -1,0 +1,27 @@
+Name: GPON ONU SFP Module
+Price: N/a
+Model: XM60A
+Specifications: ""
+Table Data: {
+  "GPON SFP Module": {
+    "Wavelength": "Tx: 1310 nm \nRx: 1490 nm",
+    "Connector": "SC/APC",
+    "Fiber Type": "Single Fiber (9/125um)",
+    "Data Rate": "Downstream Data Rate: 2.488 Gbps*\nUpstream Data Rate: 1.244 Gbps*",
+    "Power Level": "Class C+",
+    "Transmission Distance": "Max. 20 km",
+    "Hot Swap": "Yes",
+    "Nominal Voltage": "3.3 V (&lt; ± 5％)",
+    "Diagnostic Function": "Monitors parameters such as voltage, transceiver power, and temperature",
+    "Package": "GPON ONU SFP Module XM60A\nQuick Installation Guide",
+    "Receiver Sensitivity": "-28 dBm",
+    "Overload Power": "- 8 dBm"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\GPON ONU SFP Module\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\GPON ONU SFP Module\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\GPON ONU SFP Module\image_3.png
+Highlights: Enables multi-gig fiber internet connections up to 2.488 Gbps downstream and 1.244 Gbps upstream.*
+Supports 2.5G and 1G Ethernet UNI modes for flexible internet access.
+Hot swapping feature allows quick and easy installation and application.
+Supports the OMCI protocol and DDM (Digital Diagnostics Monitoring) for centralized management and real-time monitoring.
+ Content Notes: *Actual data throughput is not guaranteed and may vary as a result of network conditions, client limitations, the rate supported by the network cable, internet service provider factors, and other environmental factors.

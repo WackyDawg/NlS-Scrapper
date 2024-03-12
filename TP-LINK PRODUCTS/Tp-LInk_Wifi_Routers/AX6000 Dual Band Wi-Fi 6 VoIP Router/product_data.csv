@@ -1,0 +1,61 @@
+Name: AX6000 Dual Band Wi-Fi 6 VoIP Router
+Price: N/a
+Model: EX820v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/2.5A",
+    "Interface": "1× 10/100/1000/2500 Mbps RJ45 WAN Port\n1× 10/100/1000/2500 Mbps RJ45 LAN Port\n3× 10/100/1000 Mbps RJ45 LAN Ports\n2× Phone Ports\n1× USB 3.0 Port",
+    "Button": "Power On/Off Button, Reset Button, WPS/Wi-Fi Button",
+    "Antenna": "Internal Antennas",
+    "Dimensions ( W x D x H )": "8.5 × 7.0 × 2.9 in (214.9 ×178.2 × 73.3 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "5 GHz: Up to 4804Mbps\n2.4 GHz: Up to 1148 Mbps*",
+    "Transmit Power": "CE: &lt;20 dBm (2.4 GHz); &lt;23 dBm (5.15 GHz–5.35 GHz);\n&lt;30 dBm (5.47 GHz–5.725 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Air Time Fairness, Wireless Statistics, MAC Filtering",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11 ax/ac/n/a 5 GHz\nIEEE 802.11 ax/b/g/n 2.4 GHz",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)",
+    "DHCP": "DHCP Client, DHCP Server, DHCP Relay, Address Reservation, Condition Pool",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Dynamic DNS": "NO-IP, DynDNS",
+    "Management": "Local management: WebGUI, Aginet app (for end users) \nRemote management: Aginet ACS, TR-069, TR-181, TR-369, TR-111,TR-143 for service providers\nAginet APP for end user (need to log in wtih TP-Link ID and bind your device to it)\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Security": "IPv4/IPv6 SPI Firewall, DDoS, Service Filtering, Access Control, IP&amp;MAC Binding",
+    "Advanced Functions": "VoIP, Parental Controls, Firewall, Address Reservation, QoS (Quality of Service), CWMP, Network Diagnosis, Traffic Statistics,1024-QAM, MU-MIMO, OFDMA, Cloud upgrade",
+    "Protocols": "IPv4 and IPv6",
+    "USB Sharing": "Samba, FTP, Media Server",
+    "Operating Modes": "Router Mode",
+    "Guest Network": "2.4 GHz and 5 GHz Guest Network",
+    "VPN": "PPTP, IPSec, OpenVPN"
+  },
+  "OTHERS": {
+    "Certification": "CE, DFS",
+    "Package Contents": "1× Wi-Fi 6 VoIP Router EX820v\n1× Power Adapter\n1× RJ45 Ethernet Cable\n2× RJ11 Cables\n1× Quick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)",
+    "Environment": "Operating Temperature: 0°C40°C (32°F—104°F)\nStorage Temperature: -40°C—60°C (-40°F—140°F)\nOperating Humidity: 10%—90% non-condensing\nStorage Humidity: 5%—90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX6000 Dual Band Wi-Fi 6 VoIP Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX6000 Dual Band Wi-Fi 6 VoIP Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX6000 Dual Band Wi-Fi 6 VoIP Router\image_3.png
+Highlights: Warp-Speed Wi-Fi: Up to 6 Gbps dual band Wi-Fi enables faster browsing, streaming, and downloading—all at the same time.*
+Multi-Gig Connections: Break through the 1 Gbps bottleneck with a 2.5G WAN port and 2.5G LAN port for faster internet access and wired connections.△ ‡
+Superior Coverage: High-performance antennas and Beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.**
+EasyMesh Compatible: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology. §†
+VoIP Calls: Supports multiple VoIP accounts and various call features to surpass traditional landlines.
+Enhanced Security: WPA3 encryption, Multi-SSID, and Parental Controls provide personalized and safer online experience.
+Easy Setup: Set up your network in minutes with the powerful Aginet app.
+Remote Management: TAUC (TP-Link Aginet Unified Cloud, based on TR-369), and TR-069, TR-098, TR-181, TR-111, TR-143 protocols are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of Wi-Fi 6 (802.11ax), and features including OFDMA, DL/UL MU-MIMO, 1024-QAM, HE160, and WPA3 requires clients to also support the corresponding features. Not all 160 MHz channels may be available in some regions/countries due to regulatory restrictions.
+△Multi-gig or 2.5 Gbps internet speeds require compatible service plans and equipment.
+§Mesh network requires two or more devices.
+†This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+‡Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

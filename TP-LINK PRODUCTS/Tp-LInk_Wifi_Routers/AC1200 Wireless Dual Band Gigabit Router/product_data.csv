@@ -1,0 +1,51 @@
+Name: AC1200 Wireless Dual Band Gigabit Router
+Price: N/a
+Model: EC220-G5
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.0A",
+    "Interface": "1 10/100/1000 Mbps WAN Port\n3 10/100/1000 Mbps LAN Ports",
+    "Antenna": "4 External Antennas",
+    "Dimensions ( W x D x H )": "9.1 × 5.7 × 1.5 in (230.0 × 144.0 × 37.0 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "2.4 GHz: 300 Mbps\n5 GHz: 867 Mbps*",
+    "Transmit Power": "CE: &lt;20 dBm(2.4 GHz), &lt;23 dBm (5 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Schedule, Wireless Statistics, Access Point mode",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz, IEEE 802.11 k/v",
+    "Mesh Technology": "EasyMesh compatible and supports 802.11 k/v"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP, Static IP, PPPoE, PPTP, L2TP",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Vritual Server, Port Triggering, DMZ, UPnP",
+    "Quality of Service": "WMM, Bandwidth Control",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec",
+    "Access Control": "Parental Controls, Local Management Control, Host List, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP Address Filter, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app\nRemote management: TR-069, TR-181, TR-111, TR-143, Aginet ACS",
+    "Protocols": "Supports IPv4 and IPv6"
+  },
+  "OTHERS": {
+    "Package Contents": "AC1200 Wireless Dual Band Gigabit Router EC220-G5\nPower Supply Unit\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Certifications": "CE, RoHS",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java-enabled browser\nCable or DSL Modem (if needed)\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1200 Wireless Dual Band Gigabit Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1200 Wireless Dual Band Gigabit Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1200 Wireless Dual Band Gigabit Router\image_3.png
+Highlights: AC1200 Dual Band WiFi: Delivers total WiFi speeds up to 1200 Mbps on the 2.4 GHz and 5 GHz bands.*
+Full Gigabit Ports: Enjoy fast, reliable wired connections for gaming and streaming at the best quality.
+Extensive Coverage: Beamforming and four antennas combine to deliver focused reception to devices far away.
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.†
+Enhanced Protection: Protect your network with firewalls, parental controls, and the latest WPA3 encryption.**
+Easy Setup: Set up your router in minutes with the intuitive web interface or Aginet app.
+Remote Management: Aginet ACS, TR-069, TR-181, TR-111, and TR-143 are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of MU-MIMO and WPA3 requires clients to also support the corresponding features.
+†This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+‡Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, Internet service provider factors and other environmental conditions.

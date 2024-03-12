@@ -1,0 +1,44 @@
+Name: EC220-F5
+Price: N/a
+Model: EC220-F5
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "9 V ⎓ 0.85 A",
+    "Interface": "1× 10/100 Mbps WAN Port\n4× 10/100 Mbps LAN Ports",
+    "Antenna": "4 External Antennas",
+    "Dimensions ( W x D x H )": "9.1 × 5.7 × 1.5 in\n(229.9 × 144.2 × 36.9 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "2.4 GHz: 300 Mbps\n5 GHz: 867 Mbps*",
+    "Transmit Power": "CE: &lt;20 dBm(2.4 GHz), &lt;23 dBm (5 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Schedule, Wireless Statistics, Access Point mode",
+    "Wireless Security": "WPA/WPA2 encryptions",
+    "Wireless Standards": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz,"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP, Static IP, PPPoE, PPTP, L2TP",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Vritual Server, Port Triggering, DMZ, UPnP",
+    "Quality of Service": "QoS by Device",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec",
+    "Access Control": "Parental Controls, Local Management Control, Host List, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP Address Filter, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Tether app\nRemote management: TR-069, TR-181, TR-111, TR-143, Aginet ACS",
+    "Protocols": "Supports IPv4 and IPv6"
+  },
+  "OTHERS": {
+    "Package Contents": "Wi-Fi Router EC220-F5\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Certifications": "CE, RoHS",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java-enabled browser\nCable or DSL Modem (if needed)\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\EC220-F5\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\EC220-F5\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\EC220-F5\image_3.png
+Highlights: Upgrade to fast 5th generation Wi-Fi, 300 Mbps on 2.4GHz + 867 Mbps on 5GHz dual band.
+Easy Remote Management, TR-069 protocol enables an operator to remotely configure and manage end-user devices.
+4 external antennas provide stable wireless connections and optimal coverage.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

@@ -1,0 +1,21 @@
+Name: 150W DC Power Supply Module
+Price: N/a
+Model: PSM150-DC
+Specifications: ""
+Table Data: {
+  "Redundant Power Supply": {
+    "DC Power Output": "12V/12.5A",
+    "Maximum Power Output": "150W",
+    "LEDs": "Power, PS OK, Fault",
+    "Dimensions": "120*213*41.8 mm",
+    "Environment": "• Operating Temperature: 0℃~50℃ (32℉~122℉)\n• Storage Temperature: -40℃~70℃ (-40℉~158℉)\n• Operating Humidity: 10%~90% non-condensing\n• Storage Humidity: 5%~90% non-condensing",
+    "DC Power Input": "-48 ~ -60V 6A"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\150W DC Power Supply Module\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\150W DC Power Supply Module\image_2.png
+Highlights: Up to 150 watts output power
+Output over-voltage/under-voltage/short circuit/over-current protection
+Hot swappable
+Suitable for DS-P7001-08, DS-P7001-16
+ Content Notes: 

@@ -1,0 +1,41 @@
+Name: 1-Port Gigabit XPON Terminal with VoIP
+Price: N/a
+Model: XZ000-G6v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "9VDC/0.6A",
+    "Interface": "1× PON Port\n1× 10/100/1000 Mbps RJ45 Port\n1× Phone Port",
+    "Button": "Reset Button\nPower On/Off Button",
+    "Dimensions ( W x D x H )": "4.1 × 4.1 × 1.0 in (105 × 105.2 × 24.3 mm)",
+    "IEEE Standards": "IEEE 802.3, 802.3u, 802.1p, 802.1Q",
+    "Data Rates": "Downstream Speeds: 2.488 Gbps (GPON), 1.25 Gbps (EPON)*\nUpstream Speeds: 1.244 Gbps (GPON), 1.25 Gbps (EPON)*",
+    "Optical Module": "Class B+",
+    "Wavelength": "Upstream: 1310 nm\nDownstream: 1490 nm",
+    "Transmitter": "DFB Laser",
+    "Receiver": "Super-TIA",
+    "Distance": "0–20 Km Max",
+    "GPON Standards": "ITU-T G.988, G.984.1, G.984.2, G.984.3, G.984.4"
+  },
+  "SOFTWARE FEATURES": {
+    "Management": "Local management: WebGUI, Telnet\nRemote management: OMCI, TR-069",
+    "Security": "AES Encryption, Packet Filter based on VLAN",
+    "Advanced Features": "Upstream and Downstream FEC\nDynamic Bandwidth Allocation(DBA) support NSR/SR\nUp to 16 T-CONTs and 256 GEM Ports\nOptical power detection\nDying Gasp\nTerminal Silent mechanism",
+    "VLAN": "802.1Q tag VLAN, VLAN transparent mode/VLAN translation mode/VLAN trunk mode, Authentication based on SN and Password, VLAN Auto Detect",
+    "IGMP": "IGMP v1/v2/v3"
+  },
+  "OTHERS": {
+    "Package Contents": "XPON Terminal XZ000-G6v\nPower Adapter\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Certifications": "CE, RoHS",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit XPON Terminal with VoIP\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit XPON Terminal with VoIP\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port Gigabit XPON Terminal with VoIP\image_3.png
+Highlights: Gigabit Internet Access: One PON port and one gigabit LAN port provide fast transfer speeds.*
+XPON Support: EPON + GPON dual mode offers greater flexibility for fiber internet access.
+VoIP Calls: Supports multiple VoIP accounts and various call features to surpass traditional landlines.
+Ease of Use: Quick and hassle-free installation with intelligent power-saving.
+Remote Management: Supports the OMCI (ONU Management Control Interface) and TR-069 protocols for centralized configuration and management.
+ Content Notes: *Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

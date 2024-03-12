@@ -1,0 +1,54 @@
+Name: 300Mbps Wireless N VDSL/ADSL Modem Router
+Price: N/a
+Model: VN020-F3
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "Antenna": "2 Fixed External Antennas",
+    "Interface": "3 10/100Mbps RJ45 LAN Ports\n1 10/100Mbps RJ45 WAN/LAN Port\n1 RJ11 Port",
+    "Wireless Standards": "IEEE 802.11b/g/n 2.4GHz",
+    "Button": "WPS/WLAN Button,\n\nPower On/Off Button,\n\nRESET Button",
+    "External Power Supply": "9VDC/0.6A",
+    "IEEE Standards": "IEEE 802.3,\n\nIEEE 802.3u",
+    "VDSL2 Standards": "ITU-T G.993.2,Up to 30a profile (POTS)\n\nITU-T G.993.5 (G.vector)\n\nITU-T G.998.4 (G.INP)",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2, ITU-T G.992.1(G.DMT), ITU-T G.992.2(G.Lite),",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.DMT.bis) ITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5 Annex A/I/L",
+    "Dimensions ( W x D x H )": "181.6*125.7*36.2mm"
+  },
+  "WIRELESS FEATURES": {
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics",
+    "Transmission Power": "2.4GHz &lt;20dBm",
+    "Wireless Schedule": "Support 2.4GHz Schedule",
+    "Frequency": "2.4G：channel 1-13",
+    "Signal Rate": "300Mbps at 2.4GHz",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+  },
+  "SOFTWARE FEATURES": {
+    "IPSec VPN": "Supports up to 10 IPSec VPN tunnels",
+    "Quality of Service": "Bandwidth Control, WMM",
+    "Security": "IPv4/IPv6 SPI Firewall DoS Protection Service Filter Access Control",
+    "Management": "Web based configuration(HTTP) SNMP CWMP(TR-069)",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, UPnP",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec Pass-through",
+    "Protocols": "Supports IPv4 and IPv6",
+    "ATM/PPP Protocols": "PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483 Routed), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs",
+    "Advanced Functions": "Parental Control, Network Address Translation(NAT), Interface Grouping, Static Routing, DDNS, IGMP Proxy",
+    "VPN": "Open VPN, PPTP VPN, Ipsec VPN"
+  },
+  "OTHERS": {
+    "Certification": "CE, RoHS",
+    "Package Contents": "300Mbps Wireless N VDSL2 Router\nVN020-F3 External Splitter \nRJ11 DSL Cable \nRJ45 Ethernet Cable \nPower Adapter \nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1,10, MAC OS, NetWare, UNIX or Linux Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser Subscription with an Internet Service Provider (for Internet access)",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉) Storage Temperature: -40℃~70℃ (-40℉ ~158℉) Operating Humidity: 10%~90% non-condensing Storage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N VDSL\ADSL Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N VDSL\ADSL Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N VDSL\ADSL Modem Router\image_3.png
+Highlights: Versatile Connectivity –With DSL and LAN/WAN ports, VN020-F3 is fully compatible with the VDSL2/ADSL2+/ADSL2/ADSL standards and also works with fiber/cable access.
+Boosted Speeds –Superfast VDSL broadband speeds of up to 100Mbps together with 300Mbps Wi-Fi.
+Maximized Range –Powerful external antennas provide far-reaching wireless coverage in every direction.
+TR-069 – Easy remote management for Internet Service Provider through TR-069 protocals.
+ Content Notes: 

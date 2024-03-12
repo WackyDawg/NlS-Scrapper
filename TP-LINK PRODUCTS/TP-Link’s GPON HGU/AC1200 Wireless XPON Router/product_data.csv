@@ -1,0 +1,55 @@
+Name: AC1200 Wireless XPON Router
+Price: N/a
+Model: XC220-G3
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.0A",
+    "Interface": "2 10/100/1000 Mbps RJ45 LAN Ports\n1  PON Port",
+    "Button": "WPS/Wi-Fi Button, RESET Button",
+    "Antenna": "2 External Dual Band Antennas",
+    "Data Rates": "Downstream Speeds: 2.488 Gbps (GPON), 1.25 Gbps (EPON)\nUpstream Speeds: 1.244 Gbps (GPON), 1.25 Gbps (EPON)<sup>§</sup>"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "867 Mbps on 5 GHz, 300 Mbps on 2.4 GHz",
+    "Transmit Power": "2.4 GHz: 26 dBm(EIRP), 5GHz: 28dBm (EIRP)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Quality of Service": "Hardware QoS",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec Pass-through",
+    "Management": "Local management: WebGUI management, Aginet app management\nRemote management: Aginet ACS, OMCI, TR-069, TR-098, TR-181,TR-111,TR-143\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Security": "NAT Firewall, Access Control, MAC/IP/URL Filtering, IP and MAC Address Binding, Defense “Denial of Service (DoS), SYNFlooding, Ping of Death”",
+    "Advanced Functions": "Parental Controls, Network Address Translation(NAT), Port Mapping(Grouping), Static Routing, DNS Relay, DDNS, IGMP V1/V2/V3",
+    "Protocols": "IPv4, IPv6"
+  },
+  "OTHERS": {
+    "Package Contents": "AC1200 Wireless XPON Router XC220-G3\nRJ45 Ethernet Cable\nPower Adapter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless XPON Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless XPON Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless XPON Router\image_3.png
+Highlights: Superfast Dual Band WiFi: Up to 1.2 Gbps WiFi speeds, 300 Mbps on 2.4GHz, 867 Mbps on 5GHz*
+XPON Dual Modes: Supports GPON and EPON dual modes for flexible fiber internet access.
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.△
+Smooth IPTV: Supports IGMP Proxy/Snooping, Bridge and Tag VLAN to optimize IPTV streaming.
+Enhanced Security: Protect your network with firewalls and the latest WPA3 encryption.**
+Full Gigabit Ports: Up to 10× faster than standard Ethernet, deliver lightning-fast wired performance.
+Compatct Fiber Tray Design: Store a redundant fiber cable inside and protect the fiber cable from breaking.
+Easy Setup: Set up your network in minutes with the powerful Aginet app.
+Remote Management: OMCI (ONT Management and Control Interface) and TR-069 protocols are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of WPA3 requires clients to also support the corresponding feature.
+△This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+§1000 Mbps internet speeds require compatible service plans and equipment.
+Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

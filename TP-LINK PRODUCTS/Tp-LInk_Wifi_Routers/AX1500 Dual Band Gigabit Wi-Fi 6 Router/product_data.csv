@@ -1,0 +1,56 @@
+Name: AX1500 Dual Band Gigabit Wi-Fi 6 Router
+Price: N/a
+Model: EX141
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1A",
+    "Interface": "1 10/100/1000 Mbps RJ45 WAN Port\n3 10/100/1000 Mbps RJ45 LAN Ports",
+    "Button": "Reset Button, WPS/Wi-Fi Button",
+    "Dimensions ( W x D x H )": "7.2 × 3.7 × 1.3 in (182.7 × 94 × 33.3 mm)",
+    "Antenna Type": "Four External antennas"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "1201 Mbps on 5 GHz, 300 Mbps on 2.4 GHz*",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics, Band Steering",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11n/g/b 2.4 GHz",
+    "Transmission Power": "CE: &lt;20dBm (2.4 GHz), &lt;23dBm (5.17 GHz–5.71 GHz)\nFCC:&lt;30dBm (2.4 GHz &amp; 5.15 GHz–5.825 GHz)",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP (Multi-EWAN)",
+    "DHCP": "Server, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "IPSec, PPTP, L2TP",
+    "Access Control": "Parental Controls, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI management, Aginet app management\nRemote management: Aginet ACS, TR-069, TR-098, TR-181,TR-111, and TR-143 for service providers\nAginet APP for end user (need to log in wtih TP-Link ID and bind your device to it)",
+    "Advanced Features": "Muti-SSID, Guest Network, QoS (Quality of Service), TX Beamforming, MU-MIMO, OFDMA, Airtime Fairness",
+    "Protocols": "IPv4, IPv6",
+    "Operating Modes": "Router, Access Point",
+    "VPN Server": "PPTP, OpenVPN, IPSec"
+  },
+  "OTHERS": {
+    "Package Contents": "AX1500 Dual Band Gigabit Wi-Fi 6 Router EX141\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1500 Dual Band Gigabit Wi-Fi 6 Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1500 Dual Band Gigabit Wi-Fi 6 Router\image_2.png
+Highlights: 1.5 Gbps WiFi Speeds: Enjoy faster browsing, streaming, and downloading across two bands.*
+Connect More, Stay Fast: Equipped with the latest WiFi 6 wireless technology for faster speeds, greater capacity, and reduced network congestion.**
+Extensive Coverage: Beamforming and four antennas combine to deliver focused reception to devices far away.
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.△
+Enhanced Security: Protect your network with firewalls and the latest WPA3 encryption.**
+Easy Setup: Set up your network in minutes with the powerful Aginet app.
+Remote Management: TR-069, TR-098, TR-181, TR-111, and TR-143 protocols are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of WiFi 6 (802.11ax), and features including OFDMA, 1024-QAM, and WPA3 requires clients to also support the corresponding features.
+△This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+§1000 Mbps internet speeds require compatible service plans and equipment.
+Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

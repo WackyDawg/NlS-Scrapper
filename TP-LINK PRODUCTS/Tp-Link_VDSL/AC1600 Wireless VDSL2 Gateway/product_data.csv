@@ -1,0 +1,54 @@
+Name: AC1600 Wireless VDSL2 Gateway
+Price: N/a
+Model: Archer VR1600v
+Specifications: ""
+Table Data: {
+  "WIRELESS FEATURES": {
+    "Wireless Standards": "IEEE 802.11a/n/ac 5GHz, \nIEEE 802.11b/g/n 2.4GHz",
+    "Frequency": "2.4G：channel  1-13\n5G ：Band1,Band4",
+    "Signal Rate": "1300Mbps at 5GHz, 300Mbps at 2.4GHz",
+    "Transmit Power": "2.4GHz &lt;20dBm\n5GHz &lt;23dBm",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK"
+  },
+  "HARDWARE FEATURES": {
+    "Interface": "4 10/100/1000Mbps RJ 45 LAN Ports\n1 10/100/1000Mbps RJ 45 WAN Port\n3 RJ11 Ports(1 DSL Port + 2 FXS Ports)\n1 USB 2.0 Port",
+    "Button": "WPS Button,WiFi On/Off Button(2.4GHz &amp; 5GHz), Power On/Off Button, RESET Button",
+    "External Power Supply": "12V DC 2A",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "VDSL2 Standards": "ITU-T G.993.2, Up to 17a profile (POTS)\nITU-T G.993.5 (G.vector)\nITU-T G.998.4 (G.INP）",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2,\nITU-T G.992.1(G.DMT),\nITU-T G.992.2(G.Lite),",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.DMT.bis)\nITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5 Annex A/M",
+    "Dimensions ( W x D x H )": "212*159.8*57mm",
+    "Antenna Type": "3 Internal Antennas"
+  },
+  "SOFTWARE FEATURES": {
+    "Quality of Service": "Bandtidth Control,WMM \nIPv4/IPv6 SPI Firewall\nDoS Protection\nService Filtering\nIP and MAC Address Filter\nIP and MAC Binding",
+    "Security": "WPS\nWPA/WPA2, WPA-PSK/WPA-PSK2",
+    "Operating Modes": "VDSL2 Modem Router\nWireless Router\n3G/4G Dongle",
+    "Management": "Web based configuration(HTTP)\nSNMP v1/v2c\nCWMP(TR-069)",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, \nDHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, UPnP",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "OpenVPN, PPTP VPN, \nIPSec VPN Pass-through",
+    "Protocols": "Supports IPv4 and IPv6",
+    "ATM/PPP Protocols": "PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483\nRouted), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs",
+    "Advanced Functions": "Parental Control, Network Address Translation(NAT),\nPort Mapping(Grouping), Static Routing, DNS Relay,DDNS, IGMP V1/V2/V3",
+    "USB Sharing": "Storage Sharing\nFTP Server\nMedia Server\n3G/4G Dongle"
+  },
+  "OTHERS": {
+    "Certification": "RCM,RoHS",
+    "Package Contents": "DSL VoIP Modem Router Archer VR1600v\nExternal Splitter\nRJ11 DSL Cable\nRJ45 Ethernet Cable\nPower Adapter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or \nWindows 7, 8, 8.1,10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, \nSafari 4.0, or other Java-enabled browser\nCable or DSL Modem Subscription with an Internet Service Provider (for Internet access)",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nStorage Temperature: -40℃~70℃ (-40℉ ~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless VDSL2 Gateway\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless VDSL2 Gateway\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless VDSL2 Gateway\image_3.png
+Highlights: Superfast Dual Band Wi-Fi: Up to 1.6Gbps Wi-Fi speed, 300Mbps 2.4GHz, 1300Mbps 5GHz
+Supports VOIP Calls: Simply make or receive phone calls over the Internet
+Full Gigabit Port: Up to 10x faster than standard Ethernet, deliver lightning-fast wired performance
+Supports USB 2.0: With USB 2.0 port, easily share files & media with networked devices
+Easy Remote Management: TR-069 protocol enables an operator to remotely configure and manage end-user devices
+Smooth Connection: Supports VLAN, 802.1q, smooth network connection for IPTV and other services
+ Content Notes: 

@@ -1,0 +1,47 @@
+Name: AC1200 Wireless VoIP GPON Router
+Price: N/a
+Model: XC220-G3v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.0A",
+    "Interface": "4 10/100/1000 Mbps RJ45 LAN Ports\n1 SC/APC GPON Port\n1 RJ11 FXS Port",
+    "Button": "Power On/Off Button, WPS/Wi-Fi Button, RESET Button",
+    "Antenna": "2 External Dual Band Antennas"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz (not Supports DFS)",
+    "Signal Rate": "867 Mbps on 5 GHz, 300 Mbps on 2.4 GHz",
+    "Transmit Power": "2.4 GHz: 26 dBm(EIRP), 5GHz: 27dBm (EIRP)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2, WPA-PSK/WPA2-PSK encryptions",
+    "Wireless Standards": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, TP-Link OneMesh"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Quality of Service": "Hardware QoS",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec Pass-through",
+    "Management": "Web Based Configuration(HTTP), Remote management, Command Line Interface, SSL for TR-069, Web Based Firmware Upgrade, Diagnostic Tools, OMCI",
+    "Security": "NAT Firewall, Access Control, MAC/IP/URL Filtering, IP and MAC Address Binding, Defense “Denial of Service (DoS), SYNFlooding, Ping of Death”",
+    "Advanced Functions": "Parental Control, Network Address Translation(NAT), Port Mapping(Grouping), Static Routing, DNS Relay, DDNS, IGMP V1/V2/V3",
+    "Protocols": "Supports IPv4 and IPv6",
+    "VOIP Features": "Call hold, Call forward, Warm call, Do not disturb, Call restriction, Speed dial, etc. Caller ID, 3-party conference, SIP account – up to 8 accounts"
+  },
+  "OTHERS": {
+    "Package Contents": "AC1200 Wireless VoIP GPON Router\nRJ45 Ethernet Cable\nPower Adapter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nStorage Temperature: -40℃~70℃ (-40℉ ~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless VoIP GPON Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless VoIP GPON Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AC1200 Wireless VoIP GPON Router\image_3.png
+Highlights: Superfast Dual Band WiFi: Up to 1.2 Gbps Wi-Fi speed, 300 Mbps 2.4GHz, 867 Mbps 5GHz*
+Full Gigabit Port: Up to 10× faster than standard Ethernet, deliver lightning-fast wired performance
+Supports VOIP Calls: Simply make or receive phone calls over the Internet
+Easy Remote Management: Supports the ONT Management and Control Interface (OMCI), easy to configure and manage remotely from an OLT
+Smooth Connection: Supports VLAN, 802.1q, smooth network connection for IPTV and other services
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.

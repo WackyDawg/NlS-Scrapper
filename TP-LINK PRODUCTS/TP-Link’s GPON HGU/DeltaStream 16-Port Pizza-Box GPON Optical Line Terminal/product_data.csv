@@ -1,0 +1,47 @@
+Name: DeltaStream 16-Port Pizza-Box GPON Optical Line Terminal
+Price: N/a
+Model: DS-P7001-16
+Specifications: ""
+Table Data: {
+  "GPON port attribute": {
+    "Interface type": "SC/UPC",
+    "Fiber type": "9/125μm SMF (Single Mode Fiber)",
+    "Tx power": "Class C+",
+    "Max. Splitting Ratio": "1:128",
+    "Transmission distance": "60 KM",
+    "Data rate": "• Downstream: 2.5 Gbps\n• Upstream: 1.25 Gbps",
+    "Wavelength": "• Tx: 1490 nm\n• Rx: 1310 nm"
+  },
+  "SOFTWARE FEATURES": {
+    "OMCI": "Standard OMCI Management Supported",
+    "ONU Authentication": "ONU Auto Authentication",
+    "ONU Security": "• Rouge ONU Detection and Isolation\n• Uplink and Downlink Data Encryption",
+    "Multi-Service": "Multi-Service Traffic Identify and Rate Limit",
+    "QoS": "• IEEE 802.1p/DSCP QoS\n• Voice VLAN\n• Auto VoIP",
+    "Routing": "Static Routing",
+    "Mulitcast": "• IGMP Snooping\n• MLD Snooping",
+    "Centralized Management": "• Large-Scale Devices Management\n• OLT Batch Configure, Upgrade, Reboot\n• Multi-Site Management\n• Intelligent Network Monitoring\n• Real-time Network Overview",
+    "DHCP": "• DHCP Server\n• DHCP Relay",
+    "Security": "• ACL\n• 802.1x Authentication\n• ARP Inspection\n• IP Source Guard"
+  },
+  "HARDWARE FEATURES": {
+    "Interface": "• 16× GPON Ports\n• 4× 10 Gbps SFP+ Uplink Ports\n• 2× 10/100/1000 Mbps RJ45 Uplink Ports\n• 1× RJ45 Console Port\n• 1× RJ45 MGMT Port\n• 1× Alarm Port",
+    "Button": "Reset Button",
+    "Dimensions ( W x D x H )": "17.3 ×17.3 × 1.7 in (440 × 440 × 44 mm)",
+    "Power Consumption": "Max. 103W",
+    "Power Supply": "Dual Power Supply: 2 AC, 2DC or AC + DC\nAC: 100V~240V, 50/60 Hz\nDC: -38.4V~-72V"
+  },
+  "OTHERS": {
+    "Certification": "CE,FCC",
+    "Package Contents": "• OLT Device \n• Power Cord and Console Cable\n• Installation Guide\n• Mouting Brackets, Screws and Rubber Feet",
+    "Environment": "• Operating Temperature: 0°C~50°C (32°F~122°F)\n• Storage Temperature: -40℃~70℃(-40°F~158°F)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 16-Port Pizza-Box GPON Optical Line Terminal\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 16-Port Pizza-Box GPON Optical Line Terminal\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 16-Port Pizza-Box GPON Optical Line Terminal\image_3.png
+Highlights: 16 GPON Ports: Supports 1:128 splitting ratio for every port—up to 2048 ONTs by one device.
+High-Speed Uplink Ports: 4× 10G SFP+ ports and 2× gigabit uplink ports offer high-bandwidth connectivity.
+Dual Power Supplies: Carrier-class reliability with dual hot-swappable power supplies: AC, DC, or mixed-power supplies.
+Advanced L2/L2+ Functions: Static Routing, IGMP Snooping, and more meet the requirement for different applications.
+Centralized Management: Supports the management via the DeltaStream PON Management System (DPMS), SNMP, CLI, and Web UI.
+ Content Notes: 

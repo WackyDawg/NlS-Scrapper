@@ -1,0 +1,56 @@
+Name: AX1800 Dual Band Wi-Fi 6 Router
+Price: N/a
+Model: EX220
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1A",
+    "Interface": "1 10/100/1000 Mbps RJ45 WAN Port, 4 10/100/1000 Mbps RJ45 LAN Ports",
+    "Button": "Power On/Off Button, Reset Button, WPS/Wi-Fi Button",
+    "Dimensions ( W x D x H )": "10.2 × 5.3 × 1.6 in (260.2 × 135.0 × 41.6 mm)",
+    "Antenna Type": "Four External antennas",
+    "Antenna Gain": "2 x 4dBi for 2.4 GHz and 2 x 5dBi for 5 GHz"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "1201 Mbps at 5 GHz, 574 Mbps at 2.4 GHz*",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11ax/ac/n/a 5 GHz, IEEE 802.11ax/n/g/b 2.4 GHz",
+    "Transmission Power": "CE: &lt;20dBm (2.4 GHz), &lt;23dBm (5.17 GHz–5.71 GHz)\nFCC:&lt;30dBm (2.4 GHz &amp; 5.15 GHz–5.825 GHz)",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)",
+    "DHCP": "Server, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "IPSec, PPTP, L2TP",
+    "Access Control": "Parental Controls, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Access Control, Remote Management, TR-069(TR-098/TR-181), TR-111, TR-143",
+    "Advanced Features": "Muti-SSID, TX Beamforming, MU-MIMO, DL/UL OFDMA, Airtime Fairness, Guest Network",
+    "Protocols": "IPv4, IPv6",
+    "Operating Modes": "Router, Access Point",
+    "VPN Server": "PPTP, OpenVPN, IPSec"
+  },
+  "OTHERS": {
+    "Package Contents": "AX1800 Wi-Fi 6 Router EX220\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual Band Wi-Fi 6 Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual Band Wi-Fi 6 Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX1800 Dual Band Wi-Fi 6 Router\image_3.png
+Highlights: Next-Gen 1.8 Gbps Speeds: Enjoy smooth streaming, downloading, and gaming all without buffering with Wi-Fi speeds of 1.8 Gbps.*
+Dual-Band Wi-Fi 6: Equipped with the latest WiFi 6 wireless technology for faster speeds, greater capacity, and reduced network congestion.**
+Connect More Devices: WiFi 6 technology communicates more data to more devices using revolutionary OFDMA technology while simultaneously reducing lag.**
+Extensive Coverage: Beamforming, and four antennas combine to deliver focused reception to devices far away.
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.
+Easy Setup: Set up your router in minutes with the powerful TP-Link Aginet App.
+TR-069 Remote Management: TR-098, TR-181, TR-111, TR-104 and TR-143 are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of WiFi 6 (802.11ax), and features including OFDMA, 1024-QAM, and WPA3 requires clients to also support the corresponding features.
+§1000 Mbps internet speeds require compatible service plans and equipment.
+△This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.

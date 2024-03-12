@@ -1,0 +1,56 @@
+Name: AC1600 Wireless Dual Band Gigabit VolP VDSL/ADSL Modem Router
+Price: N/a
+Model: VC321-G2v
+Specifications: ""
+Table Data: {
+  "SOFTWARE FEATURES": {
+    "VPN Pass-Through": "L2TP, PPTP, IPSec Passthrough",
+    "Operating Modes": "VDSL/ADSL Modem Router\nWireless Router\n3G/4G Router",
+    "IPSec VPN": "Supports up to 16 IPSec VPN tunnels",
+    "Quality of Service": "ATM QoS, QoS",
+    "Security": "SPI Firewall, NAT Firewall, MAC / IP/ URL Filtering",
+    "Management": "Web based configuration(HTTP)\nSNMP v1/v2c\nCWMP(TR-069)",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "Protocols": "Supports IPv4 and IPv6",
+    "ATM/PPP Protocols": "ATM Forum UNI3.1/4.0, PPP over ATM (RFC 2364), PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483 Routed), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs",
+    "Advanced Functions": "Parental Control, Network Address Translation(NAT), Port Mapping (Grouping), Static Routing, RIP v1/v2(optional), DNS Relay, DDNS, IGMP V1/V2/V3",
+    "USB Sharing": "Support Samba(Storage), FTP Server, Media Server, 3G/4G Modem"
+  },
+  "WIRELESS FEATURES": {
+    "Wireless Standards": "IEEE 802.11a/n/ac 5GHz, \nIEEE 802.11b/g/n 2.4GHz",
+    "Frequency": "2.4GHz and 5GHz",
+    "Signal Rate": "1300Mbps at 5GHz, 300Mbps at 2.4GHz",
+    "Transmit Power": "&lt;20dBm(2.4GHz), &lt;23dBm(5GHz)",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions"
+  },
+  "HARDWARE FEATURES": {
+    "VOIP Standards": "SIP (RFC3261)/RTP(RFC1889/3550)\nITU-T G.711A/u, G.722, G.729AB, G.726\nT.38 pass-through",
+    "Interface": "4 10/100/1000Mbps RJ 45 LAN Ports\n1 10/100/1000Mbps RJ 45 WAN Port\n3 RJ11 Ports(1 DSL Port + 2 FXS Ports)\n1 USB 3.0 Port",
+    "Button": "WPS Button,WiFi On/Off Button, Power On/Off Button, RESET Button",
+    "External Power Supply": "12V/2A",
+    "IEEE Standards": "IEEE 802.3, 802.3u, 802.3ab",
+    "VDSL2 Standards": "ITU-T G.993.2, Up to 17a Profile (POTS)\nITU-T G.993.5 (G.vector)\nITU-T G.998.4 (G.INP)",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2\nITU-T G.992.1(G.DMT)\nITU-T G.992.2(G.Lite)",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.dmt.bis) Annex A/L/M\nITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5 Annex A/M",
+    "Dimensions ( W x D x H )": "8.4 × 5.7 × 3.1 in (214.0 × 144.5 × 80.0 mm)",
+    "Antenna Type": "3 Internal Antennas"
+  },
+  "OTHERS": {
+    "Certification": "CE, FCC, RoHS",
+    "Package Contents": "AC1600 Wireless Dual Band Gigabit VoIP VDSL2 Modem Router VC321-G2v\nPower Adapter\nRJ11 DSL Cable\nRJ45 Ethernet Cable\nVDSL Splitter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nStorage Temperature: -40℃~70℃ (-40℉ ~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless Dual Band Gigabit VolP VDSL\ADSL Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless Dual Band Gigabit VolP VDSL\ADSL Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AC1600 Wireless Dual Band Gigabit VolP VDSL\ADSL Modem Router\image_3.png
+Highlights: Supports VDSL2 35b: Downstream is increased by up to 350Mbps, 3.5x faster than its VDSL2 predecessor
+Superfast Dual Band Wi-Fi: Up to 1.6Gbps Wi-Fi speed, 300Mbps 2.4GHz, 1300Mbps 5GHz
+Supports VoIP Calls: Simply make or receive phone calls over the Internet
+Full Gigabit Port: Up to 10x faster than standard Ethernet, deliver lightning-fast wired performance
+Supports USB 3.0: With USB 3.0 port, easily share files & media with networked devices
+Easy Remote Management: TR-069 protocol enables an operator to remotely configure and manage end-user devices
+ Content Notes: 

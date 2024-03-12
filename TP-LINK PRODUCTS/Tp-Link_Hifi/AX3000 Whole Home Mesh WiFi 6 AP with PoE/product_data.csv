@@ -1,0 +1,53 @@
+Name: AX3000 Whole Home Mesh WiFi 6 AP with PoE
+Price: N/a
+Model: HX510-PoE
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "IEEE 802.3at PoE or 12V DC",
+    "Interface": "1× 2.5 Gbps WAN/LAN Port\n1× Gigabit LAN Port \n (both support 802.3at PoE)\n\n*Per Unit",
+    "Button": "Reset Button",
+    "Dimensions ( W x D x H )": "6.1 × 6.1 × 2.7 in \n(154× 154 × 68.6 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "<b>AX3000</b>\n5 GHz: Up to 2402 Mbps (HE160)\n2.4 GHz: Up to 574 Mbps (HE40)",
+    "Transmit Power": "FCC:\n&lt;30 dBm (2.4 GHz)\n&lt;30 dBm (5 GHz)\n\nCE:\n&lt;20 dBm (2.4 GHz)\n&lt;23 dBm (5 GHz)",
+    "Wireless Security": "WPA/WPA2/WPA3-Personal",
+    "Wireless Standards": "<b>Wi-Fi 6</b>\nIEEE 802.11a/n/ac/ax 5 GHz\nIEEE 802.11b/g/n/ax 2.4 GHz",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz Multi-SSID",
+    "Mesh Technology": "EasyMesh compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE",
+    "Quality of Service": "WMM",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app (for end users)\nRemote management: TR-069, TR-098, TR-181, TR-369, TR-111,TR-143 for service providers\nAginet App for end users (need to log in wtih TP-Link ID and bind your device to it)\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Advanced Features": "Parental Controls, QoS (Quality of Service), Address Reservation, Port Forwarding, WiFi Schedule, Wireless Statistics, Guest Network,  Beamforming, MU-MIMO, Band Steering, Airtime Fairness",
+    "Protocols": "IPv4 \nIPv6",
+    "VPN": "PPTP, OpenVPN, IPSec",
+    "Working Modes": "Router Mode\nAccess Point Mode"
+  },
+  "OTHERS": {
+    "Package Contents": "<b>HX510-PoE (1-Pack)</b>\n1× HX510-PoE Unit\n1× RJ45 Ethernet Cable\n1× Power Adapter\nCeiling/wall-mounting Kit\nQuick Installation Guide",
+    "Certifications": "CE, FCC",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AX3000 Whole Home Mesh WiFi 6 AP with PoE\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AX3000 Whole Home Mesh WiFi 6 AP with PoE\image_2.png
+Highlights: Dual Band WiFi 6: Speeds up to 3000 Mbps—2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz.*
+Multi-Gig Connections: Break through the 1 Gbps bottleneck with a 2.5 GbE WAN/LAN port for ultra-fast internet access.△
+Boosted Coverage: High-performance antennas and beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.†
+EasyMesh Compatible: Create a unified smart mesh network with seamless coverage and greater flexibility based on standard mesh technology.§
+Flexible Deployment and Installation: Supports both 802.3at Power over Ethernet (PoE) and DC power supplies with multiple installation options (ceiling mountable, wall mountable, and tabletop).
+Enhanced Security: WPA3 encryptions, multi-SSID, and parental controls combined ensure personalized and safer online experiences.†
+Easy Setup: Set up your mesh WiFi in minutes with the powerful Aginet app.
+Remote Management: TAUC (TP-Link Aginet Unified Cloud, based on TR-369), and TR-069, TR-098, TR-181, TR-111, and TR-143 protocols are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+†Use of WiFi 6 (802.11ax), and other features including OFDMA, 1024-QAM, HE160, TWT, MU-MIMO, and WPA3 requires clients to also support the corresponding features. The 160 MHz bandwidth may be unavailable in the 5 GHz band in some regions/countries due to regulatory restrictions.
+§Mesh network requires two or more devices. This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+Seamless roaming/No-Drop WiFi refers to the WiFi roaming that supports IEEE 802.11 k/v/r protocol, helping connected devices search and shift from one AP to another within 0.3 seconds. Clients need to support 802.11 k/v/r and may require additional setup. Performance may vary depending on the client device.
+△Multi-gig or 2.5 Gbps internet speeds require compatible service plans and equipment.
+Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, Internet service provider factors and other environmental conditions.

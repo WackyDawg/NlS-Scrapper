@@ -1,0 +1,62 @@
+Name: AX3000 Multi-Gigabit Wi-Fi 6 Router
+Price: N/a
+Model: EX510 Pro
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.5A",
+    "Interface": "1× 10/100/1000/2500 Mbps RJ45 WAN Port\n4× 10/100/1000 Mbps RJ45 LAN Ports\n1× USB 3.0 Port",
+    "Button": "Power On/Off Button, Reset Button, Wi-Fi/WPS Button",
+    "Dimensions ( W x D x H )": "10.3 × 5.3 × 1.6 in (261.1 × 134.5 × 41 mm)",
+    "Antenna Type": "Four high-performance external antennas"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "<b>AX3000</b>\n5 GHz: Up to 2402 Mbps\n2.4 GHz: Up to 574 Mbps",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11a/n/ac/ax 5 GHz\nIEEE 802.11b/g/n/ax 2.4 GHz",
+    "Transmission Power": "CE:&lt;20 dBm (2.4 GHz); &lt;23 dBm (5.15 GHz–5.35 GHz); &lt;30 dBm (5.47 GHz–5.725 GHz)",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP(Multi-EWAN)",
+    "DHCP": "Server, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Quality of Service": "Hardware QoS, Flow Classification",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "IPSec, PPTP, L2TP",
+    "Access Control": "Parental Controls, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app (for end users) \nRemote management: Aginet ACS, TR-069, TR-098, TR-181, TR-369, TR-111,TR-143 for service providers\nAginet APP for end user (need to log in wtih TP-Link ID and bind your device to it)\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Advanced Features": "TX Beamforming, MU-MIMO, DL/UL OFDMA, Airtime Fairness",
+    "Protocols": "IPv4, IPv6",
+    "Operating Modes": "Router, Access Point",
+    "VPN Server": "PPTP, OpenVPN, IPSec"
+  },
+  "OTHERS": {
+    "Certification": "CE",
+    "Package Contents": "WiFi 6 Router EX511\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX3000 Multi-Gigabit Wi-Fi 6 Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX3000 Multi-Gigabit Wi-Fi 6 Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AX3000 Multi-Gigabit Wi-Fi 6 Router\image_3.png
+Highlights: Dual-Band WiFi 6: Speeds up to 3000 Mbps—2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz.*
+Multi-Gig Connections: Break through the 1Gbps bottleneck with a 2.5 G WAN port and multiple gigabit LAN ports for faster internet access and wired connections. △ ‡
+Boosted Coverage: Four high-performance antennas and Beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.**
+EasyMesh Compatible: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology. §
+Enhanced Security: WPA3 encryption, Multi-SSID, and Parental Controls provide personalized and safer online experience.
+Lightning-Fast Media Sharing: USB 3.0 allows you to share your media resources up to 10× faster than USB 2.0.
+Easy Setup: Set up your network in minutes with the powerful Aginet app.
+Remote Management: TAUC (TP-Link Aginet Unified Cloud, based on TR-369), and TR-069, TR-098, TR-181, TR-111, TR-143 protocols are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of Wi-Fi 6 (802.11ax), and features including OFDMA, DL/UL MU-MIMO, 1024-QAM, HE160, and WPA3 requires clients to also support the corresponding features. Not all 160 MHz channels may be available in some regions/countries due to regulatory restrictions.
+†This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+§Mesh network requires two or more devices.
+‡Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.
+△Multi-gig or 2.5 Gbps internet speeds require compatible service plans and equipment.

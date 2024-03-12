@@ -1,0 +1,48 @@
+Name: DeltaStream 8-port Pizza-box GPON Optical Line Terminal
+Price: N/a
+Model: DS-P7001-08
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "Power Supply": "• Dual Power Supplies: 2 AC, 2 DC or AC+DC, \n• AC: 100V~240V, 50/60Hz\n• DC: -38.4V~-72V",
+    "Interface": "• 8× 2.5G PON Ports\n• 2× 10 Gbps SFP+ Uplink Ports\n• 1× 10/100/1000 Mbps RJ45 Uplink Port\n• 1× RJ45 Console Port\n• 1× RJ45 MGMT Port\n• 1× Alarm Port (Reserved)",
+    "Button": "Reset Button",
+    "Dimensions ( W x D x H )": "17.3 × 10.2 × 1.7 in (440 × 260 × 44 mm)",
+    "Power Consumption": "Max. 70W"
+  },
+  "GPON port attribute": {
+    "Transmission distance": "20 km",
+    "Data rate": "• Downstream: 2.5 Gbps\n• Upstream: 1.25 Gbps",
+    "Wavelength": "• Tx: 1490 nm\n• Rx: 1310 nm",
+    "Interface type": "SC/UPC",
+    "Fiber type": "9/125μm SMF (Single Mode Fiber)",
+    "Tx power": "Class C+",
+    "Max. Splitting Ratio": "1:128"
+  },
+  "SOFTWARE FEATURES": {
+    "OMCI": "Standard OMCI Management Supported",
+    "ONU Authentication": "ONU Auto Authentication",
+    "ONU Security": "• Rouge ONU Detection and Isolation\n• Uplink and Downlink Data Encryption",
+    "Multi-Service": "Multi-Service Traffic Identify and Rate Limit",
+    "QoS": "• IEEE 802.1p/DSCP QoS\n• Voice VLAN\n• Auto VoIP",
+    "Routing": "Static Routing",
+    "Mulitcast": "• IGMP Snooping\n• MLD Snooping",
+    "Centralized Management": "• Large-Scale Devices Management\n• OLT Batch Configure, Upgrade, Reboot\n• Multi-Site Management\n• Intelligent Network Monitoring\n• Real-time Network Overview",
+    "DHCP": "• DHCP Server\n• DHCP Relay",
+    "Security": "• ACL\n• 802.1x Authentication\n• ARP Inspection\n• IP Source Guard"
+  },
+  "OTHERS": {
+    "Certification": "CE,FCC",
+    "Package Contents": "• OLT Device \n• Power Cord and Console Cable\n• Installation Guide\n• Mouting Brackets, Screws and Rubber Feet",
+    "Environment": "• Operating Temperature: 0°C~50°C (32°F~122°F)\n• Storage Temperature: -40℃~70℃(-40°F ~158°F)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 8-port Pizza-box GPON Optical Line Terminal\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 8-port Pizza-box GPON Optical Line Terminal\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream 8-port Pizza-box GPON Optical Line Terminal\image_3.png
+Highlights: 8 GPON Ports: Supports 1:128 splitting ratio for every port—up to 1024 ONTs by one device.
+High-Speed Uplink Ports: Provides 2× 10GE SFP+ ports and 1× gigabit uplink port.
+Redundant Dual Power Supplies: Carrier-class reliability with dual hot-swapping AC+DC power supplies.
+Complete L2 & Advanced L3 Functions: Satisfies the need for numerous commercial requirements.
+Centralized Management: Via DeltaStream PON Management System (DPMS), SNMP, CLI, and WEB UI.
+Advanced L2/L2+ Functions: Static Routing, IGMP Snooping, and more meet the requirement for different applications.
+ Content Notes: 

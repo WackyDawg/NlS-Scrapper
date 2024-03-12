@@ -1,0 +1,51 @@
+Name: AC1300 MU-MIMO Wi-Fi Router
+Price: N/a
+Model: EC225-G5
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.0A",
+    "Interface": "1 10/100/1000 Mbps WAN Port\n3 10/100/1000 Mbps LAN Ports",
+    "Button": "Reset Button, Power On/Off Button, WPS/Wi-Fi On/Off Button",
+    "Antenna": "4 Fixed Omni Directional Antennas",
+    "Dimensions ( W x D x H )": "9.1 × 5.7 × 1.4 in (230 × 144 × 35 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "5 GHz: Up to 867 Mbps\n2.4 GHz: Up to 400 Mbps*",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Schedule, Wireless Statistics, Access Point mode",
+    "Wireless Security": "WPA/WPA2/WPA3 encryption",
+    "DHCP": "Server, DHCP Client List, Address Reservation",
+    "Mesh Technology": "EasyMesh compatible and supports 802.11 k/v",
+    "Wireless Standards": "IEEE 802.11ac/n/a 5 GHz, IEEE 802.11b/g/n 2.4 GHz, IEEE 802.11 k/v"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP, Static IP, PPPoE, PPTP, L2TP",
+    "Port Forwarding": "Server, DHCP Client List, Address Reservation",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec",
+    "Access Control": "Parental Controls, Local Management Control, Host List, White List, Black List",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app\nRemote management: TR-069, TR-181, TR-111, TR143, Aginet ACS",
+    "Protocols": "IPv4, IPv6"
+  },
+  "OTHERS": {
+    "Certification": "CE, RoHS",
+    "Package Contents": "AC1300 MU-MIMO Wi-Fi Router EC225-G5\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+, or other Java-enabled browser\nCable or DSL Modem (if needed)\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1300 MU-MIMO Wi-Fi Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1300 MU-MIMO Wi-Fi Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-LInk_Wifi_Routers\AC1300 MU-MIMO Wi-Fi Router\image_3.png
+Highlights: ​​​​​​Faster WiFi for More Devices: 2.4 GHz and 5 GHz bands run at fast AC1300 Wi-Fi speeds to deliver more bandwidth and support more devices in your home.*
+Full Gigabit Ports: Enjoy fast, reliable wired connections for gaming and streaming in the best quality.
+Extensive Coverage: Beamforming, and four antennas combine to deliver focused reception to devices far away.
+EasyMesh Compatible: Provides whole home Wi-Fi coverage with standard mesh technology.†
+Enhanced Protection: Protect your network with firewalls, parental controls, and the latest WPA3 encryption.**
+Easy Setup: Set up your router in minutes with the intuitive web interface or the powerful Aginet app.
+Remote Management: TR-181, TR-111, TR-104, and TR-143 are supported.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of MU-MIMO and WPA3 requires clients to also support the corresponding features.
+†This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+‡Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, Internet service provider factors and other environmental conditions.

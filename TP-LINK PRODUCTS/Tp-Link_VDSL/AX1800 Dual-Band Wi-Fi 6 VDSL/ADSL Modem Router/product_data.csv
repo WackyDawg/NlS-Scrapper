@@ -1,0 +1,60 @@
+Name: AX1800 Dual-Band Wi-Fi 6 VDSL/ADSL Modem Router
+Price: N/a
+Model: VX230v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/2.0A",
+    "Interface": "3× 10/100/1000 Mbps RJ45 LAN Ports\n1× 10/100/1000Mbps RJ45 WAN Port\n1× DSL Port\n1× FXS Port\n1× USB 2.0 Port",
+    "Button": "Power On/Off Button, Reset Button, WPS On/Off Button, Wi-Fi On/Off Button",
+    "Dimensions ( W x D x H )": "7.9 × 5.9 × 2.7 in (199.7 x 148.6 x 67.5 mm)",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2,\nITU-T G.992.1(G.DMT),\nITU-T G.992.2(G.Lite),\nITU-T G.994.1 (G.hs),\nITU-T G.995.1",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.DMT.bis)\nITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5",
+    "VOIP Standards": "SIP, up to 8 Accounts, Call Logs, Call Rules, DND &amp; Call\nBlocking, Call Forwarding, Voice Mail, T.38",
+    "VDSL2 Standards": "ITU G.993.2, Up to 35b profile\nITU-T G.993.5 (G.vector)\nITU-T G.998.4 (G.INP)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "5 GHz: 1201 Mbps\n2.4 GHz: 574 Mbps*",
+    "Transmit Power": "CE:\n&lt;20 dBm (2.4 GHz), &lt;23 dBm (5.15 GHz~5.35 GHz)\n&lt;30 dBm (5.47 GHz—5.725 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Air Time Fairness, Wireless Statistics, MAC Filtering",
+    "Wireless Security": "WPA/WPA2/WPA3 encryptions",
+    "Wireless Standards": "IEEE 802.11 ax/ac/n/a 5 GHz, IEEE 802.11 ax/b/g/n 2.4 GHz",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay, Condition Pool",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Dynamic DNS": "Dyn DNS, NO-IP, TP-Link DNS",
+    "Management": "Local management: WebGUI management, Aginet app management\nRemote management: TR-069, TR-098, TR-181, TR-369, TR-111,TR-143\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Security": "IPv4/IPv6 SPI Firewall, DDoS, Service Filtering, Access Control,\nIP&amp;MAC Binding",
+    "Advanced Functions": "NAT Forwarding, Address Reservation, QoS(Quality of Service),\nCWMP, Network Diagnosis, Traffic Statistic, Cloud upgrade,\n1024-QAM, MU-MIMO, OFDMA, EasyMesh",
+    "ATM Features": "ATM Forum UNI3.1/4.0, PPP over ATM (RFC 2364), PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483 Routed), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs",
+    "Protocols": "IPv4 and IPv6",
+    "USB Sharing": "Support Samba (Storage) / FTP Server / Media Server, 3G/4G Modem",
+    "IPSec VPN": "Support up to 16 IPSec VPN tunnels",
+    "Guest Network": "2.4 GHz and 5 GHz Guest Network",
+    "VPN": "OpenVPN, PPTP VPN, IPSec VPN"
+  },
+  "OTHERS": {
+    "Certification": "CE",
+    "Package Contents": "Modem Router VX230v\nRJ45 Ethernet Cable\nPower Adapter\nRJ11 Cable\nSplitter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled brower",
+    "Environment": "Operating Temperature: 0°C40°C (32°F—104°F)\nStorage Temperature: -40°C—60°C (-40°F—140°F)\nOperating Humidity: 10%—90% non-condensing\nStorage Humidity: 5%—90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1800 Dual-Band Wi-Fi 6 VDSL\ADSL Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1800 Dual-Band Wi-Fi 6 VDSL\ADSL Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1800 Dual-Band Wi-Fi 6 VDSL\ADSL Modem Router\image_3.png
+Highlights: Next-Gen 1.8 Gbps Speeds: Enjoy smooth streaming, downloading, and gaming all without buffering with WiFi speeds of 1.8 Gbps.(1201 Mbps on 5 GHz band and 574 Mbps on 2.4 GHz band).*
+Connect More Devices: WiFi 6 technology let you connect more devices with revolutionary combination of OFDMA, MU-MIMO, and Beamforming technologies while simultaneously reducing lag.**
+Super VDSL: The latest super VDSL (VDSL2 Profile 35b) technology delivers internet speeds of up to 350 Mbps, while G.vector technology ensures advanced data transmission stability.
+Versatile Connectivity: Fully compatible with VDSL2/ADSL2+/ADSL2/ADSL standards, support Fiber and Cable connection through Ethernet port, as well as 3G/4G internet services through USB port.
+EasyMesh Compatible: Provides whole-of-home WiFi coverage with standard mesh technology.
+VoIP Support: Support multiple VoIP accounts and various call features to surpass traditional landlines.
+Easy Setup and Use: Set up your network in minutes with the powerful Aginet app.
+Remote Management: Support TR-069/TR-098, TR-181, TR-111, TR-104, TR-143, and TAUC for centralized management by Internet Service Providers.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of WiFi 6 (802.11ax), and features including OFDMA, 1024-QAM, MU-MIMO, and WPA3 requires clients to also support the corresponding features.

@@ -1,0 +1,51 @@
+Name: DeltaStream Chassis Optical Line Terminal-X2
+Price: N/a
+Model: DS-P8000-X2
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "Interface": "2× Service Boards up to 32× GPON Ports or 32× XGS-PON &amp; GPON Combo Ports*\n\nDual Main Control Unit：\nEach with\n6× 10G SFP+\n1× 1000M RJ45 Port\n1× RJ45 Console Port\n1× RJ45 Management Port\n1× Alarm Port",
+    "Button": "Reset Button",
+    "Dimensions ( W x D x H )": "Without angle iron and fiber manager: \n443 × 271.3 × 88 mm\n\nWith angle iron, without fiber manager: \n446 × 271.3 × 88 mm (excluding angle iron mounting ears) \n483 × 271.3 × 88 mm (including angle iron mounting ears)\n\nWith angle iron and fiber manager: \n447.2 × 271.3 × 88 mm (excluding angle iron mounting ears) \n484.2 × 271.3 × 88mm  (including angle iron mounting ears)",
+    "Power Consumption": "2× DS-MCUA + 2× DS-LGPA-16 + DS-PSUA + DS-FANA:  Max 262W",
+    "Power Supply": "Dual Power Supply, AC+DC\nAC: 100V~240V, 50/60Hz\nDC:  -38.4V~-57.6V"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "DHCP Server\nDHCP Relay",
+    "Security": "ACL",
+    "OMCI": "Standard OMCI Management Supported",
+    "ONU Authentication": "ONU Auto Authentication",
+    "ONU Security": "Rouge ONU Detection and Isolation",
+    "Multi-Service": "Multi-Service Traffic Identify and Rate Limit",
+    "QoS": "IEEE 802.1p/DSCP QoS\nVoice VLAN\nAuto VoIP",
+    "Routing": "Static Routing",
+    "Mulitcast": "IGMP Snooping\nMLD Snooping",
+    "Centralized Management": "Large-Scale Devices Management\nOLT Batch Configure, Upgrade, Reboot\nMulti-Site Management\nIntelligent Network Monitoring\nReal-time Network Overview"
+  },
+  "OTHERS": {
+    "Certification": "CE,FCC",
+    "Package Contents": "Chassis Optical Line Terminal DS-P8000-X2\nAC Power Cord\nDC Power Cord\nConsole Cable\nInstallation Guide\nFiber Manager and Ground Wire\nMouting Brackets, Screws and Rubber Feet\nESD-Preventive Wrist Wrap",
+    "Environment": "Operating Temperature: 0℃–50℃ (32℉–122℉)\nStorage Temperature: -40℃–70℃ (-40℉–158℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  },
+  "GPON port attribute": {
+    "Transmission distance": "20 km",
+    "Data rate": "<b>GPON</b> \nDownstream: 2.5 Gbps, Upstream: 1.25 Gbps\n\n<b>XGS-PON</b>\n Downstream: 9.953 Gbps, Upstream: 9.953 Gbps",
+    "Wavelength": "Tx: 1490 nm\nRx: 1310 nm",
+    "Interface type": "SC/UPC",
+    "Fiber type": "9/125μm SMF (Single Mode Fiber)",
+    "Tx power": "Class C+",
+    "Max. Splitting Ratio": "1:128 for GPON,  1:256 for XGS-PON"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream Chassis Optical Line Terminal-X2\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream Chassis Optical Line Terminal-X2\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\DeltaStream Chassis Optical Line Terminal-X2\image_3.png
+Highlights: 32× PON Ports: 2× service boards support up to 32 GPON ports or 32× XGS-PON & GPON combo ports.*
+High Scalability: Supports 1:128 splitting ratio for GPON port and 1:256 for XGS-PON port.
+High Reliability: Dual main control units ensure automatic service switching without interruption.
+High-Speed Uplink Ports: 6× 10G SFP+ ports (per control unit) offer high-bandwidth connectivity.
+Dual Power Supplies: Carrier-class reliability with pluggable AC+DC power supply.
+L2 & Advanced L3 Functions: Satisfy numerous commercial needs.
+Centralized Management: Supports the management via the DeltaStream PON Management System (DPMS), SNMP, CLI, and Web UI.
+ Content Notes: *Service boards may be sold separately, you can contact your local sales team for more information.
+DS-LGPA-08 : 8× GPON ports
+DS-LGPA-16: 16× GPON ports

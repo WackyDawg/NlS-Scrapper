@@ -1,0 +1,68 @@
+Name: Wi-Fi 6 Internet Box 6
+Price: N/a
+Model: VX800v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/2.5A",
+    "Interface": "2× 10/100/1000 Mbps RJ45 LAN Ports,\n1× 10/100/1000/2500 Mbps RJ45 WAN/LAN Port,\n1× DSL Port, 1× SFP Slot, 2× FXS Ports, 1× USB 3.0 Port",
+    "Button": "WPS/Wi-Fi Button\nDECT Button\nPower On/Off Button\nReset Button",
+    "Antenna": "Internal Antennas",
+    "Dimensions ( W x D x H )": "4.5 × 4.5 × 9.1 in (115 × 115 × 230 mm)",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2, ITU-T G.992.1(G.DMT),\nITU-T G.992.2(G.Lite), ITU-T G.994.1 (G.hs),\nITU-T G.995.1",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.DMT.bis), ITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5",
+    "VDSL2 Standards": "ITU G.993.2, Up to 35b profile, ITU-T G.993.5 (G.vector)\nITU-T G.998.4 (G.INP)",
+    "G.fast Standards": "ITU-T G.9700, ITU-T G.9701, ITU-T G.994.1, ITU-T G.997.2"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "5 GHz: Up to 4804 Mbps (HE160)\n2.4 GHz: Up to 1148 Mbps (HE40)*",
+    "Transmit Power": "CE:\n&lt;20 dBm (2.4 GHz)\n&lt;23 dBm (5.15 GHz–5.35 GHz)\n&lt;30 dBm (5.47 GHz–5.725 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Air Time Fairness,\nWireless Statistics, MAC Filtering",
+    "Wireless Security": "64/128bit WEP, WPA/WPA2/WPA3-PSK",
+    "Wireless Standards": "IEEE 802.11a/n/ac/ax 5 GHz, IEEE 802.11b/g/n/ax 2.4 GHz",
+    "Wireless Schedule": "Supports 2.4 GHz and 5 GHz wireless schedule",
+    "Mesh Protocol": "802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "DHCP Client, DHCP Server, DHCP Relay, Address Reservation, Condition Pool",
+    "Dynamic DNS": "NO-IP, DynDNS",
+    "Management": "Remote management: TR-069, TR-098, TR-181, TR-369, TR-111, TR-143,Aginet ACS\nCloud management: TAUC",
+    "Security": "IPv4/IPv6 SPI Firewall, DDoS, Service Filtering, Access Control, IP&amp;MAC Binding",
+    "Protocols": "Supports IPv4 and IPv6",
+    "VOIP Features": "SIP, up to 8 Accounts, Call Logs, Call Rules, DND &amp; Call Blocking, Call Forwarding, Voice Mail, T.38",
+    "VPN": "PPTP, IPSec, OpenVPN",
+    "DECT Features": "Up to 6 cordless phones",
+    "NAT": "ALG, Virtual Server, Port Trigger, DMZ, uPnP",
+    "Multi SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID",
+    "Features": "VoIP, Parental Control, Firewall, IPSEC VPN, IPv6, Port Forwarding,\nNAT Forwarding, Address Reservation, QoS (Quality of Service), CWMP, Network Diagnosis, Traffic Statistic, Cloud upgrade, 1024-QAM, MU-MIMO, OFDMA, EasyMesh",
+    "USB Functions": "Samba, FTP, Media Server, 3G/4G Backup"
+  },
+  "OTHERS": {
+    "Certification": "CE, DFS",
+    "Package Contents": "1× Wi-Fi 6 Internet Box 6 VX800v\n1× RJ45 Ethernet Cable\n1× Power Adapter\n1× RJ11 Cable\n1× Quick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)",
+    "Environment": "Operating Temperature: 0°C–40°C (32°F–104°F)\nStorage Temperature: -40°C–60°C (-40°F–140°F)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\Wi-Fi 6 Internet Box 6\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\Wi-Fi 6 Internet Box 6\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\Wi-Fi 6 Internet Box 6\image_3.png
+Highlights: Warp-Speed WiFi: Up to 6 Gbps dual band WiFi enables faster browsing, streaming, and downloading—all at the same time.*
+Faster G.fast Connection: Supports the latest G.fast 212 MHz, delivering nearly 2 Gbps of fast internet connection over existing copper cables.
+Multi-Gig Connectivity: Break through the 1 Gbps bottleneck with a 2.5 GbE WAN/LAN port and a GPON SFP slot for direct fiber connections.△
+VDSL Super-Vectoring: The latest super VDSL (VDSL2 Profile 35b) technology delivers internet speeds of up to 300 Mbps, while G.vector technology ensures advanced data transmission stability. △
+Versatile Connectivity: Fully compatible with G.fast/VDSL2/ADSL2+/ADSL2/ADSL standards. Supports fiber and cable connections via Ethernet, direct fiber access via the SFP slot, and 3G/4G internet services through the USB port.
+Superior Coverage: High-performance antennas and Beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.**
+EasyMesh-Compatible: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology. §
+High-Quality Telephony: Connect up to six DECT handsets with an HD-quality voice signal and two analog phones with various call features to surpass traditional landlines.
+Enhanced Security: WPA3 encryption, Multi-SSID, and parental controls provide a personalized and safer online experience.**
+Easy Setup and Use: Set up your network in minutes with the powerful Aginet app.
+Remote Management: Supports TAUC (TP-Link Aginet Unified Cloud, based on TR-369) along with TR-069, TR-098, TR-181, TR-111, and TR-143 protocols.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of WiFi 6 (802.11ax), and features including OFDMA, DL/UL MU-MIMO, 1024-QAM, HE160, and WPA3 requires clients to also support the corresponding features. Not all 160 MHz channels may be available in some regions/countries due to regulatory restrictions.
+△Multi-gig or 2.5 Gbps internet speeds require compatible service plans and equipment. Maximum wired signal rates are the physical rates. Actual data throughput is not guaranteed and may vary as a result of network conditions, client limitations, the rate supported by the network cable, internet service provider factors, and other environmental factors.
+§Mesh networking requires two or more devices. This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification. Seamless Roaming is designed for devices that support the 802.11k/v standards.
+†HomeShield  is under development, it could be available in Q2 2024. HomeShield includes the Free Basic Plan, fees apply for the Pro Plan. Visit tp-link.com/homeshield for more information. Some features are under development and will be supported with subsequent software updates.

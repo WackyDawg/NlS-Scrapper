@@ -1,0 +1,49 @@
+Name: AX1800 Whole Home Mesh WiFi System
+Price: N/a
+Model: HX220
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12 V ⎓ 1.0 A",
+    "Interface": "3× Gigabit Ports\n\n*Per Unit \n1 Port supports WAN/LAN auto-sensing",
+    "Button": "Reset Button\nWPS Button",
+    "Dimensions ( W x D x H )": "3.9 x 3.9 x 3.5 in\n(100 x 100 x 89.5 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "<b>AX1800</b>\n5 GHz: Up to 1201 Mbps\n2.4 GHz: Up to 574 Mbps",
+    "Transmit Power": "FCC: &lt;30 dBm(2.4 GHz), &lt;30 dBm(5 GHz)\nCE: &lt;20 dBm (2.4 GHz), &lt;23 dBm (5 GHz)",
+    "Wireless Security": "WPA-PSK/WPA2-PSK/WPA3 Personal encryptions",
+    "Wireless Standards": "<b>Wi-Fi 6</b>\nIEEE 802.11a/n/ac/ax 5 GHz\nIEEE 802.11b/g/n/ax 2.4 GHz",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE",
+    "Quality of Service": "WMM",
+    "Firewall Security": "SPI Firewall",
+    "Management": "Local Management, TAUC Cloud Management, TR-069 (TR-098/TR-181), TR-111, TR-143",
+    "Advanced Features": "Parental Controls, QoS (Quality of Service), Address Reservation, Port Forwarding, WiFi Schedule",
+    "Protocols": "IPv4 \nIPv6",
+    "Working Modes": "Router Mode\nAccess Point Mode"
+  },
+  "OTHERS": {
+    "Package Contents": "<b>HX220 (2-pack)</b>\n2 HX220 Units\n1 RJ45 Ethernet Cable\n2 Power Adapters\n1 Quick Installation Guide\n\n<b>HX220 (1-pack)</b>\n1 HX220 Unit\n1 RJ45 Ethernet Cable\n1 Power Adapter\n1 Quick Installation Guide",
+    "Certifications": "CE, FCC, Wi-Fi CERTIFIED 6™, Wi-Fi CERTIFIED EasyMesh™",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Smartphone/Tablet Requirements": "Android 4.4 or later\niOS 9.0 or later"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AX1800 Whole Home Mesh WiFi System\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AX1800 Whole Home Mesh WiFi System\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\AX1800 Whole Home Mesh WiFi System\image_3.png
+Highlights: Dual Band WiFi 6: Speeds up to 1800 Mbps—1201 Mbps on 5 GHz and 574 Mbps on 2.4 GHz.†
+Boosted Seamless Coverage: Achieve seamless whole home coverage with a clearer and stronger WiFi signal.
+One Unified Network: Multiple units form a whole-home network that auto-selects the best connection as you move around your home.*
+Enhanced Security: WPA3 encryption, Multi-SSID, and Parental Controls provide personalized and safer online experience.**
+EasyMesh Compatible: Provides whole home WiFi coverage with standard mesh technology.
+Easy Setup and Use: Set up your mesh WiFi in minutes with powerful Aginet app.
+Remote Management: TAUC cloud management, TR-181, TR-111, and TR-143 are supported.
+ Content Notes: †Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+*Some features will require two or more units.
+**Use of WiFi 6 (802.11ax), and features including OFDMA, 1024-QAM, TWT, and WPA3 requires clients to also support the corresponding features.
+***Seamless roaming/No-Drop WiFi refers to the WiFi roaming that supports IEEE 802.11 k/v/r protocol, helping connected devices search and shift from one AP to another within 0.3 seconds. Clients need to support 802.11 k/v/r and may require additional setup. Performance may vary depending on the client device.
+△Capability to connect to 250+ devices is based on testing using a mixed combination of devices. Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.

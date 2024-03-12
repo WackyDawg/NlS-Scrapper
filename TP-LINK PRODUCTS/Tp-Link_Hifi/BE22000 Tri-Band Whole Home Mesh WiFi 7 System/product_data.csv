@@ -1,0 +1,53 @@
+Name: BE22000 Tri-Band Whole Home Mesh WiFi 7 System
+Price: N/a
+Model: TR-181
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/5A",
+    "Interface": "1× 10 GbE/SFP+ Combo WAN/LAN Port\n1× 10 GbE LAN Port\n2× 2.5 GbE LAN Ports\n1× USB 3.0 Port\n\n*Per Unit",
+    "Button": "WPS Button\nReset Button",
+    "Dimensions ( W x D x H )": "5.04 × 5.04 × 9.29 in\n(128 × 128 × 236 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz, 5 GHz, and 6 GHz",
+    "Signal Rate": "<b>BE22000</b>\n6 GHz: Up to 11520 Mbps (EHT320)\n5 GHz: Up to 8640 Mbps (EHT240)\n2.4 GHz: Up to 1376 Mbps (EHT40)*",
+    "Transmit Power": "FCC:\n&lt;30 dBm (2.4 GHz)\n&lt;30 dBm(5 GHz)\n&lt;30 dBm(6 GHz)\n\nCE:\n&lt;20 dBm (2.4 GHz)\n&lt;30 dBm (5 GHz)\n&lt;23 dBm (6 GHz)",
+    "Wireless Security": "WPA/WPA2/WPA3-Personal",
+    "Wireless Standards": "IEEE 802.11be/ax 6 GHz\nIEEE 802.11be/ax/ac/n/a 5 GHz\nIEEE 802.11be/ax/n/g/b 2.4 GHz",
+    "Multi-SSID": "2× 6 GHz Multi-SSID\n2× 5 GHz Multi-SSID\n2× 2.4 GHz Multi-SSID",
+    "Mesh Technology": "EasyMesh compatible and supports 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP/L2TP",
+    "Quality of Service": "WMM",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Local management: WebGUI, Aginet app (for end users)\n\nRemote management: \nTR-069, TR-098, TR-181, TR-369, TR-111,TR-143 for service providers\nAginet App for end users (need to log in wtih TP-Link ID and bind your device to it)\n\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Advanced Features": "Multi-Link Operation (MLO), 320 MHz Bandwidth, 4K-QAM, Multi-RU,OFDMA, MU-MIMO, Beamforming, BSS Color\nQoS (Quality of Service), Port Forwarding, CWMP\nParental Controls, WiFi Schedule, Wireless Statistics, Guest Network, Band Steering, Airtime Fairness, Network Diagnostic, Traffic Statistic",
+    "Protocols": "IPv4 \nIPv6",
+    "VPN": "PPTP, OpenVPN, IPSec",
+    "Working Modes": "Router Mode\nAccess Point Mode"
+  },
+  "OTHERS": {
+    "Package Contents": "<b>H810 (1-Pack)</b>\n1× HB810 Unit\n1× Power Adapter\n1× RJ45 Ethernet Cable\n1× Quick Installation Guide\n\n<b>H810 (2-Pack)</b>\n2× HB810 Units\n2× Power Adapters\n1× RJ45 Ethernet Cable\n1× Quick Installation Guide",
+    "Certifications": "CE, FCC",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\BE22000 Tri-Band Whole Home Mesh WiFi 7 System\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\BE22000 Tri-Band Whole Home Mesh WiFi 7 System\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\BE22000 Tri-Band Whole Home Mesh WiFi 7 System\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_Hifi\BE22000 Tri-Band Whole Home Mesh WiFi 7 System\image_4.png
+Highlights: 22 Gbps Tri-Band WiFi 7: 12-stream tri-band WiFi enables gaming, 4K/8K streaming, AR/VR, and high-speed downloading on multiple devices—all at the same time.*
+10G Internet Access: Take advantage of bandwidth speeds of up to 10 Gbps through a 10 GbE/SFP+ combo WAN/LAN port for both Ethernet and direct fiber access.△
+Superior Coverage: High-performance antennas and beamforming technology combine to extend strong, reliable WiFi throughout your home.
+Multi-Link Operation (MLO): Achieve higher throughput for each device with lower latency and higher reliability via multi-link aggregation across three bands.†
+Clear 320 MHz Channels: Enjoy robust, high-speed connectivity with doubled throughput on 320 MHz channels on the expansive and less-congested 6 GHz band.†
+Works on the 6 GHz Band: Minimizes congestion with greenfield spectrum, delivering robust high-speed connections.
+Whole Home Coverge: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology.‡
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.†
+Enhanced Security: WPA3 encryption, Multi-SSID, and parental controls provide a personalized and safer online experience.†
+Easy Setup and Use: Set up your mesh network in minutes with the powerful Aginet app.
+Remote Management: Supports TAUC (TP-Link Aginet Unified Cloud, based on TR-369) along with TR-069, TR-098, TR-181, TR-111, and TR-143 protocols.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+†Use of WiFi 7 (802.11be), Wi-Fi 6 (802.11ax), and features including Multi-Link Operation (MLO), 320 MHz Bandwidth, 4K-QAM, Multi-RUs, OFDMA, MU-MIMO, BSS Color, and WPA3 requires clients to also support the corresponding features. The 320 MHz bandwidth is only available on the 6 GHz band. Simultaneously, the 160 MHz and 240 MHz bandwidths or the 320 MHz bandwidth might not be available on the 5 GHz band or the 6 GHz band, respectively, in some regions/countries due to regulatory restrictions. Double channel width and speed refer to 320 MHz compared to 160 MHz for WiFi 6 mesh.
+‡Mesh networking requires two or more devices. This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification. Clients need to support 802.11k/v/r and may require additional setup. Performance may vary depending on the client device.
+△10 Gbps or multi-gig internet speeds require compatible service plans and equipment. All WAN/LAN ports will operate as either WAN or LAN ports. Only one port can serve as a WAN port at a time. Actual data throughput is not guaranteed and may vary as a result of network conditions, client limitations, the rate supported by the network cable, internet service provider factors, and other environmental factors.

@@ -1,0 +1,28 @@
+Name: SFP GPON Class C+ Module
+Price: N/a
+Model: DS-PMA-C+
+Specifications: ""
+Table Data: {
+  "GPON SFP Module": {
+    "Wavelength": "• Tx: 1490nm\n• Rx: 1310nm",
+    "Connector": "• Device: GPON SFP\n• Fiber: SC/UPC",
+    "Fiber Type": "Single Fiber (9/125um)",
+    "Data Rate": "• Tx: 2488.32Mbps\n• Rx: 1244.16Mbps",
+    "Power Level": "Class C+ (Tx Optical Power +3~+7dBm，Rx Sensitivity &lt;-30 dBm，Rx Saturation Optical Power&gt;-12dBm)",
+    "Extinction Ratio": "&gt;8.2dB",
+    "Rx Optical Power Tolerance": "&gt;5dBm",
+    "Transmission Distance": "Max. 20 km",
+    "Hot Swap": "Yes",
+    "Nominal Voltage": "3.3 V (&lt; ± 5％)",
+    "Diagnostic Function": "Monitors parameters such as voltage, transceiver power, and temperature",
+    "Electrical Level": "• Data Interface: LVPECL\n• Control Interface：LVTTL",
+    "Package": "2× 10 SFF"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\SFP GPON Class C+ Module\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\SFP GPON Class C+ Module\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\SFP GPON Class C+ Module\image_3.png
+Highlights: Single-fiber SFP GPON Class C+ Module
+Hot-Pluggable with maximum flexibility
+Supports Digital Diagnostic Monitoring (DDM)
+Compatible with TP-Link GPON OLT, such as DS-P7001-16, DS-P7001-08, and DS-P7001-04
+ Content Notes: 

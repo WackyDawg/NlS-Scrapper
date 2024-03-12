@@ -1,0 +1,56 @@
+Name: AX1500 Wireless Gigabit VoIP VDSL/ADSL Modem Router
+Price: N/a
+Model: VX220-G2v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/2.0A",
+    "Interface": "4 10/100/1000Mbps RJ45 LAN Ports, 1 10/100/1000Mbps RJ45 WAN Port, 1VDSL2 Port, 2 FXS Ports, 1 USB 2.0 Ports",
+    "Button": "Power On/Off Button, Reset Button, WPS On/Off Button, Wireless On/Off Button",
+    "Dimensions ( W x D x H )": "8.4 × 5.7 × 3.2 in. (214.0 × 144.5 × 80.0 mm)",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2,\nITU-T G.992.1(G.DMT),\nITU-T G.992.2(G.Lite),\nITU-T G.994.1 (G.hs),\nITU-T G.995.1",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.DMT.bis)\nITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5",
+    "VDSL2 Standards": "ITU G.993.2, Up to 35b profile\nITU-T G.993.5 (G.vector)\nITU-T G.998.4 (G.INP)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4GHz and 5GHz(not Supports DFS)",
+    "Signal Rate": "1201Mbps at 5GHz, 300Mbps at 2.4GHz",
+    "Transmit Power": "&lt;20dBm (2.4GHz), &lt;23dBm (5GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WDS Bridge, WMM, Wireless Statistics",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions",
+    "Wireless Standards": "IEEE 802.11 ax/ac/n/a 5GHz, IEEE 802.11b/g/n 2.4GHz",
+    "Wireless Schedule": "Support 2.4GHz and 5GHz Wireless Schedule"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Quality of Service": "ATM QoS, Bandwidth Control",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "Management": "Web Based Configuration (HTTP), Remote management, Command Line Interface, SSL for TR-069, SNMP v1/2c, Diagnostic Tools, Web Based Firmware Upgrade",
+    "Security": "NAT Firewall, SPI Firewall, Access Control, Service Filtering, Denial of Service (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding",
+    "Advanced Functions": "Auto Gateway, Parental Controls, Network Address Translation(NAT), Port Mapping (Grouping), Static Routing, RIP v1/v2 (optional), DNS Relay, DDNS, IGMP V1/V2/V3",
+    "ATM Features": "ATM Forum UNI3.1/4.0, PPP over ATM (RFC 2364), PPP over Ethernet (RFC2516), IPoA (RFC1577/2225), MER\\IPoE (RFC 1483 Routed), Bridge (RFC1483 Bridge), PVC – Up to 8 PVCs",
+    "Protocols": "Support IPv4 and IPv6",
+    "USB Sharing": "Support Samba (Storage) / FTP Server / Media Server, 3G/4G Modem",
+    "IPSec VPN": "Support up to 16 IPSec VPN tunnels",
+    "Guest Network": "2.4GHz and 5GHz multi SSID",
+    "VPN": "OpenVPN, PPTP VPN, IPSec VPN"
+  },
+  "OTHERS": {
+    "Certification": "CE",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled brower",
+    "Environment": "Operating Temperature: 0°C~40°C (32°F ~104°F)\nStorage Temperature: -40°C~70°C (-40°F ~158°F)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1500 Wireless Gigabit VoIP VDSL\ADSL Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1500 Wireless Gigabit VoIP VDSL\ADSL Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1500 Wireless Gigabit VoIP VDSL\ADSL Modem Router\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\AX1500 Wireless Gigabit VoIP VDSL\ADSL Modem Router\image_4.png
+Highlights: Wi-Fi 6 Technology: VX220-G2v comes equipped with the latest wireless technology. Wi-Fi 6, for faster speeds, greater capacity, and reduced network congestion.
+Next-Gen 1.5 Gbps Speeds: VX220-G2v dual-band VDSL router reaches even faster Wi-Fi speeds up to 1.5Gbps (1201 Mbps on 5GHz band and 300 Mbps on 2.4 GHz band).†
+Super VDSL: The Latest Super VDSL (VDSL2 Profile 35b) tech delivers internet speeds of up to 350Mbps, while G.vector technology ensures advanced data transmission stability.
+Versatile Connectivity: Fully compatible with VDSL2/ADSL2+/ADSL2/ADSL standards, support Fiber and Cable connection through Ethernet port, as well as 3G/4G Internet services through USB port.
+Connect More Devices: Wi-Fi 6 technology communicates more data to more devices using revolutionary OFDMA technology while simultaneously reducing lag. △§
+USB Easy Sharing: A USB 2.0 Port enables easy file sharing within your network or building private Cloud Storage.
+TR-069: Support TR-069 protocols for Internet Service Providers to realize easy remote management.
+ Content Notes: 

@@ -1,0 +1,49 @@
+Name: 300Mbps Wireless N ADSL2+ Modem Router
+Price: N/a
+Model: TD-W8961N
+Specifications: ""
+Table Data: {
+  "WIRELESS FEATURES": {
+    "Signal Rate": "<p>300Mbps at 2.4GHz</p>",
+    "Frequency": "2.400-2.4835GHz",
+    "Transmit Power": "&lt;20dBm(EIRP)",
+    "Wireless Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK,                    Wireless MAC Filtering"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "<p>Server, Client, DHCP Client List, Address Reservation, DHCP Relay</p>",
+    "Protocols": "<p>Supports IPv4 and IPv6</p>",
+    "Quality of Service": "QoS Remarking based on IPP/ToS, DSCP and 802.1p",
+    "Security": "NAT Firewall,                    SPI Firewall,                    MAC / IP / Packet / Application / URL Filtering,                    Denial of Service(DoS),                    SYN Flooding,                    Ping of Death",
+    "Management": "Web Based Configuration(HTTP),                    Remote management,                    Telnet management,                    Command Line Interface,                    SSL for TR-069,                    SNMP v1/2c,                    SNMP over EOC,                    Web Based Firmware Upgrade,                    CWMP(TR-069),                    Diagnostic Tools",
+    "Port Forwarding": "Virtual Server, DMZ, ACL(Access Control List)",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec Pass-through",
+    "ATM/PPP Protocols": "ATM Forum UNI3.1/4.0,                    PPP over ATM (RFC 2364),                    PPP over Ethernet (RFC2516),                    IPoA (RFC1577/2225),                    PVC - Up to 8 PVCs",
+    "Advanced Features": "Traffic Shaping(ATM QoS) UBR, CBR, VBR-rt, VBR-nrt;                    Dynamic Host Configuration Protocol (DHCP), DHCP relay;                    Network Address Translation (NAT);                    PVC/Ethernet Port Mapping                    VLAN, 802.1P,                    Static Routing, RIP v1/v2 (optional);                    DNS Relay, DDNS,                    IGMP snooping V1/2                    IGMP Multicast,                    UPnP"
+  },
+  "HARDWARE FEATURES": {
+    "Interface": "4 10/100Mbps RJ45 Ports                    1 RJ11 Port",
+    "Wireless Standards": "IEEE 802.11n, 802.11g, 802.11b",
+    "Button": "<p>1 Power On/Off Switch 1 WPS/reset Button 1 Wi-Fi On/Off Button</p>",
+    "External Power Supply": "9VDC/0.6A",
+    "IEEE Standards": "IEEE 802.3, 802.3u",
+    "ADSL Standards": "Full-rate ANSI T1.413 Issue 2,                    ITU-T G.992.1(G.DMT),                    ITU-T G.992.2(G.Lite)                    ITU-T G.994.1 (G.hs),                    ITU-T G.995.1",
+    "ADSL2 Standards": "ITU-T G.992.3 (G.dmt.bis),                    ITU-T G.992.4 (G.lite.bis)",
+    "ADSL2+ Standards": "ITU-T G.992.5",
+    "Dimensions ( W x D x H )": "<p>7.7 * 5.1 * 1.4 in. (195 * 130 * 36 mm )</p>",
+    "Antenna Type": "Omni directional, Fixed",
+    "Antenna Gain": "2x5dBi"
+  },
+  "OTHERS": {
+    "Certification": "CE, FCC, RoHS",
+    "Package Contents": "TD-W8961N                    External Splitter                    RJ-11 Telephone Cable                    RJ-45 Ethernet Cable                    Quick Installation Guide                    Power Adapter",
+    "System Requirements": "Microsoft® Windows® 98SE, NT, 2000, XP, Vista™ ，Windows 7 or Windows 8, MAC® OS, NetWare®, UNIX® or Linux.",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉~104℉)                    Storage Temperature: -40℃~70℃ (-40℉~158℉)                    Operating Humidity: 10%~90% non-condensing                    Storage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N ADSL2+ Modem Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N ADSL2+ Modem Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N ADSL2+ Modem Router\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\Tp-Link_VDSL\300Mbps Wireless N ADSL2+ Modem Router\image_4.png
+Highlights: All-in-One Device: ADSL2+ Modem, NAT Router, 4-Port Switch and Wireless N Access Point
+Wireless N speed up to 300Mbps makes it ideal for heavy bandwidth consuming or interruption sensitive applications like online gaming, Internet calls and even the HD video streaming
+Easy Setup Assistant with multi-language support provides quick & hassle-free installation
+Easy one-touch wireless security encryption with the ‘WPS’ button and easy Wi-Fi On/Off button
+ Content Notes: 

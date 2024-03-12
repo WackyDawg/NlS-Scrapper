@@ -1,0 +1,58 @@
+Name: AX1800 Dual Band Wi-Fi 6 GPON Router
+Price: N/a
+Model: XX230v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1.5A",
+    "Interface": "1× SC/APC GPON Port\n1× 10/100/1000 Mbps WAN/LAN Port\n3× 10/100/1000 Mbps LAN Ports\n1× FXS Port\n1× USB 2.0 Port",
+    "Button": "WPS/Wi-Fi Button\nRESET Button\nPower On/Off Button",
+    "Antenna": "4 External Antennas",
+    "Data Rates": "Downstream Speeds: 2.488 Gbps (GPON)\nUpstream Speeds: 1.244 Gbps (GPON)<sup>§</sup>"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz and 5 GHz",
+    "Signal Rate": "<b>AX1800</b>\n5 GHz: Up to 1201 Mbps (HE80)\n2.4 GHz: Up to 574 Mbps (HE40)*",
+    "Transmit Power": "CE:\n&lt;20 dBm (2.4 GHz)\n&lt;23 dBm (5 GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "WPA/WPA2/WPA3 Encryptions",
+    "Wireless Standards": "IEEE 802.11a/n/ac/ax 5 GHz\nIEEE 802.11b/g/n/ax 2.4 GHz",
+    "Multi-SSID": "2× 5 GHz Multi-SSID\n2× 2.4 GHz  Multi-SSID",
+    "Wireless Schedule": "Support 2.4 GHz and 5 GHz Wireless Schedule",
+    "Mesh Technology": "EasyMesh Compatible, and support 802.11k/v/r"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Quality of Service": "Hardware QoS, Flow Classification",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec Pass-through",
+    "Management": "Local management: WebGUI, Aginet app (for end users) \n\nRemote management: Aginet ACS, OMCI, TR-069/TR-369, TR-098, TR-181, TR-111,TR-143 for service providers\nAginet APP for end user (need to log in wtih TP-Link ID and bind your device to it)\n\nCloud management: TP-Link Aginet Unified Cloud (TAUC)",
+    "Security": "NAT Firewall, Access Control, MAC/IP/URL Filtering, IP and MAC Address Binding, Defense “Denial of Service (DoS), SYNFlooding, Ping of Death\"",
+    "Advanced Functions": "Parental Controls, Network Address Translation(NAT), Port Mapping(Grouping), Static Routing, DNS Relay, DDNS, IGMP V1/V2/V3",
+    "Protocols": "IPv4, IPv6",
+    "VPN Server": "PPTP VPN, IPSec VPN , OpenVPN"
+  },
+  "OTHERS": {
+    "Package Contents": "WiFi6 GPON Router XX230v\nRJ45 Ethernet Cable\nPower Adapter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AX1800 Dual Band Wi-Fi 6 GPON Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\AX1800 Dual Band Wi-Fi 6 GPON Router\image_2.png
+Highlights: Next-Gen 1.8 Gbps Speeds: Enjoy smooth streaming, downloading, and gaming all without buffering with WiFi speeds up to 1.8 Gbps accross two bands.*
+Boosted Coverage: Four high-performance antennas and Beamforming technology combine to extend strong, reliable WiFi throughout your home.
+More Connections: OFDMA and MU-MIMO technologies increase capacity and enable simultaneous transmission to more devices.**
+EasyMesh Compatible: Create a smart mesh network with seamless coverage and greater flexibility based on standard mesh technology.†
+Gigabit Wired Connections: 1× GbE WAN/LAN port and 3× GbE LAN ports provide fast and flexible internet access.
+VoIP Calls: Support multiple VoIP accounts and various call features to surpass traditional landlines.
+Smooth IPTV: Supports IGMP Proxy/Snooping, Bridge and Tag VLAN to optimize IPTV streaming.
+Enhanced Security: WPA3 encryption, Multi-SSID, and parental controls provide personalized and safer online experience.**
+Compatct Fiber Tray Design: Store a redundant fiber cable inside and protect the fiber cable from breaking.
+Easy Setup and Use: Set up your network in minutes with the powerful Aginet app.
+Remote Management: Supports TAUC (TP-Link Aginet Unified Cloud, based on TR-369) along with OMCI, TR-069, TR-098, TR-181, TR-111, and TR-143 protocols.
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput, coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+**Use of Wi-Fi 6 (802.11ax), and features including OFDMA, DL/UL MU-MIMO, 1024-QAM, and WPA3 requires clients to also support the corresponding features.
+†Mesh network requires two or more devices. This product is compatible with standardized EasyMesh technology but has not obtained the Wi-Fi EasyMeshTM certification.
+§Multi-gig or 1000 Mbps internet speeds require compatible service plans and equipment. Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, internet service provider factors, and other environmental conditions.

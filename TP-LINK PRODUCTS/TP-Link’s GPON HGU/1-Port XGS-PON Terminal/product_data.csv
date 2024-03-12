@@ -1,0 +1,40 @@
+Name: 1-Port XGS-PON Terminal
+Price: N/a
+Model: XGZ030
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1A",
+    "Interface": "1 XGS-PON Port\n1 10G RJ45 Port",
+    "Button": "1 Power On/Off Button\n1 Reset Button",
+    "Dimensions ( W x D x H )": "4.72 × 4.72 × 1.1 in (120 × 120 × 27.85 mm)",
+    "IEEE Standards": "IEEE 802.1p, 802.1Q, 802.1X, 802.1D, 802.1w\nIEEE 802.3, 802.3.u, 802.3ab, 802.3x",
+    "Data Rates": "Downstream Speeds: 10 Gbps*\nUpstream Speeds: 10 Gbps*",
+    "Optical Module": "Class E1",
+    "Wavelength": "Upstream: 1270 nm\nDownstream: 1577 nm",
+    "Transmitter": "DFB laser",
+    "Receiver": "Super-TIA",
+    "Distance": "0–20 Km Max",
+    "GPON Standards": "ITU-T G.9907.1, ITU-T G.988"
+  },
+  "SOFTWARE FEATURES": {
+    "Management": "Local management: WebGUI, Telnet\nRemote management: OMCI",
+    "Security": "AES encryption\nPacket filter based on VLAN",
+    "Advanced Features": "Upstream and Downstream FEC, \nDynamic Bandwidth Allocation (DBA) support NSR/SR\nUp to 32 T-CONTs and 256 GEM ports\nOptical power detection\nDying Gasp\nTerminal Silent mechanism\n802.3az EEE energy conservation\nSchedule Reboot\nLED Schedule",
+    "VLAN": "802.1Q tag VLAN, Q in Q VLAN\nVLAN transparent mode/VLAN translation\nmode/VLAN trunk mode\nAuthentication based on SN and  password",
+    "IGMP": "IGMP v1/v2/v3"
+  },
+  "OTHERS": {
+    "Package Contents": "XGS-PON Terminal\nPower Adapter\nRJ45 Ethernet Cable\nQuick Installation Guide",
+    "Environment": "Operating Temperature: 0℃–40℃ (32℉–104℉)\nStorage Temperature: -40℃–60℃ (-40℉–140℉)\nOperating Humidity: 10%–90% non-condensing\nStorage Humidity: 5%–90% non-condensing",
+    "Certifications": "CE, FCC, RoHS",
+    "Requirements": "Microsoft Windows 98SE/NT/2000/XP/Vista™/7/8/8.1/10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0, or other Java-enabled browser\nSubscription with an internet service provider (for internet access)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port XGS-PON Terminal\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\1-Port XGS-PON Terminal\image_2.png
+Highlights: Symmetrical 10G Connectivity: XGS-PON technology delivers 10 Gbps upstream and downstream transmissions simultaneously.*
+10G Wired Connections: 1× 10 GbE LAN port enables ultra-fast network sharing and connections.
+Ease of Use: Quick and hassle-free installation with intelligent power-saving.
+Remote Management: Supports the OMCI (ONU Management Control Interface) protocol for centralized configuration and management.
+ Content Notes: *Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, Internet service provider factors and other environmental conditions.

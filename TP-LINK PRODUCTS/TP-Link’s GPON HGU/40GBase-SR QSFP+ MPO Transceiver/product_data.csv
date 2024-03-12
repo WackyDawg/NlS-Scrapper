@@ -1,0 +1,30 @@
+Name: 40GBase-SR QSFP+ MPO Transceiver
+Price: N/a
+Model: TL-SM7110-SR
+Specifications: ""
+Table Data: {
+  "QSFP+ Module": {
+    "Wavelength": "830 nm - 870 nm (Typ. 850 nm)",
+    "Connector": "Device: QSFP+\nFiber: MPO",
+    "Fiber Type": "Multi-mode (50/125 MMF)",
+    "Data Rate": "40GBASE-SR4 at 10.3124 Gbps per Lane",
+    "Extinction Ratio": "&gt; 3 dB",
+    "Receiver Sensitivity": "≤ -10.2 dBm",
+    "Rx Optical Power Tolerance": "&gt; 2.5 dBm",
+    "Transmission Distance": "Max. 150m (OM3)",
+    "Hot Swap": "Yes",
+    "Nominal Voltage": "3.3 V (&lt; ± 5％)",
+    "Diagnostic Funotion": "Monitors parameters such as voltage, transceiver power, and temperature",
+    "Electrical Level": "Data Interface: CML\nControl Interface: LVTTL",
+    "Package": "QSFP+ Transceiver TL-SM7110-SR\nQuick Installation Guide",
+    "Tx Optical Power": "6～2.4dbm",
+    "Saturation Optical Power": "＞2.5 dBm"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\40GBase-SR QSFP+ MPO Transceiver\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\40GBase-SR QSFP+ MPO Transceiver\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\40GBase-SR QSFP+ MPO Transceiver\image_3.png
+Highlights: Enables ultra-fast fiber connections up to 41.25 Gbps over OM3 fiber within 150 m*
+Supports 40GBASE-SR4/QDR application and compatible with QSFP+ Electrical MSA SFF-8436.
+Supports hot swapping feature for quick and easy installation and application.
+Supports the OMCI protocol and DDM (Digital Diagnostics Monitoring) for centralized management and real-time monitoring.
+ Content Notes: *Actual data throughput is not guaranteed and may vary as a result of network conditions, client limitations, the rate supported by the network cable, internet service provider factors, and other environmental factors.

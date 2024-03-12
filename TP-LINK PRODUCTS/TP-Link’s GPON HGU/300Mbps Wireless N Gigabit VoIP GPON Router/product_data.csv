@@ -1,0 +1,55 @@
+Name: 300Mbps Wireless N Gigabit VoIP GPON Router
+Price: N/a
+Model: XN020-G3v
+Specifications: ""
+Table Data: {
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4GHz",
+    "Signal Rate": "300Mbps at 2.4GHz",
+    "Transmit Power": "&lt;20dBm (2.4GHz)",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions",
+    "Wireless Schedule": "Support 2.4GHz Schedule"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Quality of Service": "Hardware QoS",
+    "Port Forwarding": "Virtual Server, Port Triggering, DMZ, ALG, UPnP",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "Security": "NAT Firewall, SPI Firewall, Access Control, MAC/URL Filtering, Denial of Service (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding",
+    "Advanced Functions": "SN, Password, SN + Password Authentication Mode\nUpstream and Downstream FEC, AES encryption\nDynamic Bandwidth Allocation(DBA) support NSR/SR\n802.1Q VLAN, Static Routing;\nIGMP v1/v2 /v3\n16 T-CONTs, 256 GEM Ports",
+    "Management": "OMCI, Web Based Configuration, Command Line Interface, SSL for TR-069, OMCI Based Firmware Upgrade",
+    "IPSec VPN": "Support up to 10 IPSec VPN tunnels",
+    "Protocols": "Support IPv4 and IPv6",
+    "WAN Connection Type": "PPPoE, Dynamic IP, Static IP, Bridge",
+    "IGMP": "IGMP v1/v2/v3"
+  },
+  "OTHERS": {
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 , or other Java-enabled browser\nCable or DSL Modem",
+    "Environment": "Operating Temperature: 0℃~40℃(32℉~104℉)\nStorage Temperature: -40℃~70℃(-40℉~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing",
+    "Package Contents": "300Mbps Wireless N Gigabit VoIP GPON Router XN020-G3v\nRJ11 Phone Cable\nRJ45 Ethernet Cable\nQuick Installation Guide\nPower Adapter",
+    "Certifications": "CE, Anatel"
+  },
+  "HARDWARE FEATURES": {
+    "Dimensions ( W x D x H )": "7.1 ×4.9× 1.4 in. (181.5 ×125.7 ×36.2mm)",
+    "Antenna Gain": "2X2，2.4G 5dBi",
+    "Optical Module": "Class C+",
+    "Optical Wavelength": "Transmit at 1310nm Receive at 1490nm",
+    "Transmission Distance": "0 ~ 20Km Max",
+    "Bandwidth": "Downstream up to 2.488Gbps Upstream up to 1.244Gbps Max",
+    "Receiver": "APD-TIA",
+    "Transmitter": "DFB Laser",
+    "Interface": "1* SC/APC port\n\n1* 10/100/1000Mbps LAN Port\n\n1* 10/100Mbps LAN Port\n\n1 FXS Port",
+    "Button": "Power On/Off Button, Reset Button, WPS/Wi-Fi Buttion",
+    "External Power Supply": "12V/0.6A",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "Wireless Standards": "IEEE 802.11g, 802.11b,802.11n",
+    "GPON Standards": "ITU G.984.1\n\nITU G.984.2\n\nITU G.984.3\n\nITU G.984.4"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\300Mbps Wireless N Gigabit VoIP GPON Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\300Mbps Wireless N Gigabit VoIP GPON Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\300Mbps Wireless N Gigabit VoIP GPON Router\image_3.png
+Highlights: A GPON modem with wireless AP and 2-port Switch
+Compliant with the ITU-T G.984/G.988 GPON standards, XN020-G3 supports maximum data rates of up to 2.488Gbps downstream and 1.244Gbps upstream.
+TR-069 protocol enables an operator to remotely configure and manage end-user devices.
+ Content Notes: 

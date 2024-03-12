@@ -1,0 +1,59 @@
+Name: N300 4G LTE Telephony WiFi Router
+Price: N/a
+Model: TL-MR6500v
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/1A",
+    "Interface": "1× 10/100 Mbps LAN/WAN Port\n2× 10/100 Mbps LAN Ports\n1× Phone Port\n1× Micro SIM Card Slot\n2× External SMA-F Antenna Interface",
+    "Button": "WPS/RESET Button, Wi-Fi ON/OFF Button",
+    "Antenna": "2× Detachable External 4G LTE Antennas",
+    "Dimensions ( W x D x H )": "7.95 × 5.55 × 1.32 in (202 × 141 × 33.6 mm)"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4 GHz",
+    "Signal Rate": "300Mbps at 2.4GHz",
+    "Reception Sensitivity": "11g 54M: -74 dBm\n11n HT20: -71 dBm\n11n HT40: -67 dBm",
+    "Wireless Functions": "Enable/Disable Wireless Radio, Wireless Schedule, WMM, Wireless\nStatistics",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions",
+    "Wireless Standards": "IEEE 802.11b, 802.11g, 802.11n",
+    "Network Type": "4G: FDD-LTE B1/B3/B7/B8/B20 (2100/1800/2600/900/800 MHz)\nTDD-LTE B38/B40/B41 (2600/2300/2500 MHz)\n3G: DC-HSPA+/HSPA+/HSPA/UMTS B1/B8 (2100/900 MHz)",
+    "WAN Failover": "Yes"
+  },
+  "SOFTWARE FEATURES": {
+    "WAN Type": "Dynamic IP/Static IP/PPPoE/PPTP(Dual Access)/L2TP(Dual Access)",
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation",
+    "Port Forwarding": "Virtual Server, Port Triggering, UPnP, DMZ",
+    "Quality of Service": "WMM, QoS",
+    "Dynamic DNS": "TP-Link DDNS, DynDns, NO-IP",
+    "VPN Pass-Through": "PPTP, L2TP, IPSec",
+    "Access Control": "Parental Controls, Local Management Control, Host List, Access Control",
+    "Firewall Security": "DoS, SPI Firewall, IP and MAC Address Binding",
+    "Management": "Access Control, Local Management, Remote Management",
+    "Protocols": "Supports IPv4 and IPv6",
+    "Operating Modes": "3G/4G Router, Wireless Router",
+    "Guest Network": "2.4 GHz Guest Network",
+    "VPN Server": "PPTP VPN, OpenVPN"
+  },
+  "OTHERS": {
+    "Certification": "CE, RoHS",
+    "Package Contents": "300 Mbps Wireless N 4G LTE Telephony Router, TL-MR6500v\nRJ45 Ethernet Cable\n1.5m Power Adapter\nQuick Installation Guide",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1, 10\nMAC OS, NetWare, UNIX or Linux\n\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, \nSafari 4.0 browsers or higher, or other Java-enabled browsers\nMicro SIM Card",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  },
+  "TELEPHONY": {
+    "VoIP Standards": "SIP(RFC3261)/RTP(RFC1889/3550), G.711A/u, G.729AB, G.726",
+    "Integrated Answering Machine": "Stores 100 minutes long voice messages internally on the modem router",
+    "Advanced Telephone Functions": "Call Blocking, Anonymous Call Blocks, Speed Dial, Emergency Number"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_4.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_5.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\N300 4G LTE Telephony WiFi Router\image_6.png
+Highlights: Cutting-edge 4G network – share internet access with up to 32 Wi-Fi devices and enjoy download speeds of up to 150 Mbps*
+Plug a SIM card and play – no configurations needed, compatibility for SIM cards in 100+ countries are assured by years of field tests
+WiFi speeds up to 300 Mbps – enjoy uninterrupted HD movies, rapid file downloads, seamless video chats, and more at the same time*
+Professional voice functions – supports VoLTE/CSFB/VoIP functions and provides 50 MB of internal storage for 100 minutes of voicemail
+Two detachable advanced LTE antennas – enjoy stable and efficient connections to every device thanks to the two external antennas
+Wi-Fi router mode – plug an Ethernet cable into the LAN/WAN port for flexible access if you can't get a 4G connection
+ Content Notes: *Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+Actual network speed may be limited by the rate of the product's Ethernet WAN or LAN port, the rate supported by the network cable, Internet service provider factors and other environmental conditions.

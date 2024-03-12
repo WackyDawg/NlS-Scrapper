@@ -1,0 +1,47 @@
+Name: 300Mbps Wireless N Gigabit GPON Router
+Price: N/a
+Model: XN020-G3
+Specifications: ""
+Table Data: {
+  "HARDWARE FEATURES": {
+    "External Power Supply": "12V/0.6A",
+    "Wireless Standards": "IEEE 802.11g, 802.11b,802.11n",
+    "Interface": "1SC/APC Port, 1 10/100/1000Mbps LAN Port",
+    "Button": "Reset Button",
+    "Dimensions ( W x D x H )": "4.5×4.2×1.0 in. (115×106.7×24.3mm)",
+    "IEEE Standards": "IEEE 802.3, IEEE 802.3u, 802.3ab",
+    "Antenna Type": "External , 2 x 2 5dBi for 2.4GHz",
+    "GPON Standards": "ITU G.984.1, ITU G.984.2, ITU G.984.3, ITU G.984.4, ITU G.988"
+  },
+  "WIRELESS FEATURES": {
+    "Frequency": "2.4GHz",
+    "Signal Rate": "300Mbps at 2.4GHz",
+    "Wireless Functions": "Enable/Disable Wireless Radio, WMM, Wireless Statistics",
+    "Wireless Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK encryptions",
+    "Wireless Standards": "IEEE 802.11g, 802.11b,802.11n",
+    "Transmission Power": "&lt;20dBm (2.4GHz)",
+    "Wireless Schedule": "Support 2.4GHz Schedule"
+  },
+  "SOFTWARE FEATURES": {
+    "DHCP": "Server, Client, DHCP Client List, Address Reservation, DHCP Relay",
+    "Port Forwarding": "Virtual Server, DMZ, ALG, UPnP",
+    "Quality of Service": "ATM QoS, QoS",
+    "Dynamic DNS": "DynDns, NO-IP",
+    "Management": "OMCI, Web Based Configuration, Command Line Interface, SSL for TR-069, OMCI Based Firmware Upgrade",
+    "Security": "NAT Firewall, SPI Firewall, Access Control, MAC/URL Filtering, Denial of Service (DoS), SYN Flooding, Ping of Death, IP and MAC Address Binding",
+    "Advanced Functions": "SN, Password, SN + Password Authentication Mode, Upstream and Downstream FEC, AES encryption, Dynamic Bandwidth, Allocation(DBA) support NSR/SR, 802.1Q VLAN, Static Routing, IGMP v1/v2/v3, 16 T-CONTs, 256 GEM Ports",
+    "Protocols": "Supports IPv4 and IPv6"
+  },
+  "OTHERS": {
+    "Certification": "CE",
+    "Package Contents": "300Mbps Wireless N Gigabit GPON Router XN020-G3\nRJ45 Ethernet Cable\nQuick Installation Guide\nPower Adapter",
+    "System Requirements": "Microsoft Windows 98SE, NT, 2000, XP, Vista™ or Windows 7, 8, 8.1,10, MAC OS, NetWare, UNIX or Linux\nInternet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 , or other Java-enabled browser",
+    "Environment": "Operating Temperature: 0℃~40℃ (32℉ ~104℉)\nStorage Temperature: -40℃~70℃ (-40℉ ~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\300Mbps Wireless N Gigabit GPON Router\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link’s GPON HGU\300Mbps Wireless N Gigabit GPON Router\image_2.png
+Highlights: A GPON modem with wireless AP and 1-port Switch
+Compliant with the ITU-T G.984/G.988 GPON standards, XN020-G3 supports maximum data rates of up to 2.488Gbps downstream and 1.244Gbps upstream.
+TR-069 protocol enables an operator to remotely configure and manage end-user devices.
+ Content Notes: 
