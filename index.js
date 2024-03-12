@@ -1,40 +1,39 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
 
 // Function to create a directory if it doesn't exist
-const createDirectory = (directory) => {
-    if (!fs.existsSync(directory)) {
-        fs.mkdirSync(directory, { recursive: true });
+const createDirectory = async (directory) => {
+    try {
+        await fs.mkdir(directory, { recursive: true });
+    } catch (error) {
+        throw new Error(`Error creating directory: ${error.message}`);
     }
+};
+
+const scrapeContentNotes = async (page) => {
+    return await page.evaluate(() => {
+        const contentNotes = Array.from(document.querySelectorAll('.overview-content-note p'));
+        const notes = contentNotes.map(note => note.textContent.trim());
+        return notes.join('\n');
+    });
 };
 
 const scrapeTable = async (page) => {
     return await page.evaluate(() => {
         const tableData = {};
-        const tables = Array.from(document.querySelectorAll('.data-table'));
+        const tables = Array.from(document.querySelectorAll('.sp-wrap table'));
 
         tables.forEach(table => {
-            const category = table.querySelector('th').textContent.trim();
-            tableData[category] = {};
+            const categoryName = table.querySelector('thead th').textContent.trim();
+            tableData[categoryName] = {};
 
-            let currentCategory = null; // Store the current category temporarily
-
-            Array.from(table.querySelectorAll('tbody tr')).forEach(row => {
-                // If the row has a th, update the current category
-                const th = row.querySelector('th');
-                if (th) {
-                    currentCategory = th.textContent.trim();
-                    tableData[category][currentCategory] = {};
-                } else {
-                    // Otherwise, add the key-value pair to the current category
-                    const cells = Array.from(row.querySelectorAll('td'));
-                    if (cells.length === 2 && currentCategory) {
-                        const key = cells[0].textContent.trim();
-                        const value = cells[1].textContent.trim();
-                        tableData[category][currentCategory][key] = value;
-                    }
-                }
+            const rows = Array.from(table.querySelectorAll('tbody tr'));
+            rows.forEach(row => {
+                const cells = Array.from(row.querySelectorAll('th, td'));
+                const key = cells[0].textContent.trim();
+                const value = cells[1].innerHTML.replace(/<br>/g, '\n').trim();
+                tableData[categoryName][key] = value;
             });
         });
 
@@ -42,26 +41,48 @@ const scrapeTable = async (page) => {
     });
 };
 
+
 const scrapeAddons = async (page) => {
-    return await page.evaluate(() => {
+    return page.evaluate(() => {
         const addonsData = [];
         const addons = Array.from(document.querySelectorAll('.dLWjTj'));
 
         addons.forEach(addon => {
-            const addonName = addon.querySelector('.sc-nmmoyz-5').textContent.trim();
-            const addonPrice = addon.querySelector('.sc-nmmoyz-8').textContent.trim();
+            const addonName = addon.querySelector('.title').textContent.trim();
             const addonSpecifications = Array.from(addon.querySelectorAll('.sc-nmmoyz-12')).map(spec => spec.textContent.trim());
 
             addonsData.push({
                 name: addonName,
-                price: addonPrice,
                 specifications: addonSpecifications
             });
         });
-        console.log(addonsData)
 
         return addonsData;
     });
+};
+
+const scrapeImages = async (page, productDirectory) => {
+    const imageSelectors = '.thumb-pic'; // Selector for the images
+    const imagePaths = [];
+
+    const images = await page.$$eval(imageSelectors, imgs => {
+        return imgs.map(img => img.style.backgroundImage.match(/url\("([^"]+)"/)[1]);
+    });
+
+    for (let i = 0; i < images.length; i++) {
+        try {
+            const imageUrl = images[i];
+            const imagePath = path.join(productDirectory, `image_${i + 1}.png`);
+            const response = await page.goto(imageUrl);
+            await fs.writeFile(imagePath, await response.buffer());
+            imagePaths.push(imagePath);
+            console.log(`Image ${i + 1} saved: ${imagePath}`);
+        } catch (error) {
+            console.log(`Error saving image ${i + 1}: ${error.message}`);
+        }
+    }
+
+    return imagePaths;
 };
 
 (async () => {
@@ -69,48 +90,59 @@ const scrapeAddons = async (page) => {
     const page = await browser.newPage();
 
     // URL of the catalog page
-    const catalogPageUrl = 'https://store.ui.com/us/en?category=accessories-cables-dacs';
+    const catalogPageUrl = 'https://service-provider.tp-link.com/wifi-router/?p=2#product';
 
-    await page.goto(catalogPageUrl);
-    await page.waitForSelector('.sc-qb5aln-5');
+    try {
+        await page.goto(catalogPageUrl);
+        await page.waitForSelector('.product-link');
 
-    // Extracting product links
-    const productLinks = await page.$$eval('.sc-qb5aln-5', links => links.map(link => link.href));
+        // Extracting product links
+        const productLinks = await page.$$eval('.product-link', links => links.map(link => link.href));
 
-    for (const productLink of productLinks) {
-        const productPage = await browser.newPage();
-        await productPage.goto(productLink);
+        for (const productLink of productLinks) {
+            const productPage = await browser.newPage();
+            await productPage.goto(productLink);
 
-        // Extracting product details
-        const productName = await productPage.$eval('.sc-nmmoyz-5', element => element.textContent.trim());
-        const productPrice = await productPage.$eval('.sc-nmmoyz-8', element => element.textContent.trim());
-        const productSpecifications = await productPage.$$eval('.sc-nmmoyz-12', specifications => specifications.map(spec => spec.textContent.trim()));
+            try {
+                // Extracting product details
+                const productName = await productPage.$eval('.title', element => element.textContent.trim());
+                const productModel = await productPage.$eval('.model', element => element.textContent.trim());
+                const productSpecifications = await productPage.$$eval('.sc-nmmoyz-12', specifications => specifications.map(spec => spec.textContent.trim()));
 
-        // Extracting features text
-        const featuresText = await productPage.$eval('.sc-17lc73y-5', div => div.innerText.trim());
+                // Scrape table data
+                const tableData = await scrapeTable(productPage);
 
-        // Scrape table data
-        const tableData = await scrapeTable(productPage);
+                // Scrape addons data
+                const addonsData = await scrapeAddons(productPage);
 
-        // Scrape addons data
-        const addonsData = await scrapeAddons(productPage);
+                // Scrape highlights
+                const highlights = await productPage.$eval('.highlights', div => div.innerText.trim());
+                const contentNotes = await scrapeContentNotes(productPage);
 
-        // Creating directory for the product
-        const productDirectory = path.join(__dirname, './ubiquiti_accessories', productName);
-        createDirectory(productDirectory);
+                // Creating directory for the product
+                const productDirectory = path.join(__dirname, './TP-Link 4G/5G Router', productName);
+                await createDirectory(productDirectory);
 
-        // Format data for CSV
-        const csvData = `Name: ${productName}\nPrice: ${productPrice}\nProduct URL: ${productLink}\nSpecifications: "${productSpecifications.join('\n\n')}"\nFeatures: "${featuresText}"\nTable Data: ${JSON.stringify(tableData, null, 2)}\nAddons: ${JSON.stringify(addonsData, null, 2)}`;
+                // Save images
+                const imagePaths = await scrapeImages(productPage, productDirectory);
 
-        // Save data to CSV
-        const csvFilePath = path.join(productDirectory, 'product_data.csv');
-        fs.writeFileSync(csvFilePath, csvData);
+                // Format data for CSV
+                const csvData = `Name: ${productName}\nPrice: N/a\nModel: ${productModel}\nSpecifications: "${productSpecifications.join('\n\n')}"\nTable Data: ${JSON.stringify(tableData, null, 2)}\nAddons: ${JSON.stringify(addonsData, null, 2)}\nImages: ${imagePaths.join(', ')}\nHighlights: ${highlights}\n Content Notes: ${contentNotes}`;
 
-        console.log(`Product '${productName}' details saved in directory: ${productDirectory}`);
-        //console.log(productLink);
+                // Save data to CSV
+                const csvFilePath = path.join(productDirectory, 'product_data.csv');
+                await fs.writeFile(csvFilePath, csvData);
 
-        await productPage.close();
+                console.log(`Product '${productName}' details saved in directory: ${productDirectory}`);
+            } catch (error) {
+                console.log(`Error processing product: ${error.message}`);
+            }
+
+            await productPage.close();
+        }
+    } catch (error) {
+        console.log(`Error accessing catalog page: ${error.message}`);
+    } finally {
+        await browser.close();
     }
-
-    await browser.close();
 })();
