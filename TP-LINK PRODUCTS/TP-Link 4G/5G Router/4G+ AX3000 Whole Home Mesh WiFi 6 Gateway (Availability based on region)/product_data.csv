@@ -1,0 +1,61 @@
+Name: 4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)
+Price: N/a
+Model: Deco X58-4G
+Specifications: ""
+Table Data: {
+  "OTHERS": {
+    "Certification": "RCM, RoHS",
+    "Package Contents": "<b>1-Pack</b>\n1 Deco X58-4G unit\n1 RJ45 Ethernet cable\n1 RJ11 telephnoy cable\n1 Power adapter\n1 Quick installation guide\n2 SMB to SMA adapters",
+    "Environment": "Operating Temperature: 0°C–40°C (32°F–104°F)\nStorage Temperature: -40°C–60°C (-40°F–140°F)\nOperating Humidity: 10%–90%RH\nStorage Humidity: 5%–90%RH"
+  },
+  "HARDWARE": {
+    "Product Dimensions (W x D x H)": "4.13 × 4.13 × 6.57 in \n(105 × 105 × 167 mm)",
+    "Ports and Connections": "1× Phone Port\n2× 3G/4G External Antenna Ports\n\n<b>Compatibility</b>\n4G:\nFDD-LTE:B1/B3/B5/B7/B8/B20/B28(2100/1800/850/2600/900/80 0/700 MHz)\nTDD-LTE: B38/B40(2600/2300 MHz)\n\n3G: \nDC-HSPA+/HSPA/UMTS B1/B5/B8 (2100/850/900 MHz)",
+    "Buttons": "RESET Button",
+    "Ethernet Ports": "2× Gigabit Ports\n\n*Per Deco Unit\nSupports WAN/LAN auto-sensing"
+  },
+  "WIRELESS": {
+    "WiFi Speeds": "<b>AX3000</b>\n5 GHz: 2402 Mbps (802.11ax)\n2.4 GHz: 574 Mbps (802.11ax)",
+    "Standards": "<b>Wi-Fi 6</b>\nIEEE 802.11ax/ac/n/a 5 GHz\nIEEE 802.11ax/n/b/g 2.4 GHz",
+    "WiFi Range": "<b>1-3 Bedroom Houses (1-pack)</b><hr>TP-Link Mesh Technology\nOptional Ethernet backhaul work together to link Deco units to provide seamless coverage\n\n2 LTE antennas, 2 Wi-Fi antennas (Internal)\nMultiple antennas form a signal-boosting array to cover more directions and large areas\n\nBeamforming\nConcentrates wireless signal strength towards clients to expand WiFi range",
+    "WiFi Capacity": "<b>High</b><hr>Dual-Band\nDistribute devices to different bands for optimal performance\n\nMU-MIMO\nSimultaneously communicates with multiple MU-MIMO clients\n\nOFDMA\nSimultaneously communicates with multiple WiFi 6 clients\n\n4 Streams\nMore than enough bandwidth for connected devices",
+    "Working Modes": "G/3G Router, Wi-Fi Router, Access Point"
+  },
+  "SECURITY": {
+    "WiFi Encryption": "PA/WPA2-PSK/WPA3 encryptions",
+    "Network Security": "SPI Firewall\nAccess Control\n\n<b>HomeShield Security</b><hr>Real-Time IoT Protection\nMalicious Site Blocker\nIntrusion Prevention System\nDDoS Attack Prevention\nHome Network Scanner",
+    "Guest Network": "1× 5 GHz Guest Network\n1× 2.4 GHz Guest Network"
+  },
+  "SOFTWARE": {
+    "Quality of Service": "<b>HomeShield QoS</b><hr>QoS by Device",
+    "NAT Forwarding": "Port Forwarding\nUPnP",
+    "IPTV": "IGMP Proxy\nIGMP Snooping\nBridge\nTag VLAN",
+    "DHCP": "Address Reservation\nDHCP Client List\nServer",
+    "DDNS": "TP-Link",
+    "Management": "Deco App",
+    "Service Kit": "HomeShield\n<a href=\"https://tp-link.com/homeshield\">Learn More&gt;</a>",
+    "Protocols": "IPv4\nIPv6",
+    "WAN Types": "Dynamic IP\nStatic IP\nPPPoE\nL2TP\nPPTP"
+  },
+  "TEST DATA": {
+    "WiFi Transmission Power": "CE: \n≤20 dBm (2.4 GHz)\n≤23 dBm (5 GHz)\n\nRCM:\n≤30 dBm (2.4 GHz)\n≤29 dBm (5 GHz)"
+  }
+}
+Addons: []
+Images: C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_1.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_2.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_3.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_4.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_5.png, C:\Users\DELL\Desktop\NlS Scrapper\TP-Link 4G\5G Router\4G+ AX3000 Whole Home Mesh WiFi 6 Gateway (Availability based on region)\image_6.png
+Highlights: Fast 4G+ Speed: Provides 4G+ CAT18 internet access with speed up to 1200 Mbps.†
+Faster WiFi 6 speeds: Deliver up to 3,000 Mbps dual-band Wi-Fi—2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz†△
+Connect More Devices: OFDMA and MU-MIMO technology quadruple capacity to enable simultaneous transmission to more devices△
+Mesh Network: Multiple units form a whole-home network that auto-selects the best connection as you move around your home.
+Full Gigabit Ports: 2x Gigabit WAN/LAN Ethernet ports provide flexible internet access at warp speed**
+VoLTE Support: Convenient home phone over VoLTE.
+TP-Link HomeShield: Keeps your home network safe with cutting-edge features for network and IoT protection.§
+3G/4G Failover: Flexible access from Ethernet to 3G/4G to prevent data loss.
+Setup Made Easy: The Deco app walks you through the setup step-by-step.
+ Content Notes: △Use of Wi-Fi 6 and other features including OFDMA, MU-MIMO, 1024-QAM, and BSS Color require clients to also support the corresponding features.
+†Maximum wireless signal rates are the physical rates derived from IEEE Standard 802.11 specifications. Actual wireless data throughput and wireless coverage, and quantity of connected devices are not guaranteed and will vary as a result of network conditions, client limitations, and environmental factors, including building materials, obstacles, volume and density of traffic, and client location.
+‡Clients need to support 802.11k/v/r and may require additional set up. Performance may vary depending on the client's device.
+§HomeShield includes the Free Basic Plan. Fees apply for the Pro Plan. Visit tp-link/homeshield for more information.
+^Deco Mesh Hybrid Gateway System will be enabled in 2022.
+*Acutual 4G downlink speeds vary between households. Factors affecting 4G speeds include the internet service level, real-time network capacity, equipment and client limitations, environmental factors.
+**All WAN/LAN ports will operate as either WAN or LAN ports. Only one port can serve as a WAN port at a time.
