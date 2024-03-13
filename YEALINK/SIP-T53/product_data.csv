@@ -1,0 +1,47 @@
+Name: SIP-T53
+
+SIP-T53 specifications:
+
+**Download Overview**
+- **Operating System**: Linux Based
+- **Camera**: -
+- **Content Sharing**: √
+- **Interface**: LCD Display
+  - **LCD Type**: Adjustable
+  - **Size**: 3.7" 360 x 160 Pixels Graphical Display
+- **LED Indicators**: √
+- **Line Keys**: 8
+- **Memory Keys**: 21 (3 Pages of 7 Keys)
+- **Expansion Module/Microphone (Accessory, purchased separately)**: Yealink EXP50
+- **Foot Stand**: 1 Adjustable Angle
+
+**Audio Features**
+- **HD Voice**: HD Handset, HD Speaker
+- **Speakerphone**: Full-duplex
+- **Wideband Codec**: G.722, Opus
+- **Narrowband Codec**: G.711(A/µ), G.729, G729A, G.726, G.723.1, iLBC
+- **HAC Handset**: √
+- **Acoustic Shield**: √
+- **Yealink Noise Proof**: -
+
+**Video Features**
+- **Video Resolution**: -
+- **Video Codecs**: -
+
+**Connectivity**
+- **USB Port (2.0 Compliant)**: 1
+- **Ethernet Port**: Dual-port Gigabit Ethernet
+- **Handset Port (RJ-9)**: √
+- **Headset Port (RJ-9)**: √
+- **PoE**: √
+- **Headset**: USB/Bluetooth/RJ9
+  - **Bluetooth**: √ (Via Yealink BT40)
+  - **Wi-Fi**: √ (Via Yealink WF40/WF50)
+- **HDMI**: -
+- **Wall Mountable**: √
+- **Corded-Cordless Phone**: √
+- **Door Phone Integration**: -
+
+**Telephony Features**
+- **SIP Accounts**: 15
+- **N-way Conferencing**: 5-way Conferencing

@@ -13,7 +13,7 @@ const createDirectory = async (directory) => {
 
 const scrapeContentNotes = async (page) => {
     return await page.evaluate(() => {
-        const contentNotes = Array.from(document.querySelectorAll('.overview-content-note p'));
+        const contentNotes = Array.from(document.querySelectorAll('.con'));
         const notes = contentNotes.map(note => note.textContent.trim());
         return notes.join('\n');
     });
@@ -62,7 +62,7 @@ const scrapeAddons = async (page) => {
 };
 
 const scrapeImages = async (page, productDirectory) => {
-    const imageSelectors = '.thumb-pic'; // Selector for the images
+    const imageSelectors = '.r-bg'; // Selector for the images
     const imagePaths = [];
 
     const images = await page.$$eval(imageSelectors, imgs => {
@@ -90,14 +90,14 @@ const scrapeImages = async (page, productDirectory) => {
     const page = await browser.newPage();
 
     // URL of the catalog page
-    const catalogPageUrl = encodeURI('https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-remgmt/');
+    const catalogPageUrl = encodeURI('https://www.yealink.com/en/product-list/ip-phone');
 
     try {
         await page.goto(catalogPageUrl);
-        await page.waitForSelector('.h6');
+        await page.waitForSelector('.pro-item');
 
         // Extracting product links
-        const productLinks = await page.$$eval('.h6', links => links.map(link => link.href));
+        const productLinks = await page.$$eval('.pro-item a', links => links.map(link => link.href));
 
         for (const productLink of productLinks) {
             const productPage = await browser.newPage();
@@ -105,10 +105,10 @@ const scrapeImages = async (page, productDirectory) => {
 
             try {
                 // Extracting product details
-                const productName = await productPage.$eval('.h6', element => element.textContent.trim());
-                const productModel = await productPage.$eval('.model', element => element.textContent.trim());
-                const productSpecifications = await productPage.$$eval('.sc-nmmoyz-12', specifications => specifications.map(spec => spec.textContent.trim()));
-console.log(productName)
+                const productName = await productPage.$eval('.c-f48', element => element.textContent.trim());
+                // const productModel = await productPage.$eval('.model', element => element.textContent.trim());
+                const productSpecifications = await productPage.$$eval('.con', specifications => specifications.map(spec => spec.textContent.trim()));
+                console.log(productName)
                 // Scrape table data
                 const tableData = await scrapeTable(productPage);
 
@@ -116,18 +116,18 @@ console.log(productName)
                 const addonsData = await scrapeAddons(productPage);
 
                 // Scrape highlights
-                const highlights = await productPage.$eval('.highlights', div => div.innerText.trim());
+                const highlights = await productPage.$eval('.c-f18', div => div.innerText.trim());
                 const contentNotes = await scrapeContentNotes(productPage);
-
+                console.log(highlights)
                 // Creating directory for the product
-                const productDirectory = path.join(__dirname, './TP-Link 4G/5G Router', productName);
+                const productDirectory = path.join(__dirname, './YEALINK', productName);
                 await createDirectory(productDirectory);
 
                 // Save images
                 const imagePaths = await scrapeImages(productPage, productDirectory);
 
                 // Format data for CSV
-                const csvData = `Name: ${productName}\nPrice: N/a\nModel: ${productModel}\nSpecifications: "${productSpecifications.join('\n\n')}"\nTable Data: ${JSON.stringify(tableData, null, 2)}\nAddons: ${JSON.stringify(addonsData, null, 2)}\nImages: ${imagePaths.join(', ')}\nHighlights: ${highlights}\n Content Notes: ${contentNotes}`;
+                const csvData = `Name: ${productName}\nPrice: N/a\nModel: ${productModel}\nSpecifications: "${productSpecifications.join('\n\n')}"\nTable Data: ${JSON.stringify(tableData, null, 2)}\nAddons: ${JSON.stringify(addonsData, null, 2)}\nImages: ${imagePaths.join(', ')}\nHighlights: ${highlights}\n More Details: ${contentNotes}`;
 
                 // Save data to CSV
                 const csvFilePath = path.join(productDirectory, 'product_data.csv');
