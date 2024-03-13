@@ -90,14 +90,14 @@ const scrapeImages = async (page, productDirectory) => {
     const page = await browser.newPage();
 
     // URL of the catalog page
-    const catalogPageUrl = 'https://service-provider.tp-link.com/wifi-router/?p=2#product';
+    const catalogPageUrl = encodeURI('https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-remgmt/');
 
     try {
         await page.goto(catalogPageUrl);
-        await page.waitForSelector('.product-link');
+        await page.waitForSelector('.h6');
 
         // Extracting product links
-        const productLinks = await page.$$eval('.product-link', links => links.map(link => link.href));
+        const productLinks = await page.$$eval('.h6', links => links.map(link => link.href));
 
         for (const productLink of productLinks) {
             const productPage = await browser.newPage();
@@ -105,10 +105,10 @@ const scrapeImages = async (page, productDirectory) => {
 
             try {
                 // Extracting product details
-                const productName = await productPage.$eval('.title', element => element.textContent.trim());
+                const productName = await productPage.$eval('.h6', element => element.textContent.trim());
                 const productModel = await productPage.$eval('.model', element => element.textContent.trim());
                 const productSpecifications = await productPage.$$eval('.sc-nmmoyz-12', specifications => specifications.map(spec => spec.textContent.trim()));
-
+console.log(productName)
                 // Scrape table data
                 const tableData = await scrapeTable(productPage);
 
